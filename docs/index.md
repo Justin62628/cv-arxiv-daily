@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -44,10 +44,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-26**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
+|**2023-10-27**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
 |**2023-10-26**|**Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**|Fengyuan Shi et.al.|[2310.17177](http://arxiv.org/abs/2310.17177)|null|
 |**2023-10-25**|**netFound: Foundation Model for Network Security**|Satyandra Guthula et.al.|[2310.17025](http://arxiv.org/abs/2310.17025)|null|
-|**2023-10-25**|**MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory**|Yinan Liang et.al.|[2310.16898](http://arxiv.org/abs/2310.16898)|null|
+|**2023-10-27**|**MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory**|Yinan Liang et.al.|[2310.16898](http://arxiv.org/abs/2310.16898)|null|
 |**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836](http://arxiv.org/abs/2310.16836)|**[link](https://github.com/nbasyl/llm-fp4)**|
 |**2023-10-25**|**ConvNets Match Vision Transformers at Scale**|Samuel L. Smith et.al.|[2310.16764](http://arxiv.org/abs/2310.16764)|null|
 |**2023-10-25**|**A No-Reference Quality Assessment Method for Digital Human Head**|Yingjie Zhou et.al.|[2310.16732](http://arxiv.org/abs/2310.16732)|null|
@@ -66,7 +66,7 @@ layout: default
 |**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590](http://arxiv.org/abs/2310.17590)|null|
 |**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656](http://arxiv.org/abs/2310.16656)|null|
 |**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573](http://arxiv.org/abs/2310.16573)|null|
-|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
+|**2023-10-27**|**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
 |**2023-10-20**|**TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models**|Tianshi Cao et.al.|[2310.13772](http://arxiv.org/abs/2310.13772)|null|
 |**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730](http://arxiv.org/abs/2310.13730)|null|
@@ -79,9 +79,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
+|**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
-|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
+|**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
