@@ -55,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956](http://arxiv.org/abs/2310.17956)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
 |**2023-10-27**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
 |**2023-10-26**|**Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**|Fengyuan Shi et.al.|[2310.17177](http://arxiv.org/abs/2310.17177)|null|
 |**2023-10-25**|**netFound: Foundation Model for Network Security**|Satyandra Guthula et.al.|[2310.17025](http://arxiv.org/abs/2310.17025)|null|
@@ -76,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
 |**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590](http://arxiv.org/abs/2310.17590)|null|
 |**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656](http://arxiv.org/abs/2310.16656)|null|
 |**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573](http://arxiv.org/abs/2310.16573)|null|
@@ -94,6 +96,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
+|**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
 |**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858](http://arxiv.org/abs/2310.16858)|null|
 |**2023-10-26**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
