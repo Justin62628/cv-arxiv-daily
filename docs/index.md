@@ -29,7 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653](http://arxiv.org/abs/2310.12653)|null|
+|**2023-10-19**|**Product of Gaussian Mixture Diffusion Models**|Martin Zach et.al.|[2310.12653](http://arxiv.org/abs/2310.12653)|**[link](https://github.com/vlogroup/pogmdm)**|
 |**2023-10-16**|**A cross Transformer for image denoising**|Chunwei Tian et.al.|[2310.10408](http://arxiv.org/abs/2310.10408)|**[link](https://github.com/hellloxiaotian/ctnet)**|
 |**2023-10-16**|**PUCA: Patch-Unshuffle and Channel Attention for Enhanced Self-Supervised Image Denoising**|Hyemi Jang et.al.|[2310.10088](http://arxiv.org/abs/2310.10088)|**[link](https://github.com/HyemiEsme/PUCA)**|
 |**2023-10-13**|**Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising**|Hansen Feng et.al.|[2310.09126](http://arxiv.org/abs/2310.09126)|null|
@@ -44,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation**|Fei Zhang et.al.|[2310.19001](http://arxiv.org/abs/2310.19001)|null|
+|**2023-10-29**|**Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods**|Mahdi Salmani et.al.|[2310.18975](http://arxiv.org/abs/2310.18975)|null|
+|**2023-10-29**|**Analyzing Vision Transformers for Image Classification in Class Embedding Space**|Martina G. Vilas et.al.|[2310.18969](http://arxiv.org/abs/2310.18969)|**[link](https://github.com/martinagvilas/vit-cls_emb)**|
+|**2023-10-29**|**Label Poisoning is All You Need**|Rishi D. Jha et.al.|[2310.18933](http://arxiv.org/abs/2310.18933)|null|
+|**2023-10-28**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Yi Wang et.al.|[2310.18653](http://arxiv.org/abs/2310.18653)|**[link](https://github.com/zhu-xlab/fgmae)**|
+|**2023-10-28**|**Local-Global Self-Supervised Visual Representation Learning**|Ali Javidani et.al.|[2310.18651](http://arxiv.org/abs/2310.18651)|**[link](https://github.com/alijavidani/local_global_representation_learning)**|
+|**2023-10-28**|**One-shot Localization and Segmentation of Medical Images with Foundation Models**|Deepa Anand et.al.|[2310.18642](http://arxiv.org/abs/2310.18642)|null|
 |**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956](http://arxiv.org/abs/2310.17956)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
 |**2023-10-27**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
 |**2023-10-26**|**Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**|Fengyuan Shi et.al.|[2310.17177](http://arxiv.org/abs/2310.17177)|null|
@@ -64,6 +71,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
+|**2023-10-28**|**Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models**|Hai Wang et.al.|[2310.18840](http://arxiv.org/abs/2310.18840)|**[link](https://github.com/littlewhitesea/stitchdiffusion)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
 |**2023-10-26**|**Noise-Free Score Distillation**|Oren Katzir et.al.|[2310.17590](http://arxiv.org/abs/2310.17590)|null|
 |**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656](http://arxiv.org/abs/2310.16656)|null|
@@ -81,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
