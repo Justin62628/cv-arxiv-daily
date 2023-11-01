@@ -44,6 +44,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704](http://arxiv.org/abs/2310.20704)|null|
+|**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
+|**2023-10-31**|**In Search of Lost Online Test-time Adaptation: A Survey**|Zixin Wang et.al.|[2310.20199](http://arxiv.org/abs/2310.20199)|null|
+|**2023-10-30**|**Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks**|Micah Goldblum et.al.|[2310.19909](http://arxiv.org/abs/2310.19909)|**[link](https://github.com/hsouri/battle-of-the-backbones)**|
+|**2023-10-30**|**MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder**|Md Motiur Rahman et.al.|[2310.19898](http://arxiv.org/abs/2310.19898)|**[link](https://github.com/rahman-motiur/mist)**|
+|**2023-10-30**|**Autoregressive Attention Neural Networks for Non-Line-of-Sight User Tracking with Dynamic Metasurface Antennas**|Kyriakos Stylianopoulos et.al.|[2310.19767](http://arxiv.org/abs/2310.19767)|null|
+|**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|null|
+|**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|null|
+|**2023-10-30**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542](http://arxiv.org/abs/2310.19542)|null|
 |**2023-10-29**|**Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation**|Fei Zhang et.al.|[2310.19001](http://arxiv.org/abs/2310.19001)|null|
 |**2023-10-29**|**Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods**|Mahdi Salmani et.al.|[2310.18975](http://arxiv.org/abs/2310.18975)|null|
 |**2023-10-29**|**Analyzing Vision Transformers for Image Classification in Class Embedding Space**|Martina G. Vilas et.al.|[2310.18969](http://arxiv.org/abs/2310.18969)|**[link](https://github.com/martinagvilas/vit-cls_emb)**|
@@ -71,6 +80,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
+|**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
+|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-28**|**Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models**|Hai Wang et.al.|[2310.18840](http://arxiv.org/abs/2310.18840)|**[link](https://github.com/littlewhitesea/stitchdiffusion)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
@@ -90,6 +102,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
+|**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
+|**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
