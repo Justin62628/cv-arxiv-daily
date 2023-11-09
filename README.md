@@ -38,6 +38,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614](http://arxiv.org/abs/2311.04614)|null|
+|**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248](http://arxiv.org/abs/2311.04248)|null|
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819](http://arxiv.org/abs/2311.03819)|null|
 |**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995](http://arxiv.org/abs/2311.02995)|null|
 |**2023-11-04**|**Thermal Face Image Classification using Deep Learning Techniques**|Prosenjit Chatterjee et.al.|[2311.02314](http://arxiv.org/abs/2311.02314)|null|
@@ -58,6 +60,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Be Careful When Evaluating Explanations Regarding Ground Truth**|Hubert Baniecki et.al.|[2311.04813](http://arxiv.org/abs/2311.04813)|null|
 |**2023-11-07**|**FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer**|Chi-Chih Chang et.al.|[2311.03912](http://arxiv.org/abs/2311.03912)|**[link](https://github.com/shadowpa0327/flora)**|
 |**2023-11-07**|**Mini but Mighty: Finetuning ViTs with Mini Adapters**|Imad Eddine Marouf et.al.|[2311.03873](http://arxiv.org/abs/2311.03873)|**[link](https://github.com/iemprog/mimi)**|
 |**2023-11-07**|**Lightweight Portrait Matting via Regional Attention and Refinement**|Yatao Zhong et.al.|[2311.03770](http://arxiv.org/abs/2311.03770)|null|
@@ -122,6 +125,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391](http://arxiv.org/abs/2311.04391)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008](http://arxiv.org/abs/2311.03008)|null|
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
 |**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567](http://arxiv.org/abs/2311.01567)|null|
@@ -153,6 +157,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
+|**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965](http://arxiv.org/abs/2311.03965)|null|
 |**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
