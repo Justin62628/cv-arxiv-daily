@@ -29,6 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548](http://arxiv.org/abs/2311.05548)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614](http://arxiv.org/abs/2311.04614)|null|
 |**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248](http://arxiv.org/abs/2311.04248)|null|
 |**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819](http://arxiv.org/abs/2311.03819)|null|
@@ -112,6 +113,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391](http://arxiv.org/abs/2311.04391)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008](http://arxiv.org/abs/2311.03008)|null|
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
@@ -142,6 +144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521](http://arxiv.org/abs/2311.05521)|null|
+|**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400](http://arxiv.org/abs/2311.04400)|null|
 |**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
