@@ -61,7 +61,7 @@ layout: default
 |**2023-11-07**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076](http://arxiv.org/abs/2311.03076)|null|
 |**2023-11-06**|**GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation**|Xuwei Xu et.al.|[2311.03035](http://arxiv.org/abs/2311.03035)|**[link](https://github.com/ackesnal/gtp-vit)**|
 |**2023-11-06**|**Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers**|Hai Phan et.al.|[2311.02803](http://arxiv.org/abs/2311.02803)|null|
-|**2023-11-05**|**CCMR: High Resolution Optical Flow Estimation via Coarse-to-Fine Context-Guided Motion Reasoning**|Azin Jahedi et.al.|[2311.02661](http://arxiv.org/abs/2311.02661)|null|
+|**2023-11-05**|**CCMR: High Resolution Optical Flow Estimation via Coarse-to-Fine Context-Guided Motion Reasoning**|Azin Jahedi et.al.|[2311.02661](http://arxiv.org/abs/2311.02661)|**[link](https://github.com/cv-stuttgart/ccmr)**|
 |**2023-11-05**|**Rotation Invariant Transformer for Recognizing Object in UAVs**|Shuoyi Chen et.al.|[2311.02559](http://arxiv.org/abs/2311.02559)|null|
 |**2023-11-05**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535](http://arxiv.org/abs/2311.02535)|null|
 |**2023-11-03**|**ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation**|Xing Di et.al.|[2311.01929](http://arxiv.org/abs/2311.01929)|null|
@@ -124,7 +124,7 @@ layout: default
 |**2023-11-01**|**Space Narrative: Generating Images and 3D Scenes of Chinese Garden from Text using Deep Learning**|Jiaxi Shi1 et.al.|[2311.00339](http://arxiv.org/abs/2311.00339)|null|
 |**2023-11-06**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
 |**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
-|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
+|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|**[link](https://github.com/tchuanm/iterinv)**|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-28**|**Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models**|Hai Wang et.al.|[2310.18840](http://arxiv.org/abs/2310.18840)|**[link](https://github.com/littlewhitesea/stitchdiffusion)**|
 |**2023-10-27**|**Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models**|Pushkal Katara et.al.|[2310.18308](http://arxiv.org/abs/2310.18308)|null|
@@ -175,7 +175,7 @@ layout: default
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
-|**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
+|**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
