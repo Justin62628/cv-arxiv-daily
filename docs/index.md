@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.14
+## Updated on 2023.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -59,7 +59,7 @@ layout: default
 |**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746](http://arxiv.org/abs/2311.06746)|null|
 |**2023-11-11**|**Traffic Sign Recognition Using Local Vision Transformer**|Ali Farzipour et.al.|[2311.06651](http://arxiv.org/abs/2311.06651)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
-|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176](http://arxiv.org/abs/2311.06176)|null|
+|**2023-11-13**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176](http://arxiv.org/abs/2311.06176)|null|
 |**2023-11-10**|**Vision Big Bird: Random Sparsification for Full Attention**|Zhemin Zhang et.al.|[2311.05988](http://arxiv.org/abs/2311.05988)|null|
 |**2023-11-09**|**Intelligent Cervical Spine Fracture Detection Using Deep Learning Methods**|Reza Behbahani Nejad et.al.|[2311.05708](http://arxiv.org/abs/2311.05708)|null|
 |**2023-11-09**|**FMViT: A multiple-frequency mixing Vision Transformer**|Wei Tan et.al.|[2311.05707](http://arxiv.org/abs/2311.05707)|null|
