@@ -51,6 +51,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Multi-View Spectrogram Transformer for Respiratory Sound Classification**|Wentao He et.al.|[2311.09655](http://arxiv.org/abs/2311.09655)|null|
+|**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653](http://arxiv.org/abs/2311.09653)|null|
+|**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376](http://arxiv.org/abs/2311.09376)|null|
+|**2023-11-15**|**Generalizable Imitation Learning Through Pre-Trained Representations**|Wei-Di Chang et.al.|[2311.09350](http://arxiv.org/abs/2311.09350)|null|
 |**2023-11-15**|**ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy**|Kirill Vishniakov et.al.|[2311.09215](http://arxiv.org/abs/2311.09215)|**[link](https://github.com/kirill-vish/beyond-inet)**|
 |**2023-11-15**|**Imagine the Unseen World: A Benchmark for Systematic Generalization in Visual World Models**|Yeongbin Kim et.al.|[2311.09064](http://arxiv.org/abs/2311.09064)|null|
 |**2023-11-14**|**Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation**|Lukas Tuggener et.al.|[2311.08525](http://arxiv.org/abs/2311.08525)|null|
@@ -138,6 +142,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
+|**2023-11-14**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257](http://arxiv.org/abs/2311.09257)|null|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604](http://arxiv.org/abs/2311.07604)|null|
 |**2023-11-10**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322](http://arxiv.org/abs/2311.06322)|null|
@@ -174,6 +180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
+|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
 |**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
