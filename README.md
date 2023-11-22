@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.21
+## Updated on 2023.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2022-05-31**|**SAR Despeckling Using Overcomplete Convolutional Networks**|Malsha V. Perera et.al.|[2205.15906](http://arxiv.org/abs/2205.15906)|**[link](https://github.com/malshav/sar_overcomplete)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355](http://arxiv.org/abs/2201.09355)|**[link](https://github.com/malshav/sar_transformer)**|
 
-<p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231122>back to top</a>)</p>
 
 ## Denoise
 
@@ -57,7 +57,7 @@
 |**2023-10-13**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664](http://arxiv.org/abs/2310.05664)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 
-<p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231122>back to top</a>)</p>
 
 ## Transformer
 
@@ -157,7 +157,7 @@
 |**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063](http://arxiv.org/abs/2310.14063)|null|
 |**2023-10-21**|**Ophthalmic Biomarker Detection Using Ensembled Vision Transformers -- Winning Solution to IEEE SPS VIP Cup 2023**|H. A. Z. Sameen Shahgir et.al.|[2310.14005](http://arxiv.org/abs/2310.14005)|null|
 
-<p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231122>back to top</a>)</p>
 
 ## Diffusion
 
@@ -168,7 +168,7 @@
 |**2023-11-17**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257](http://arxiv.org/abs/2311.09257)|null|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604](http://arxiv.org/abs/2311.07604)|null|
-|**2023-11-10**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322](http://arxiv.org/abs/2311.06322)|null|
+|**2023-11-18**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322](http://arxiv.org/abs/2311.06322)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214](http://arxiv.org/abs/2311.06214)|null|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461](http://arxiv.org/abs/2311.05461)|null|
@@ -198,7 +198,7 @@
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 
-<p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231122>back to top</a>)</p>
 
 ## NeRF
 
@@ -208,7 +208,7 @@
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
 |**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|null|
-|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|null|
+|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|**[link](https://github.com/caiyuanhao1998/sax-nerf)**|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
 |**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
@@ -253,7 +253,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
-<p align=right>(<a href=#updated-on-20231121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
