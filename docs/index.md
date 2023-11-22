@@ -52,6 +52,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Image Transformation for IoT Time-Series Data: A Review**|Duygu Altunkaya et.al.|[2311.12742](http://arxiv.org/abs/2311.12742)|null|
+|**2023-11-21**|**Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images**|Gauransh Sawhney et.al.|[2311.12589](http://arxiv.org/abs/2311.12589)|null|
+|**2023-11-21**|**"HoVer-UNet": Accelerating HoVerNet with UNet-based multi-class nuclei segmentation via knowledge distillation**|Cristian Tommasino et.al.|[2311.12553](http://arxiv.org/abs/2311.12553)|**[link](https://github.com/diagnijmegen/hover-unet)**|
+|**2023-11-20**|**Disentangling Structure and Appearance in ViT Feature Space**|Narek Tumanyan et.al.|[2311.12193](http://arxiv.org/abs/2311.12193)|null|
+|**2023-11-20**|**Tiny-VBF: Resource-Efficient Vision Transformer based Lightweight Beamformer for Ultrasound Single-Angle Plane Wave Imaging**|Abdul Rahoof et.al.|[2311.12082](http://arxiv.org/abs/2311.12082)|null|
 |**2023-11-19**|**Shape-Sensitive Loss for Catheter and Guidewire Segmentation**|Chayun Kongtongvattana et.al.|[2311.11205](http://arxiv.org/abs/2311.11205)|null|
 |**2023-11-18**|**Contextualizing Internet Memes Across Social Media Platforms**|Saurav Joshi et.al.|[2311.11157](http://arxiv.org/abs/2311.11157)|null|
 |**2023-11-17**|**Multi-entity Video Transformers for Fine-Grained Video Representation Learning**|Matthew Walmer et.al.|[2311.10873](http://arxiv.org/abs/2311.10873)|**[link](https://github.com/facebookresearch/video_rep_learning)**|
@@ -150,6 +155,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-21**|**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**|Peiang Zhao et.al.|[2311.12342](http://arxiv.org/abs/2311.12342)|null|
+|**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229](http://arxiv.org/abs/2311.12229)|null|
+|**2023-11-19**|**EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models**|Ruoxi Chen et.al.|[2311.12066](http://arxiv.org/abs/2311.12066)|null|
+|**2023-11-18**|**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer**|Di Chang et.al.|[2311.12052](http://arxiv.org/abs/2311.12052)|**[link](https://github.com/boese0601/magicdance)**|
 |**2023-11-17**|**The Hidden Linear Structure in Score-Based Models and its Application**|Binxu Wang et.al.|[2311.10892](http://arxiv.org/abs/2311.10892)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-17**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257](http://arxiv.org/abs/2311.09257)|null|
@@ -189,6 +199,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
+|**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
