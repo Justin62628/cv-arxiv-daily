@@ -38,6 +38,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Learning in Deep Factor Graphs with Gaussian Belief Propagation**|Seth Nabarro et.al.|[2311.14649](http://arxiv.org/abs/2311.14649)|null|
+|**2023-11-22**|**TDiffDe: A Truncated Diffusion Model for Remote Sensing Hyperspectral Image Denoising**|Jiang He et.al.|[2311.13622](http://arxiv.org/abs/2311.13622)|null|
 |**2023-11-17**|**SDDPM: Speckle Denoising Diffusion Probabilistic Models**|Soumee Guha et.al.|[2311.10868](http://arxiv.org/abs/2311.10868)|null|
 |**2023-11-11**|**Back to Basics: Fast Denoising Iterative Algorithm**|Deborah Pereg et.al.|[2311.06634](http://arxiv.org/abs/2311.06634)|null|
 |**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548](http://arxiv.org/abs/2311.05548)|null|
@@ -63,6 +65,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**TVT: Training-Free Vision Transformer Search on Tiny Datasets**|Zimian Wei et.al.|[2311.14337](http://arxiv.org/abs/2311.14337)|null|
+|**2023-11-24**|**GeoViT: A Versatile Vision Transformer Architecture for Geospatial Image Analysis**|Madhav Khirwar et.al.|[2311.14301](http://arxiv.org/abs/2311.14301)|null|
+|**2023-11-23**|**FViT-Grasp: Grasping Objects With Using Fast Vision Transformers**|Arda Sarp Yenicesu et.al.|[2311.13986](http://arxiv.org/abs/2311.13986)|null|
+|**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615](http://arxiv.org/abs/2311.13615)|null|
 |**2023-11-21**|**Attention Deficit is Ordered! Fooling Deformable Vision Transformers with Collaborative Adversarial Patches**|Quazi Mishkatul Alam et.al.|[2311.12914](http://arxiv.org/abs/2311.12914)|null|
 |**2023-11-21**|**Image Transformation for IoT Time-Series Data: A Review**|Duygu Altunkaya et.al.|[2311.12742](http://arxiv.org/abs/2311.12742)|null|
 |**2023-11-21**|**Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images**|Gauransh Sawhney et.al.|[2311.12589](http://arxiv.org/abs/2311.12589)|null|
@@ -169,6 +175,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
+|**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343](http://arxiv.org/abs/2311.14343)|null|
+|**2023-11-23**|**Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models**|Saman Motamed et.al.|[2311.13833](http://arxiv.org/abs/2311.13833)|null|
+|**2023-11-21**|**Breathing Life Into Sketches Using Text-to-Video Priors**|Rinon Gal et.al.|[2311.13608](http://arxiv.org/abs/2311.13608)|null|
 |**2023-11-22**|**Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis**|Yixin Liu et.al.|[2311.13127](http://arxiv.org/abs/2311.13127)|**[link](https://github.com/liuyixin-louis/metacloak)**|
 |**2023-11-22**|**FusionFrames: Efficient Architectural Aspects for Text-to-Video Generation Pipeline**|Vladimir Arkhipkin et.al.|[2311.13073](http://arxiv.org/abs/2311.13073)|**[link](https://github.com/ai-forever/kandinskyvideo)**|
 |**2023-11-21**|**Diffusion Model Alignment Using Direct Preference Optimization**|Bram Wallace et.al.|[2311.12908](http://arxiv.org/abs/2311.12908)|null|
@@ -219,6 +229,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
+|**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153](http://arxiv.org/abs/2311.14153)|null|
+|**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
+|**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|null|
+|**2023-11-22**|**Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**|Kai Yu et.al.|[2311.13617](http://arxiv.org/abs/2311.13617)|null|
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
