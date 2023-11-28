@@ -29,6 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-26**|**Self-supervised OCT Image Denoising with Slice-to-Slice Registration and Reconstruction**|Shijie Li et.al.|[2311.15167](http://arxiv.org/abs/2311.15167)|**[link](https://github.com/cjlee94/slice2slice)**|
 |**2023-11-24**|**Learning in Deep Factor Graphs with Gaussian Belief Propagation**|Seth Nabarro et.al.|[2311.14649](http://arxiv.org/abs/2311.14649)|null|
 |**2023-11-22**|**TDiffDe: A Truncated Diffusion Model for Remote Sensing Hyperspectral Image Denoising**|Jiang He et.al.|[2311.13622](http://arxiv.org/abs/2311.13622)|null|
 |**2023-11-17**|**SDDPM: Speckle Denoising Diffusion Probabilistic Models**|Soumee Guha et.al.|[2311.10868](http://arxiv.org/abs/2311.10868)|null|
@@ -54,6 +55,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**A-JEPA: Joint-Embedding Predictive Architecture Can Listen**|Zhengcong Fei et.al.|[2311.15830](http://arxiv.org/abs/2311.15830)|null|
+|**2023-11-27**|**Machine Learning-Based Jamun Leaf Disease Detection: A Comprehensive Review**|Auvick Chandra Bhowmik et.al.|[2311.15741](http://arxiv.org/abs/2311.15741)|null|
+|**2023-11-26**|**Spectro-ViT: A Vision Transformer Model for GABA-edited MRS Reconstruction Using Spectrograms**|Gabriel Dias et.al.|[2311.15386](http://arxiv.org/abs/2311.15386)|null|
+|**2023-11-26**|**Ultra-Range Gesture Recognition using an RGB Camera in Human-Robot Interaction**|Eran Bamani et.al.|[2311.15361](http://arxiv.org/abs/2311.15361)|null|
+|**2023-11-26**|**Token Recycling for Efficient Sequential Inference with Vision Transformers**|Jan Olszewski et.al.|[2311.15335](http://arxiv.org/abs/2311.15335)|null|
+|**2023-11-26**|**ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images**|Nicolas Bourriez et.al.|[2311.15264](http://arxiv.org/abs/2311.15264)|null|
+|**2023-11-26**|**Advancing Vision Transformers with Group-Mix Attention**|Chongjian Ge et.al.|[2311.15157](http://arxiv.org/abs/2311.15157)|**[link](https://github.com/ailab-cvc/groupmixformer)**|
+|**2023-11-25**|**High-resolution 3T to 7T MRI Synthesis with a Hybrid CNN-Transformer Model**|Zach Eidex et.al.|[2311.15044](http://arxiv.org/abs/2311.15044)|null|
 |**2023-11-24**|**TVT: Training-Free Vision Transformer Search on Tiny Datasets**|Zimian Wei et.al.|[2311.14337](http://arxiv.org/abs/2311.14337)|null|
 |**2023-11-24**|**GeoViT: A Versatile Vision Transformer Architecture for Geospatial Image Analysis**|Madhav Khirwar et.al.|[2311.14301](http://arxiv.org/abs/2311.14301)|null|
 |**2023-11-23**|**FViT-Grasp: Grasping Objects With Using Fast Vision Transformers**|Arda Sarp Yenicesu et.al.|[2311.13986](http://arxiv.org/abs/2311.13986)|null|
@@ -162,6 +171,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
+|**2023-11-27**|**FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax**|Yu Lu et.al.|[2311.15813](http://arxiv.org/abs/2311.15813)|null|
+|**2023-11-27**|**Enhancing Diffusion Models with Text-Encoder Reinforcement Learning**|Chaofeng Chen et.al.|[2311.15657](http://arxiv.org/abs/2311.15657)|**[link](https://github.com/chaofengc/texforce)**|
+|**2023-11-27**|**ET3D: Efficient Text-to-3D Generation via Multi-View Distillation**|Yiming Chen et.al.|[2311.15561](http://arxiv.org/abs/2311.15561)|null|
+|**2023-11-26**|**Flow-Guided Diffusion for Video Inpainting**|Bohai Gu et.al.|[2311.15368](http://arxiv.org/abs/2311.15368)|**[link](https://github.com/nevsnev/fgdvi)**|
+|**2023-11-25**|**Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets**|Andreas Blattmann et.al.|[2311.15127](http://arxiv.org/abs/2311.15127)|**[link](https://github.com/stability-ai/generative-models)**|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343](http://arxiv.org/abs/2311.14343)|null|
 |**2023-11-23**|**Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models**|Saman Motamed et.al.|[2311.13833](http://arxiv.org/abs/2311.13833)|null|
@@ -214,6 +229,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
+|**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
+|**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
+|**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
+|**2023-11-26**|**Obj-NeRF: Extract Object NeRFs from Multi-view Images**|Zhiyi Li et.al.|[2311.15291](http://arxiv.org/abs/2311.15291)|null|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
