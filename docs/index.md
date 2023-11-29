@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.28
+## Updated on 2023.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -55,7 +55,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-27**|**A-JEPA: Joint-Embedding Predictive Architecture Can Listen**|Zhengcong Fei et.al.|[2311.15830](http://arxiv.org/abs/2311.15830)|null|
+|**2023-11-28**|**A-JEPA: Joint-Embedding Predictive Architecture Can Listen**|Zhengcong Fei et.al.|[2311.15830](http://arxiv.org/abs/2311.15830)|null|
 |**2023-11-27**|**Machine Learning-Based Jamun Leaf Disease Detection: A Comprehensive Review**|Auvick Chandra Bhowmik et.al.|[2311.15741](http://arxiv.org/abs/2311.15741)|null|
 |**2023-11-26**|**Spectro-ViT: A Vision Transformer Model for GABA-edited MRS Reconstruction Using Spectrograms**|Gabriel Dias et.al.|[2311.15386](http://arxiv.org/abs/2311.15386)|null|
 |**2023-11-26**|**Ultra-Range Gesture Recognition using an RGB Camera in Human-Robot Interaction**|Eran Bamani et.al.|[2311.15361](http://arxiv.org/abs/2311.15361)|null|
