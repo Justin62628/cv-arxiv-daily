@@ -210,7 +210,7 @@
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
 |**2023-11-30**|**HiPA: Enabling One-Step Text-to-Image Diffusion Models via High-Frequency-Promoting Adaptation**|Yifan Zhang et.al.|[2311.18158](http://arxiv.org/abs/2311.18158)|null|
 |**2023-11-29**|**GELDA: A generative language annotation framework to reveal visual biases in datasets**|Krish Kabra et.al.|[2311.18064](http://arxiv.org/abs/2311.18064)|null|
-|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971](http://arxiv.org/abs/2311.17971)|**[link](https://github.com/baaivision/uni3d)**|
+|**2023-11-29**|**GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation**|Baorui Ma et.al.|[2311.17971](http://arxiv.org/abs/2311.17971)|**[link](https://github.com/baaivision/GeoDream)**|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919](http://arxiv.org/abs/2311.17919)|null|
 |**2023-11-30**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross-Entity Attention**|Etai Sella et.al.|[2311.17834](http://arxiv.org/abs/2311.17834)|null|
 |**2023-11-29**|**Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers**|Chi-Pin Huang et.al.|[2311.17717](http://arxiv.org/abs/2311.17717)|null|
