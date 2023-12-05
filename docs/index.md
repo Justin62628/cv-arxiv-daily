@@ -56,6 +56,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139](http://arxiv.org/abs/2312.02139)|**[link](https://github.com/nvlabs/diffit)**|
+|**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999](http://arxiv.org/abs/2312.01999)|null|
+|**2023-12-04**|**Bootstrapping SparseFormers from Vision Foundation Models**|Ziteng Gao et.al.|[2312.01987](http://arxiv.org/abs/2312.01987)|**[link](https://github.com/showlab/sparseformer)**|
+|**2023-12-04**|**Adapting Short-Term Transformers for Action Detection in Untrimmed Videos**|Min Yang et.al.|[2312.01897](http://arxiv.org/abs/2312.01897)|null|
+|**2023-12-04**|**A Comprehensive Literature Review on Sweet Orange Leaf Diseases**|Yousuf Rayhan Emon et.al.|[2312.01756](http://arxiv.org/abs/2312.01756)|null|
+|**2023-12-04**|**MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation**|Fenghe Tang et.al.|[2312.01740](http://arxiv.org/abs/2312.01740)|**[link](https://github.com/fenghetan9/mobileutr)**|
+|**2023-12-04**|**Rethinking Urban Mobility Prediction: A Super-Multivariate Time Series Forecasting Approach**|Jinguo Cheng et.al.|[2312.01699](http://arxiv.org/abs/2312.01699)|**[link](https://github.com/chengyui/sumformer)**|
+|**2023-12-04**|**Universal Deoxidation of Semiconductor Substrates Assisted by Machine-Learning and Real-Time-Feedback-Control**|Chao Shen et.al.|[2312.01662](http://arxiv.org/abs/2312.01662)|null|
+|**2023-12-03**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT**|Saurav Sengupta et.al.|[2312.01435](http://arxiv.org/abs/2312.01435)|null|
+|**2023-12-03**|**MABViT -- Modified Attention Block Enhances Vision Transformers**|Mahesh Ramesh et.al.|[2312.01324](http://arxiv.org/abs/2312.01324)|null|
 |**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761](http://arxiv.org/abs/2312.00761)|null|
 |**2023-12-01**|**A Recent Survey of Vision Transformers for Medical Image Segmentation**|Asifullah Khan et.al.|[2312.00634](http://arxiv.org/abs/2312.00634)|null|
 |**2023-12-01**|**Towards Efficient 3D Object Detection in Bird's-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach**|Yuxin Li et.al.|[2312.00633](http://arxiv.org/abs/2312.00633)|null|
@@ -197,6 +207,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
+|**2023-12-03**|**Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models**|Shengqu Cai et.al.|[2312.01409](http://arxiv.org/abs/2312.01409)|null|
+|**2023-12-03**|**ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models**|Jeong-gi Kwak et.al.|[2312.01305](http://arxiv.org/abs/2312.01305)|null|
+|**2023-12-01**|**Consistent Mesh Diffusion**|Julian Knodt et.al.|[2312.00971](http://arxiv.org/abs/2312.00971)|null|
+|**2023-12-01**|**VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models**|Hyeonho Jeong et.al.|[2312.00845](http://arxiv.org/abs/2312.00845)|null|
+|**2023-11-30**|**Probing and Mitigating Intersectional Social Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2312.00825](http://arxiv.org/abs/2312.00825)|null|
 |**2023-12-01**|**TrackDiffusion: Multi-object Tracking Data Generation via Diffusion Models**|Pengxiang Li et.al.|[2312.00651](http://arxiv.org/abs/2312.00651)|null|
 |**2023-11-30**|**GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs**|Gege Gao et.al.|[2312.00093](http://arxiv.org/abs/2312.00093)|null|
 |**2023-11-30**|**HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models**|Zhonghao Wang et.al.|[2312.00079](http://arxiv.org/abs/2312.00079)|null|
@@ -283,6 +299,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015](http://arxiv.org/abs/2312.02015)|null|
+|**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663](http://arxiv.org/abs/2312.01663)|null|
+|**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531](http://arxiv.org/abs/2312.01531)|null|
+|**2023-12-03**|**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**|Liao Wang et.al.|[2312.01407](http://arxiv.org/abs/2312.01407)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003](http://arxiv.org/abs/2312.01003)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588](http://arxiv.org/abs/2312.00588)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
