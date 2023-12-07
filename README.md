@@ -67,6 +67,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization**|Risab Biswas et.al.|[2312.03568](http://arxiv.org/abs/2312.03568)|null|
+|**2023-12-06**|**When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology**|Wenhui Wang et.al.|[2312.03558](http://arxiv.org/abs/2312.03558)|null|
+|**2023-12-05**|**Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset**|Mohammad Saber Hashemi et.al.|[2312.03133](http://arxiv.org/abs/2312.03133)|null|
 |**2023-12-05**|**Are Vision Transformers More Data Hungry Than Newborn Visual Systems?**|Lalit Pandey et.al.|[2312.02843](http://arxiv.org/abs/2312.02843)|**[link](https://github.com/buildingamind/vit-cot)**|
 |**2023-12-05**|**R3D-SWIN:Use Shifted Window Attention for Single-View 3D Reconstruction**|Chenhuan Li et.al.|[2312.02725](http://arxiv.org/abs/2312.02725)|null|
 |**2023-12-05**|**UPOCR: Towards Unified Pixel-Level OCR Interface**|Dezhi Peng et.al.|[2312.02694](http://arxiv.org/abs/2312.02694)|null|
@@ -225,6 +228,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control**|Yuru Jia et.al.|[2312.03048](http://arxiv.org/abs/2312.03048)|null|
+|**2023-12-05**|**MagicStick: Controllable Video Editing via Control Handle Transformations**|Yue Ma et.al.|[2312.03047](http://arxiv.org/abs/2312.03047)|**[link](https://github.com/mayuelala/magicstick)**|
+|**2023-12-05**|**DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance**|Cong Wang et.al.|[2312.03018](http://arxiv.org/abs/2312.03018)|null|
 |**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
 |**2023-12-04**|**X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model**|Lingmin Ran et.al.|[2312.02238](http://arxiv.org/abs/2312.02238)|null|
 |**2023-12-03**|**Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting**|Jin Liu et.al.|[2312.02212](http://arxiv.org/abs/2312.02212)|**[link](https://github.com/liujin112/portraitdiffusion)**|
@@ -322,6 +328,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431](http://arxiv.org/abs/2312.03431)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
+|**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266](http://arxiv.org/abs/2312.03266)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973](http://arxiv.org/abs/2312.02973)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
