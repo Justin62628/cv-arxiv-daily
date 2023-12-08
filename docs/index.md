@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -219,7 +219,7 @@ layout: default
 |**2023-12-05**|**MagicStick: Controllable Video Editing via Control Handle Transformations**|Yue Ma et.al.|[2312.03047](http://arxiv.org/abs/2312.03047)|**[link](https://github.com/mayuelala/magicstick)**|
 |**2023-12-05**|**DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance**|Cong Wang et.al.|[2312.03018](http://arxiv.org/abs/2312.03018)|null|
 |**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
-|**2023-12-04**|**X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model**|Lingmin Ran et.al.|[2312.02238](http://arxiv.org/abs/2312.02238)|null|
+|**2023-12-06**|**X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model**|Lingmin Ran et.al.|[2312.02238](http://arxiv.org/abs/2312.02238)|null|
 |**2023-12-03**|**Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting**|Jin Liu et.al.|[2312.02212](http://arxiv.org/abs/2312.02212)|**[link](https://github.com/liujin112/portraitdiffusion)**|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
 |**2023-12-03**|**Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models**|Shengqu Cai et.al.|[2312.01409](http://arxiv.org/abs/2312.01409)|null|
