@@ -30,8 +30,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038](http://arxiv.org/abs/2312.05038)|**[link](https://github.com/longzilicart/pip_universal)**|
+|**2023-12-08**|**DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models**|Tianqi Xiang et.al.|[2312.04853](http://arxiv.org/abs/2312.04853)|**[link](https://github.com/xmed-lab/diffcmr)**|
 |**2023-11-25**|**$Z^*$ : Zero-shot Style Transfer via Attention Rearrangement**|Yingying Deng et.al.|[2311.16491](http://arxiv.org/abs/2311.16491)|null|
-|**2023-11-26**|**Self-supervised OCT Image Denoising with Slice-to-Slice Registration and Reconstruction**|Shijie Li et.al.|[2311.15167](http://arxiv.org/abs/2311.15167)|**[link](https://github.com/cjlee94/slice2slice)**|
+|**2023-12-08**|**Self-supervised OCT Image Denoising with Slice-to-Slice Registration and Reconstruction**|Shijie Li et.al.|[2311.15167](http://arxiv.org/abs/2311.15167)|**[link](https://github.com/cjlee94/slice2slice)**|
 |**2023-11-24**|**Learning in Deep Factor Graphs with Gaussian Belief Propagation**|Seth Nabarro et.al.|[2311.14649](http://arxiv.org/abs/2311.14649)|null|
 |**2023-11-22**|**TDiffDe: A Truncated Diffusion Model for Remote Sensing Hyperspectral Image Denoising**|Jiang He et.al.|[2311.13622](http://arxiv.org/abs/2311.13622)|null|
 |**2023-11-17**|**SDDPM: Speckle Denoising Diffusion Probabilistic Models**|Soumee Guha et.al.|[2311.10868](http://arxiv.org/abs/2311.10868)|null|
@@ -57,6 +59,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Reconstructing Hands in 3D with Transformers**|Georgios Pavlakos et.al.|[2312.05251](http://arxiv.org/abs/2312.05251)|null|
+|**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|null|
+|**2023-12-07**|**DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection**|Chunlei Peng et.al.|[2312.04961](http://arxiv.org/abs/2312.04961)|**[link](https://github.com/shimmer-ghq/deepfidelity)**|
+|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|null|
+|**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869](http://arxiv.org/abs/2312.04869)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
 |**2023-12-07**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al.|[2312.04063](http://arxiv.org/abs/2312.04063)|null|
 |**2023-12-06**|**A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement**|Risab Biswas et.al.|[2312.03946](http://arxiv.org/abs/2312.03946)|**[link](https://github.com/RisabBiswas/T2T-BinFormer)**|
@@ -220,6 +227,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
+|**2023-12-07**|**Customizing Motion in Text-to-Video Diffusion Models**|Joanna Materzynska et.al.|[2312.04966](http://arxiv.org/abs/2312.04966)|null|
+|**2023-12-07**|**NeuSD: Surface Completion with Multi-View Text-to-Image Diffusion**|Savva Ignatyev et.al.|[2312.04654](http://arxiv.org/abs/2312.04654)|null|
 |**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
 |**2023-12-07**|**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion**|Yujie Wei et.al.|[2312.04433](http://arxiv.org/abs/2312.04433)|null|
 |**2023-12-07**|**iDesigner: A High-Resolution and Complex-Prompt Following Text-to-Image Diffusion Model for Interior Design**|Ruyi Gan et.al.|[2312.04326](http://arxiv.org/abs/2312.04326)|null|
@@ -324,6 +334,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/abs/2312.05161)|null|
+|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
+|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784](http://arxiv.org/abs/2312.04784)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565](http://arxiv.org/abs/2312.04565)|**[link](https://github.com/autonomousvision/murf)**|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527](http://arxiv.org/abs/2312.04527)|null|
