@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -62,7 +62,7 @@ layout: default
 |**2023-12-08**|**Reconstructing Hands in 3D with Transformers**|Georgios Pavlakos et.al.|[2312.05251](http://arxiv.org/abs/2312.05251)|null|
 |**2023-12-08**|**MuVieCAST: Multi-View Consistent Artistic Style Transfer**|Nail Ibrahimli et.al.|[2312.05046](http://arxiv.org/abs/2312.05046)|null|
 |**2023-12-07**|**DeepFidelity: Perceptual Forgery Fidelity Assessment for Deepfake Detection**|Chunlei Peng et.al.|[2312.04961](http://arxiv.org/abs/2312.04961)|**[link](https://github.com/shimmer-ghq/deepfidelity)**|
-|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|null|
+|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|**[link](https://github.com/xiaoyunxxy/mimir)**|
 |**2023-12-08**|**Adapting Vision Transformer for Efficient Change Detection**|Yang Zhao et.al.|[2312.04869](http://arxiv.org/abs/2312.04869)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337](http://arxiv.org/abs/2312.04337)|null|
 |**2023-12-07**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al.|[2312.04063](http://arxiv.org/abs/2312.04063)|null|
