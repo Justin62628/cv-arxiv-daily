@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -30,6 +30,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**ReCoRe: Regularized Contrastive Representation Learning of World Model**|Rudra P. K. Poudel et.al.|[2312.09056](http://arxiv.org/abs/2312.09056)|null|
+|**2023-12-12**|**AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models**|Hang Guo et.al.|[2312.08881](http://arxiv.org/abs/2312.08881)|null|
 |**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038](http://arxiv.org/abs/2312.05038)|**[link](https://github.com/longzilicart/pip_universal)**|
 |**2023-12-08**|**DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models**|Tianqi Xiang et.al.|[2312.04853](http://arxiv.org/abs/2312.04853)|**[link](https://github.com/xmed-lab/diffcmr)**|
 |**2023-11-25**|**$Z^*$ : Zero-shot Style Transfer via Attention Rearrangement**|Yingying Deng et.al.|[2311.16491](http://arxiv.org/abs/2311.16491)|null|
@@ -59,6 +61,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery**|Zimian Wei et.al.|[2312.09059](http://arxiv.org/abs/2312.09059)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
+|**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614](http://arxiv.org/abs/2312.08614)|**[link](https://github.com/q2479036243/favit)**|
+|**2023-12-13**|**Vision Transformer-Based Deep Learning for Histologic Classification of Endometrial Cancer**|Manu Goyal et.al.|[2312.08479](http://arxiv.org/abs/2312.08479)|null|
 |**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268](http://arxiv.org/abs/2312.08268)|null|
 |**2023-12-13**|**Pneumonia Detection on chest X-ray images Using Ensemble of Deep Convolutional Neural Networks**|Alhassan Mabrouk et.al.|[2312.07965](http://arxiv.org/abs/2312.07965)|null|
 |**2023-12-12**|**Pre-trained Universal Medical Image Transformer**|Lingxiao Luo et.al.|[2312.07630](http://arxiv.org/abs/2312.07630)|**[link](https://github.com/function2-llx/pumit)**|
@@ -240,6 +246,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252](http://arxiv.org/abs/2312.09252)|null|
+|**2023-12-14**|**Mosaic-SDF for 3D Generative Models**|Lior Yariv et.al.|[2312.09222](http://arxiv.org/abs/2312.09222)|null|
+|**2023-12-14**|**VideoLCM: Video Latent Consistency Model**|Xiang Wang et.al.|[2312.09109](http://arxiv.org/abs/2312.09109)|null|
+|**2023-12-14**|**PI3D: Efficient Text-to-3D Generation with Pseudo-Image Diffusion**|Ying-Tian Liu et.al.|[2312.09069](http://arxiv.org/abs/2312.09069)|null|
+|**2023-12-13**|**SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models**|Weilong Chai et.al.|[2312.08887](http://arxiv.org/abs/2312.08887)|null|
+|**2023-12-13**|**Diffusion-based Blind Text Image Super-Resolution**|Yuzhe Zhang et.al.|[2312.08886](http://arxiv.org/abs/2312.08886)|null|
+|**2023-12-14**|**Local Conditional Controlling for Text-to-Image Diffusion Models**|Yibo Zhao et.al.|[2312.08768](http://arxiv.org/abs/2312.08768)|**[link](https://github.com/yiboozhao/local-control)**|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128](http://arxiv.org/abs/2312.08128)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
 |**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536](http://arxiv.org/abs/2312.07536)|null|
@@ -360,6 +373,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
+|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
+|**2023-12-14**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095](http://arxiv.org/abs/2312.09095)|**[link](https://github.com/eezkni/colnerf)**|
+|**2023-12-14**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093](http://arxiv.org/abs/2312.09093)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
+|**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031](http://arxiv.org/abs/2312.09031)|null|
+|**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005](http://arxiv.org/abs/2312.09005)|null|
+|**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760](http://arxiv.org/abs/2312.08760)|null|
+|**2023-12-14**|**SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field**|Ru Li et.al.|[2312.08692](http://arxiv.org/abs/2312.08692)|**[link](https://github.com/liru0126/spectralnerf)**|
 |**2023-12-13**|**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**|Juan Luis Gonzalez Bello et.al.|[2312.08136](http://arxiv.org/abs/2312.08136)|null|
 |**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118](http://arxiv.org/abs/2312.08118)|null|
 |**2023-12-13**|**uSF: Learning Neural Semantic Field with Uncertainty**|Vsevolod Skorokhodov et.al.|[2312.08012](http://arxiv.org/abs/2312.08012)|**[link](https://github.com/sevashasla/usf)**|
