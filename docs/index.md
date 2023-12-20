@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -64,7 +64,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529](http://arxiv.org/abs/2312.10529)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
-|**2023-12-15**|**Closing the Gap: Achieving Better Accuracy-Robustness Tradeoffs Against Query-Based Attacks**|Pascal Zimmer et.al.|[2312.10132](http://arxiv.org/abs/2312.10132)|null|
+|**2023-12-15**|**Closing the Gap: Achieving Better Accuracy-Robustness Tradeoffs Against Query-Based Attacks**|Pascal Zimmer et.al.|[2312.10132](http://arxiv.org/abs/2312.10132)|**[link](https://github.com/RUB-InfSec/closing_the_gap)**|
 |**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024](http://arxiv.org/abs/2312.10024)|**[link](https://github.com/sahilnokhwal/annt)**|
 |**2023-12-15**|**DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing**|Abdul Wasi et.al.|[2312.09955](http://arxiv.org/abs/2312.09955)|null|
 |**2023-12-15**|**TOP-ReID: Multi-spectral Object Re-Identification with Token Permutation**|Yuhao Wang et.al.|[2312.09612](http://arxiv.org/abs/2312.09612)|**[link](https://github.com/924973292/top-reid)**|
