@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.22
+## Updated on 2023.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2022-05-31**|**SAR Despeckling Using Overcomplete Convolutional Networks**|Malsha V. Perera et.al.|[2205.15906](http://arxiv.org/abs/2205.15906)|**[link](https://github.com/malshav/sar_overcomplete)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355](http://arxiv.org/abs/2201.09355)|**[link](https://github.com/malshav/sar_transformer)**|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 ## Denoise
 
@@ -69,18 +69,20 @@
 |**2023-10-13**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664](http://arxiv.org/abs/2310.05664)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**CR-SAM: Curvature Regularized Sharpness-Aware Minimization**|Tao Wu et.al.|[2312.13555](http://arxiv.org/abs/2312.13555)|null|
+|**2023-12-20**|**MGAug: Multimodal Geometric Augmentation in Latent Spaces of Image Deformations**|Tonmoy Hossain et.al.|[2312.13440](http://arxiv.org/abs/2312.13440)|null|
 |**2023-12-20**|**MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**|Libo Wang et.al.|[2312.12735](http://arxiv.org/abs/2312.12735)|null|
 |**2023-12-19**|**Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images**|Clément Grisi et.al.|[2312.12619](http://arxiv.org/abs/2312.12619)|**[link](https://github.com/computationalpathologygroup/hvit)**|
 |**2023-12-19**|**Unsupervised Segmentation of Colonoscopy Images**|Heming Yao et.al.|[2312.12599](http://arxiv.org/abs/2312.12599)|null|
 |**2023-12-18**|**Open Vocabulary Semantic Scene Sketch Understanding**|Ahmed Bourouis et.al.|[2312.12463](http://arxiv.org/abs/2312.12463)|null|
 |**2023-12-20**|**Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items**|Akshat Kishore Shrivastava et.al.|[2312.12143](http://arxiv.org/abs/2312.12143)|null|
-|**2023-12-19**|**Context Disentangling and Prototype Inheriting for Robust Visual Grounding**|Wei Tang et.al.|[2312.11967](http://arxiv.org/abs/2312.11967)|null|
+|**2023-12-19**|**Context Disentangling and Prototype Inheriting for Robust Visual Grounding**|Wei Tang et.al.|[2312.11967](http://arxiv.org/abs/2312.11967)|**[link](https://github.com/waynetomas/transcp)**|
 |**2023-12-19**|**Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment**|Hamza Mukhtar et.al.|[2312.11929](http://arxiv.org/abs/2312.11929)|null|
 |**2023-12-16**|**Transformers in Unsupervised Structure-from-Motion**|Hemang Chawla et.al.|[2312.10529](http://arxiv.org/abs/2312.10529)|**[link](https://github.com/neurai-lab/mt-sfmlearner)**|
 |**2023-12-15**|**Closing the Gap: Achieving Better Accuracy-Robustness Tradeoffs Against Query-Based Attacks**|Pascal Zimmer et.al.|[2312.10132](http://arxiv.org/abs/2312.10132)|**[link](https://github.com/RUB-InfSec/closing_the_gap)**|
@@ -271,12 +273,15 @@
 |**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063](http://arxiv.org/abs/2310.14063)|null|
 |**2023-10-21**|**Ophthalmic Biomarker Detection Using Ensembled Vision Transformers -- Winning Solution to IEEE SPS VIP Cup 2023**|H. A. Z. Sameen Shahgir et.al.|[2310.14005](http://arxiv.org/abs/2310.14005)|null|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
 |**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865](http://arxiv.org/abs/2312.12865)|null|
 |**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807](http://arxiv.org/abs/2312.12807)|null|
 |**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540](http://arxiv.org/abs/2312.12540)|null|
@@ -412,12 +417,21 @@
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154](http://arxiv.org/abs/2312.14154)|null|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
+|**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832](http://arxiv.org/abs/2312.13832)|null|
+|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/abs/2312.13729)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528](http://arxiv.org/abs/2312.13528)|null|
+|**2023-12-21**|**Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects**|David Nakath et.al.|[2312.13494](http://arxiv.org/abs/2312.13494)|null|
+|**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
+|**2023-12-20**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
+|**2023-12-20**|**ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors**|Weijia Mao et.al.|[2312.13324](http://arxiv.org/abs/2312.13324)|null|
 |**2023-12-20**|**UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections**|Fangjinhua Wang et.al.|[2312.13285](http://arxiv.org/abs/2312.13285)|null|
 |**2023-12-20**|**Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method**|Qihang Fang et.al.|[2312.12726](http://arxiv.org/abs/2312.12726)|**[link](https://github.com/qihanggh/closed-form-color-field)**|
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122](http://arxiv.org/abs/2312.12122)|null|
@@ -583,7 +597,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
-<p align=right>(<a href=#updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
