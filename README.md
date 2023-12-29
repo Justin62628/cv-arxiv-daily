@@ -39,6 +39,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401](http://arxiv.org/abs/2312.16401)|null|
+|**2023-12-25**|**Toward Accurate and Temporally Consistent Video Restoration from Raw Data**|Shi Guo et.al.|[2312.16247](http://arxiv.org/abs/2312.16247)|null|
 |**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649](http://arxiv.org/abs/2312.12649)|null|
 |**2023-12-15**|**Tell Me What You See: Text-Guided Real-World Image Denoising**|Erez Yosef et.al.|[2312.10191](http://arxiv.org/abs/2312.10191)|null|
 |**2023-12-19**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754](http://arxiv.org/abs/2312.09754)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
@@ -75,9 +77,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification**|Ga-Eun Kim et.al.|[2312.16914](http://arxiv.org/abs/2312.16914)|null|
+|**2023-12-27**|**Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding**|Lixiang Xu et.al.|[2312.16477](http://arxiv.org/abs/2312.16477)|null|
+|**2023-12-27**|**Adaptive Depth Networks with Skippable Sub-Paths**|Woochul Kang et.al.|[2312.16392](http://arxiv.org/abs/2312.16392)|null|
+|**2023-12-26**|**Universal Pyramid Adversarial Training for Improved ViT Performance**|Ping-yeh Chiang et.al.|[2312.16339](http://arxiv.org/abs/2312.16339)|null|
+|**2023-12-26**|**State-of-the-Art in Nudity Classification: A Comparative Analysis**|Fatih Cagatay Akyon et.al.|[2312.16338](http://arxiv.org/abs/2312.16338)|null|
+|**2023-12-25**|**Merging Vision Transformers from Different Tasks and Domains**|Peng Ye et.al.|[2312.16240](http://arxiv.org/abs/2312.16240)|null|
 |**2023-12-25**|**Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers**|Peng Ye et.al.|[2312.15681](http://arxiv.org/abs/2312.15681)|null|
 |**2023-12-25**|**Deep Structure and Attention Aware Subspace Clustering**|Wenhao Wu et.al.|[2312.15577](http://arxiv.org/abs/2312.15577)|**[link](https://github.com/cs-whh/dsasc)**|
-|**2023-12-23**|**RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing**|Rojin Zandi et.al.|[2312.15345](http://arxiv.org/abs/2312.15345)|**[link](https://github.com/siamilab/robofisense)**|
+|**2023-12-28**|**RoboFiSense: Attention-Based Robotic Arm Activity Recognition with WiFi Sensing**|Rojin Zandi et.al.|[2312.15345](http://arxiv.org/abs/2312.15345)|**[link](https://github.com/siamilab/robofisense)**|
 |**2023-12-23**|**Towards Generalization in Subitizing with Neuro-Symbolic Loss using Holographic Reduced Representations**|Mohammad Mahmudul Alam et.al.|[2312.15310](http://arxiv.org/abs/2312.15310)|**[link](https://github.com/mahmudulalam/subitizing)**|
 |**2023-12-22**|**Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models**|Guihong Li et.al.|[2312.14923](http://arxiv.org/abs/2312.14923)|null|
 |**2023-12-22**|**DRStageNet: Deep Learning for Diabetic Retinopathy Staging from Fundus Images**|Yevgeniy Men et.al.|[2312.14891](http://arxiv.org/abs/2312.14891)|null|
@@ -288,6 +296,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
+|**2023-12-28**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
+|**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
 |**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905](http://arxiv.org/abs/2312.15905)|**[link](https://github.com/lyupang/crossinitialization)**|
 |**2023-12-21**|**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models**|Brian Nlong Zhao et.al.|[2312.14216](http://arxiv.org/abs/2312.14216)|null|
@@ -435,6 +446,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
+|**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
+|**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
