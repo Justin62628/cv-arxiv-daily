@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.30
+## Updated on 2023.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -31,7 +31,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-27**|**Natural Adversarial Patch Generation Method Based on Latent Diffusion Model**|Xianyi Chen et.al.|[2312.16401](http://arxiv.org/abs/2312.16401)|null|
-|**2023-12-25**|**Toward Accurate and Temporally Consistent Video Restoration from Raw Data**|Shi Guo et.al.|[2312.16247](http://arxiv.org/abs/2312.16247)|null|
+|**2023-12-25**|**Toward Accurate and Temporally Consistent Video Restoration from Raw Data**|Shi Guo et.al.|[2312.16247](http://arxiv.org/abs/2312.16247)|**[link](https://github.com/guoshi28/vjdd)**|
 |**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649](http://arxiv.org/abs/2312.12649)|null|
 |**2023-12-15**|**Tell Me What You See: Text-Guided Real-World Image Denoising**|Erez Yosef et.al.|[2312.10191](http://arxiv.org/abs/2312.10191)|null|
 |**2023-12-19**|**PPFM: Image denoising in photon-counting CT using single-step posterior sampling Poisson flow generative models**|Dennis Hein et.al.|[2312.09754](http://arxiv.org/abs/2312.09754)|**[link](https://github.com/dennishein/cpfgmpp_pcct_denoising)**|
