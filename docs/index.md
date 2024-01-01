@@ -247,7 +247,7 @@ layout: default
 |**2023-11-01**|**Improving Robustness for Vision Transformer with a Simple Dynamic Scanning Augmentation**|Shashank Kotyan et.al.|[2311.00441](http://arxiv.org/abs/2311.00441)|null|
 |**2023-11-01**|**Crop Disease Classification using Support Vector Machines with Green Chromatic Coordinate (GCC) and Attention based feature extraction for IoT based Smart Agricultural Applications**|Shashwat Jha et.al.|[2311.00429](http://arxiv.org/abs/2311.00429)|null|
 |**2023-10-31**|**Medi-CAT: Contrastive Adversarial Training for Medical Image Classification**|Pervaiz Iqbal Khan et.al.|[2311.00154](http://arxiv.org/abs/2311.00154)|null|
-|**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704](http://arxiv.org/abs/2310.20704)|null|
+|**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704](http://arxiv.org/abs/2310.20704)|**[link](https://github.com/dominickrei/limited-data-vits)**|
 |**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
 |**2023-10-31**|**In Search of Lost Online Test-time Adaptation: A Survey**|Zixin Wang et.al.|[2310.20199](http://arxiv.org/abs/2310.20199)|null|
 |**2023-10-30**|**Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks**|Micah Goldblum et.al.|[2310.19909](http://arxiv.org/abs/2310.19909)|**[link](https://github.com/hsouri/battle-of-the-backbones)**|
@@ -301,7 +301,7 @@ layout: default
 |**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
 |**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274](http://arxiv.org/abs/2312.12274)|null|
 |**2023-12-19**|**Learning Subject-Aware Cropping by Outpainting Professional Photos**|James Hong et.al.|[2312.12080](http://arxiv.org/abs/2312.12080)|null|
-|**2023-12-18**|**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**|Zeyinzi Jiang et.al.|[2312.11392](http://arxiv.org/abs/2312.11392)|null|
+|**2023-12-18**|**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**|Zeyinzi Jiang et.al.|[2312.11392](http://arxiv.org/abs/2312.11392)|**[link](https://github.com/modelscope/swift)**|
 |**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
 |**2023-12-19**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252](http://arxiv.org/abs/2312.09252)|null|
