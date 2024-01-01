@@ -77,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization**|Ioanna Ntinou et.al.|[2312.17686](http://arxiv.org/abs/2312.17686)|null|
 |**2023-12-28**|**ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification**|Ga-Eun Kim et.al.|[2312.16914](http://arxiv.org/abs/2312.16914)|null|
 |**2023-12-27**|**Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding**|Lixiang Xu et.al.|[2312.16477](http://arxiv.org/abs/2312.16477)|null|
 |**2023-12-27**|**Adaptive Depth Networks with Skippable Sub-Paths**|Woochul Kang et.al.|[2312.16392](http://arxiv.org/abs/2312.16392)|null|
@@ -296,6 +297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
 |**2023-12-29**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
 |**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
@@ -446,6 +448,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
 |**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
