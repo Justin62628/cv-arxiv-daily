@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Two-stage Progressive Residual Dense Attention Network for Image Denoising**|Wencong Wu et.al.|[2401.02831](http://arxiv.org/abs/2401.02831)|null|
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394](http://arxiv.org/abs/2401.02394)|null|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
 |**2024-01-02**|**Robust single-particle cryo-EM image denoising and restoration**|Jing Zhang et.al.|[2401.01097](http://arxiv.org/abs/2401.01097)|null|
@@ -81,6 +82,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957](http://arxiv.org/abs/2401.02957)|null|
+|**2024-01-05**|**SPFormer: Enhancing Vision Transformer with Superpixel Representation**|Jieru Mei et.al.|[2401.02931](http://arxiv.org/abs/2401.02931)|null|
+|**2024-01-05**|**CrisisViT: A Robust Vision Transformer for Crisis Image Classification**|Zijun Long et.al.|[2401.02838](http://arxiv.org/abs/2401.02838)|null|
+|**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633](http://arxiv.org/abs/2401.02633)|null|
 |**2024-01-04**|**A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer**|Sandeep Angara et.al.|[2401.02358](http://arxiv.org/abs/2401.02358)|null|
 |**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326](http://arxiv.org/abs/2401.02326)|**[link](https://github.com/xypu98/cwsam)**|
 |**2024-01-03**|**FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers**|Zheng Yuan et.al.|[2401.01752](http://arxiv.org/abs/2401.01752)|null|
@@ -467,6 +472,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620](http://arxiv.org/abs/2401.02620)|null|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588](http://arxiv.org/abs/2401.02588)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
