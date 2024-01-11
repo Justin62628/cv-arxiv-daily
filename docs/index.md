@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -31,7 +31,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-31**|**Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer**|Guanyiman Fu et.al.|[2401.03885](http://arxiv.org/abs/2401.03885)|null|
+|**2024-01-09**|**Benchmarking Deep Learning-Based Low Dose CT Image Denoising Algorithms**|Elias Eulig et.al.|[2401.04661](http://arxiv.org/abs/2401.04661)|null|
+|**2024-01-09**|**Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer**|Guanyiman Fu et.al.|[2401.03885](http://arxiv.org/abs/2401.03885)|null|
 |**2024-01-05**|**Two-stage Progressive Residual Dense Attention Network for Image Denoising**|Wencong Wu et.al.|[2401.02831](http://arxiv.org/abs/2401.02831)|null|
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394](http://arxiv.org/abs/2401.02394)|null|
 |**2024-01-03**|**Boosting of Implicit Neural Representation-based Image Denoiser**|Zipei Yan et.al.|[2401.01548](http://arxiv.org/abs/2401.01548)|**[link](https://github.com/tids-lab/its)**|
@@ -73,6 +74,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**WaveletFormerNet: A Transformer-based Wavelet Network for Real-world Non-homogeneous and Dense Fog Removal**|Shengli Zhang et.al.|[2401.04550](http://arxiv.org/abs/2401.04550)|null|
+|**2024-01-08**|**Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04154](http://arxiv.org/abs/2401.04154)|null|
 |**2024-01-08**|**Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04023](http://arxiv.org/abs/2401.04023)|null|
 |**2024-01-08**|**Attention-Guided Erasing: A Novel Augmentation Method for Enhancing Downstream Breast Density Classification**|Adarsh Bhandary Panambur et.al.|[2401.03912](http://arxiv.org/abs/2401.03912)|null|
 |**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844](http://arxiv.org/abs/2401.03844)|**[link](https://github.com/NVlabs/STL)**|
@@ -309,6 +312,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
+|**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
+|**2024-01-07**|**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**|Haonan Wang et.al.|[2401.04136](http://arxiv.org/abs/2401.04136)|null|
 |**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221](http://arxiv.org/abs/2401.03221)|null|
 |**2024-01-03**|**Instruct-Imagen: Image Generation with Multi-modal Instruction**|Hexiang Hu et.al.|[2401.01952](http://arxiv.org/abs/2401.01952)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
