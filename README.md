@@ -98,7 +98,7 @@
 |**2024-01-08**|**Fully Attentional Networks with Self-emerging Token Labeling**|Bingyin Zhao et.al.|[2401.03844](http://arxiv.org/abs/2401.03844)|**[link](https://github.com/NVlabs/STL)**|
 |**2024-01-06**|**Realism in Action: Anomaly-Aware Diagnosis of Brain Tumors from Medical Images Using YOLOv8 and DeiT**|Seyed Mohammad Hossein Hashemi et.al.|[2401.03302](http://arxiv.org/abs/2401.03302)|null|
 |**2024-01-06**|**Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI**|Taymaz Akan et.al.|[2401.03132](http://arxiv.org/abs/2401.03132)|null|
-|**2024-01-05**|**Prompt-driven Latent Domain Generalization for Medical Image Classification**|Siyuan Yan et.al.|[2401.03002](http://arxiv.org/abs/2401.03002)|null|
+|**2024-01-05**|**Prompt-driven Latent Domain Generalization for Medical Image Classification**|Siyuan Yan et.al.|[2401.03002](http://arxiv.org/abs/2401.03002)|**[link](https://github.com/siyuanyan1/pldg)**|
 |**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957](http://arxiv.org/abs/2401.02957)|null|
 |**2024-01-05**|**SPFormer: Enhancing Vision Transformer with Superpixel Representation**|Jieru Mei et.al.|[2401.02931](http://arxiv.org/abs/2401.02931)|null|
 |**2024-01-05**|**CrisisViT: A Robust Vision Transformer for Crisis Image Classification**|Zijun Long et.al.|[2401.02838](http://arxiv.org/abs/2401.02838)|**[link](https://github.com/longkukuhi/crisisvit)**|
@@ -198,7 +198,7 @@
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775](http://arxiv.org/abs/2311.18775)|null|
 |**2023-11-30**|**Stochastic Vision Transformers with Wasserstein Distance-Aware Attention**|Franciskus Xaverius Erick et.al.|[2311.18645](http://arxiv.org/abs/2311.18645)|null|
 |**2023-11-30**|**A Lightweight Clustering Framework for Unsupervised Semantic Segmentation**|Yau Shing Jonathan Cheung et.al.|[2311.18628](http://arxiv.org/abs/2311.18628)|null|
-|**2023-11-30**|**Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations**|Xianlong Wang et.al.|[2311.18403](http://arxiv.org/abs/2311.18403)|null|
+|**2023-11-30**|**Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations**|Xianlong Wang et.al.|[2311.18403](http://arxiv.org/abs/2311.18403)|**[link](https://github.com/wxldragon/coin)**|
 |**2023-11-29**|**Improving Faithfulness for Vision Transformers**|Lijie Hu et.al.|[2311.17983](http://arxiv.org/abs/2311.17983)|null|
 |**2023-11-29**|**GeoDeformer: Geometric Deformable Transformer for Action Recognition**|Jinhui Ye et.al.|[2311.17975](http://arxiv.org/abs/2311.17975)|null|
 |**2023-11-29**|**Contrastive Vision-Language Alignment Makes Efficient Instruction Learner**|Lizhao Liu et.al.|[2311.17945](http://arxiv.org/abs/2311.17945)|**[link](https://github.com/lizhaoliu-lec/cg-vlm)**|
@@ -523,7 +523,7 @@
 |**2023-12-29**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
-|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258](http://arxiv.org/abs/2312.15258)|**[link](https://github.com/longxiang-ai/human101)**|
