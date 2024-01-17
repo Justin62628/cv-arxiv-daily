@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-15**|**PolMERLIN: Self-Supervised Polarimetric Complex SAR Image Despeckling with Masked Networks**|Shunya Kato et.al.|[2401.07503](http://arxiv.org/abs/2401.07503)|null|
 |**2024-01-06**|**SAR Despeckling via Regional Denoising Diffusion Probabilistic Model**|Xuran Hu et.al.|[2401.03122](http://arxiv.org/abs/2401.03122)|null|
 |**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-09-19**|**Multisource Holography**|Grace Kuo et.al.|[2309.10816](http://arxiv.org/abs/2309.10816)|null|
@@ -76,9 +77,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Statistical Test for Attention Map in Vision Transformer**|Tomohiro Shiraishi et.al.|[2401.08169](http://arxiv.org/abs/2401.08169)|**[link](https://github.com/shirara1016/statistical_test_for_vit_attention)**|
+|**2024-01-16**|**Mobile Contactless Palmprint Recognition: Use of Multiscale, Multimodel Embeddings**|Steven A. Grosz et.al.|[2401.08111](http://arxiv.org/abs/2401.08111)|null|
+|**2024-01-16**|**A Survey of Resource-efficient LLM and Multimodal Foundation Models**|Mengwei Xu et.al.|[2401.08092](http://arxiv.org/abs/2401.08092)|**[link](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)**|
+|**2024-01-15**|**A Deep Hierarchical Feature Sparse Framework for Occluded Person Re-Identification**|Yihu Song et.al.|[2401.07469](http://arxiv.org/abs/2401.07469)|null|
+|**2024-01-14**|**MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition**|Fan Zhang et.al.|[2401.07245](http://arxiv.org/abs/2401.07245)|null|
 |**2024-01-12**|**UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer**|Ji Liu et.al.|[2401.06426](http://arxiv.org/abs/2401.06426)|null|
 |**2024-01-12**|**MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers**|Yifeng Wang et.al.|[2401.06349](http://arxiv.org/abs/2401.06349)|null|
-|**2024-01-12**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312](http://arxiv.org/abs/2401.06312)|null|
+|**2024-01-15**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312](http://arxiv.org/abs/2401.06312)|null|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159](http://arxiv.org/abs/2401.05159)|null|
 |**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126](http://arxiv.org/abs/2401.05126)|null|
 |**2024-01-10**|**HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition**|Qian Wu et.al.|[2401.04975](http://arxiv.org/abs/2401.04975)|**[link](https://github.com/dun-research/haltingvt)**|
@@ -322,6 +328,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519](http://arxiv.org/abs/2401.07519)|**[link](https://github.com/instantid/instantid)**|
 |**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578](http://arxiv.org/abs/2401.06578)|null|
 |**2024-01-12**|**Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering**|Chang Yu et.al.|[2401.06345](http://arxiv.org/abs/2401.06345)|null|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
@@ -489,6 +496,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935](http://arxiv.org/abs/2401.07935)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191](http://arxiv.org/abs/2401.06191)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
