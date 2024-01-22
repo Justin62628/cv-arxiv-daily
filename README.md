@@ -88,6 +88,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Understanding Video Transformers via Universal Concept Discovery**|Matthew Kowal et.al.|[2401.10831](http://arxiv.org/abs/2401.10831)|null|
+|**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[2401.10402](http://arxiv.org/abs/2401.10402)|null|
+|**2024-01-18**|**Analyzing and Mitigating Bias for Vulnerable Classes: Towards Balanced Representation in Dataset**|Dewant Katare et.al.|[2401.10397](http://arxiv.org/abs/2401.10397)|null|
 |**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222](http://arxiv.org/abs/2401.10222)|**[link](https://github.com/tencentarc/visft)**|
 |**2024-01-18**|**VMamba: Visual State Space Model**|Yue Liu et.al.|[2401.10166](http://arxiv.org/abs/2401.10166)|**[link](https://github.com/mzeromiko/vmamba)**|
 |**2024-01-18**|**Slicer Networks**|Hang Zhang et.al.|[2401.09833](http://arxiv.org/abs/2401.09833)|null|
@@ -351,6 +354,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**ActAnywhere: Subject-Aware Video Background Generation**|Boxiao Pan et.al.|[2401.10822](http://arxiv.org/abs/2401.10822)|null|
+|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
 |**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-18**|**BlenDA: Domain Adaptive Object Detection through diffusion-based blending**|Tzuhsuan Huang et.al.|[2401.09921](http://arxiv.org/abs/2401.09921)|null|
@@ -527,7 +532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-17**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
+|**2024-01-19**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
