@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -87,7 +87,7 @@ layout: default
 |**2024-01-17**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/vim)**|
 |**2024-01-18**|**B-Cos Aligned Transformers Learn Human-Interpretable Features**|Manuel Tran et.al.|[2401.08868](http://arxiv.org/abs/2401.08868)|null|
 |**2024-01-13**|**NODI: Out-Of-Distribution Detection with Noise from Diffusion**|Jingqiu Zhou et.al.|[2401.08689](http://arxiv.org/abs/2401.08689)|null|
-|**2024-01-16**|**Statistical Test for Attention Map in Vision Transformer**|Tomohiro Shiraishi et.al.|[2401.08169](http://arxiv.org/abs/2401.08169)|**[link](https://github.com/shirara1016/statistical_test_for_vit_attention)**|
+|**2024-01-19**|**Statistical Test for Attention Map in Vision Transformer**|Tomohiro Shiraishi et.al.|[2401.08169](http://arxiv.org/abs/2401.08169)|**[link](https://github.com/shirara1016/statistical_test_for_vit_attention)**|
 |**2024-01-16**|**Mobile Contactless Palmprint Recognition: Use of Multiscale, Multimodel Embeddings**|Steven A. Grosz et.al.|[2401.08111](http://arxiv.org/abs/2401.08111)|null|
 |**2024-01-16**|**A Survey of Resource-efficient LLM and Multimodal Foundation Models**|Mengwei Xu et.al.|[2401.08092](http://arxiv.org/abs/2401.08092)|**[link](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)**|
 |**2024-01-15**|**A Deep Hierarchical Feature Sparse Framework for Occluded Person Re-Identification**|Yihu Song et.al.|[2401.07469](http://arxiv.org/abs/2401.07469)|null|
@@ -338,7 +338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-18**|**BlenDA: Domain Adaptive Object Detection through diffusion-based blending**|Tzuhsuan Huang et.al.|[2401.09921](http://arxiv.org/abs/2401.09921)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
