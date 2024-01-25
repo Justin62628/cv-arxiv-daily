@@ -77,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Boosting the Transferability of Adversarial Examples via Local Mixup and Adaptive Step Size**|Junlin Liu et.al.|[2401.13205](http://arxiv.org/abs/2401.13205)|null|
 |**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972](http://arxiv.org/abs/2401.12972)|null|
 |**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820](http://arxiv.org/abs/2401.12820)|null|
 |**2024-01-23**|**Shift-ConvNets: Small Convolutional Kernel with Large Kernel Effects**|Dachong Li et.al.|[2401.12736](http://arxiv.org/abs/2401.12736)|**[link](https://github.com/lidc54/shift-wiseconv)**|
@@ -353,6 +354,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
+|**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
 |**2024-01-20**|**Large-scale Reinforcement Learning for Diffusion Models**|Yinan Zhang et.al.|[2401.12244](http://arxiv.org/abs/2401.12244)|null|
 |**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
@@ -532,6 +535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568](http://arxiv.org/abs/2401.12568)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456](http://arxiv.org/abs/2401.12456)|null|
 |**2024-01-23**|**Methods and strategies for improving the novel view synthesis quality of neural radiation field**|Shun Fang et.al.|[2401.12451](http://arxiv.org/abs/2401.12451)|null|
