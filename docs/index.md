@@ -90,7 +90,7 @@ layout: default
 |**2024-01-22**|**A Training-Free Defense Framework for Robust Learned Image Compression**|Myungseo Song et.al.|[2401.11902](http://arxiv.org/abs/2401.11902)|null|
 |**2024-01-22**|**OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning**|Chu Myaet Thwal et.al.|[2401.11652](http://arxiv.org/abs/2401.11652)|null|
 |**2024-01-20**|**LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation**|Navin Ranjan et.al.|[2401.11243](http://arxiv.org/abs/2401.11243)|null|
-|**2024-01-20**|**DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries**|Kuan-Ting Kuo et.al.|[2401.11114](http://arxiv.org/abs/2401.11114)|null|
+|**2024-01-20**|**DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries**|Kuan-Ting Kuo et.al.|[2401.11114](http://arxiv.org/abs/2401.11114)|**[link](https://github.com/mimikuo365/denguenet-ijcai)**|
 |**2024-01-19**|**PhotoBot: Reference-Guided Interactive Photography via Natural Language**|Oliver Limoyo et.al.|[2401.11061](http://arxiv.org/abs/2401.11061)|null|
 |**2024-01-19**|**Understanding Video Transformers via Universal Concept Discovery**|Matthew Kowal et.al.|[2401.10831](http://arxiv.org/abs/2401.10831)|null|
 |**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[2401.10402](http://arxiv.org/abs/2401.10402)|null|
@@ -326,7 +326,7 @@ layout: default
 |**2023-10-30**|**Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks**|Micah Goldblum et.al.|[2310.19909](http://arxiv.org/abs/2310.19909)|**[link](https://github.com/hsouri/battle-of-the-backbones)**|
 |**2023-10-30**|**MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder**|Md Motiur Rahman et.al.|[2310.19898](http://arxiv.org/abs/2310.19898)|**[link](https://github.com/rahman-motiur/mist)**|
 |**2023-10-30**|**Autoregressive Attention Neural Networks for Non-Line-of-Sight User Tracking with Dynamic Metasurface Antennas**|Kyriakos Stylianopoulos et.al.|[2310.19767](http://arxiv.org/abs/2310.19767)|null|
-|**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|null|
+|**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|**[link](https://github.com/nvlabs/vir)**|
 |**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721](http://arxiv.org/abs/2310.19721)|**[link](https://github.com/medicl-vu/promise)**|
 |**2023-10-30**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542](http://arxiv.org/abs/2310.19542)|null|
 |**2023-10-29**|**Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation**|Fei Zhang et.al.|[2310.19001](http://arxiv.org/abs/2310.19001)|null|
