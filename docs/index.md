@@ -32,6 +32,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966](http://arxiv.org/abs/2401.14966)|null|
+|**2024-01-26**|**VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising**|Yuxiang Hui et.al.|[2401.14754](http://arxiv.org/abs/2401.14754)|null|
 |**2024-01-25**|**Progressive Multi-task Anti-Noise Learning and Distilling Frameworks for Fine-grained Vehicle Recognition**|Dichao Liu et.al.|[2401.14336](http://arxiv.org/abs/2401.14336)|**[link](https://github.com/dichao-liu/anti-noise_fgvr)**|
 |**2024-01-12**|**Enhancing a Convolutional Autoencoder with a Quantum Approximate Optimization Algorithm for Image Noise Reduction**|Kimleang Kea et.al.|[2401.06367](http://arxiv.org/abs/2401.06367)|**[link](https://github.com/kimleang-qml/quantum-autoencoder-denoising)**|
 |**2024-01-11**|**Adaptive Regularized Low-Rank Tensor Decomposition for Hyperspectral Image Denoising and Destriping**|Dongyi Li et.al.|[2401.05682](http://arxiv.org/abs/2401.05682)|null|
@@ -78,6 +80,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**MPTQ-ViT:Mixed-PrecisionPost-TrainingQuantizationforVisionTransformer**|Yu-Shan Tai et.al.|[2401.14895](http://arxiv.org/abs/2401.14895)|null|
+|**2024-01-26**|**PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning**|Songsong Tian et.al.|[2401.14807](http://arxiv.org/abs/2401.14807)|null|
+|**2024-01-26**|**VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising**|Yuxiang Hui et.al.|[2401.14754](http://arxiv.org/abs/2401.14754)|null|
 |**2024-01-25**|**Producing Plankton Classifiers that are Robust to Dataset Shift**|Cheng Chen et.al.|[2401.14256](http://arxiv.org/abs/2401.14256)|**[link](https://github.com/cchen07/plankiformer_ood)**|
 |**2024-01-24**|**Boosting the Transferability of Adversarial Examples via Local Mixup and Adaptive Step Size**|Junlin Liu et.al.|[2401.13205](http://arxiv.org/abs/2401.13205)|null|
 |**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972](http://arxiv.org/abs/2401.12972)|null|
@@ -356,7 +361,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
+|**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
 |**2024-01-25**|**StyleInject: Parameter Efficient Tuning of Text-to-Image Diffusion Models**|Yalong Bai et.al.|[2401.13942](http://arxiv.org/abs/2401.13942)|null|
 |**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
@@ -540,6 +545,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352](http://arxiv.org/abs/2401.13352)|null|
