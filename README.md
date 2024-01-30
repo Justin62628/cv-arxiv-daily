@@ -41,6 +41,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**A Ridgelet Approach to Poisson Denoising**|Ali Dadras et.al.|[2401.16099](http://arxiv.org/abs/2401.16099)|null|
+|**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
 |**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966](http://arxiv.org/abs/2401.14966)|null|
 |**2024-01-26**|**VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising**|Yuxiang Hui et.al.|[2401.14754](http://arxiv.org/abs/2401.14754)|null|
 |**2024-01-25**|**Progressive Multi-task Anti-Noise Learning and Distilling Frameworks for Fine-grained Vehicle Recognition**|Dichao Liu et.al.|[2401.14336](http://arxiv.org/abs/2401.14336)|**[link](https://github.com/dichao-liu/anti-noise_fgvr)**|
@@ -91,6 +93,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Cutup and Detect: Human Fall Detection on Cutup Untrimmed Videos Using a Large Foundational Video Understanding Model**|Till Grutschus et.al.|[2401.16280](http://arxiv.org/abs/2401.16280)|null|
+|**2024-01-29**|**Transparency Attacks: How Imperceptible Image Layers Can Fool AI Perception**|Forrest McKee et.al.|[2401.15817](http://arxiv.org/abs/2401.15817)|null|
+|**2024-01-28**|**Prediction of Breast Cancer Recurrence Risk Using a Multi-Model Approach Integrating Whole Slide Imaging and Clinicopathologic Features**|Manu Goyal et.al.|[2401.15805](http://arxiv.org/abs/2401.15805)|null|
+|**2024-01-28**|**Intriguing Equivalence Structures of the Embedding Space of Vision Transformers**|Shaeke Salman et.al.|[2401.15568](http://arxiv.org/abs/2401.15568)|null|
+|**2024-01-27**|**SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection**|Foozhan Ataiefard et.al.|[2401.15293](http://arxiv.org/abs/2401.15293)|null|
 |**2024-01-26**|**MPTQ-ViT:Mixed-PrecisionPost-TrainingQuantizationforVisionTransformer**|Yu-Shan Tai et.al.|[2401.14895](http://arxiv.org/abs/2401.14895)|null|
 |**2024-01-26**|**PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning**|Songsong Tian et.al.|[2401.14807](http://arxiv.org/abs/2401.14807)|null|
 |**2024-01-26**|**VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising**|Yuxiang Hui et.al.|[2401.14754](http://arxiv.org/abs/2401.14754)|null|
@@ -374,11 +381,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
+|**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708](http://arxiv.org/abs/2401.15708)|null|
 |**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
 |**2024-01-25**|**StyleInject: Parameter Efficient Tuning of Text-to-Image Diffusion Models**|Yalong Bai et.al.|[2401.13942](http://arxiv.org/abs/2401.13942)|null|
 |**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
-|**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
+|**2024-01-29**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
 |**2024-01-20**|**Large-scale Reinforcement Learning for Diffusion Models**|Yinan Zhang et.al.|[2401.12244](http://arxiv.org/abs/2401.12244)|null|
 |**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
@@ -560,6 +569,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
+|**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354](http://arxiv.org/abs/2401.14354)|null|
 |**2024-01-27**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
