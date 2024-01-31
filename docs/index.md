@@ -32,6 +32,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-29**|**A Ridgelet Approach to Poisson Denoising**|Ali Dadras et.al.|[2401.16099](http://arxiv.org/abs/2401.16099)|null|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
 |**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966](http://arxiv.org/abs/2401.14966)|**[link](https://github.com/krennic999/mpi)**|
@@ -82,6 +83,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**ViTree: Single-path Neural Tree for Step-wise Interpretable Fine-grained Visual Categorization**|Danning Lao et.al.|[2401.17050](http://arxiv.org/abs/2401.17050)|null|
+|**2024-01-30**|**OptiState: State Estimation of Legged Robots using Gated Networks with Transformer-based Vision and Kalman Filtering**|Alexander Schperberg et.al.|[2401.16719](http://arxiv.org/abs/2401.16719)|**[link](https://github.com/alexs28/optistate)**|
+|**2024-01-29**|**SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design**|Seokju Yun et.al.|[2401.16456](http://arxiv.org/abs/2401.16456)|null|
 |**2024-01-29**|**Cutup and Detect: Human Fall Detection on Cutup Untrimmed Videos Using a Large Foundational Video Understanding Model**|Till Grutschus et.al.|[2401.16280](http://arxiv.org/abs/2401.16280)|null|
 |**2024-01-29**|**Transparency Attacks: How Imperceptible Image Layers Can Fool AI Perception**|Forrest McKee et.al.|[2401.15817](http://arxiv.org/abs/2401.15817)|null|
 |**2024-01-28**|**Prediction of Breast Cancer Recurrence Risk Using a Multi-Model Approach Integrating Whole Slide Imaging and Clinicopathologic Features**|Manu Goyal et.al.|[2401.15805](http://arxiv.org/abs/2401.15805)|null|
@@ -368,6 +372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion**|Yonghao Yu et.al.|[2401.16764](http://arxiv.org/abs/2401.16764)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
 |**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708](http://arxiv.org/abs/2401.15708)|null|
 |**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
@@ -554,6 +559,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|null|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416](http://arxiv.org/abs/2401.16416)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144](http://arxiv.org/abs/2401.16144)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726](http://arxiv.org/abs/2401.14726)|null|
