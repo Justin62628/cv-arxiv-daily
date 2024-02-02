@@ -83,6 +83,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Hybrid Quantum Vision Transformers for Event Classification in High Energy Physics**|Eyup B. Unlu et.al.|[2402.00776](http://arxiv.org/abs/2402.00776)|null|
+|**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534](http://arxiv.org/abs/2402.00534)|null|
 |**2024-01-31**|**Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**|Rozhan Ahmadi et.al.|[2401.17828](http://arxiv.org/abs/2401.17828)|null|
 |**2024-01-31**|**Towards Image Semantics and Syntax Sequence Learning**|Chun Tao et.al.|[2401.17515](http://arxiv.org/abs/2401.17515)|null|
 |**2024-01-30**|**Towards Visual Syntactical Understanding**|Sayeed Shafayet Chowdhury et.al.|[2401.17497](http://arxiv.org/abs/2401.17497)|null|
@@ -375,6 +377,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
 |**2024-01-30**|**BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion**|Yonghao Yu et.al.|[2401.16764](http://arxiv.org/abs/2401.16764)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
 |**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708](http://arxiv.org/abs/2401.15708)|null|
@@ -562,6 +566,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827](http://arxiv.org/abs/2402.00827)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075](http://arxiv.org/abs/2401.18075)|null|
 |**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857](http://arxiv.org/abs/2401.17857)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121](http://arxiv.org/abs/2401.17121)|**[link](https://github.com/mercerai/paev3d)**|
