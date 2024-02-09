@@ -94,6 +94,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Memory Consolidation Enables Long-Context Video Understanding**|Ivana Balažević et.al.|[2402.05861](http://arxiv.org/abs/2402.05861)|null|
+|**2024-02-08**|**AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers**|Reduan Achtibat et.al.|[2402.05602](http://arxiv.org/abs/2402.05602)|null|
+|**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557](http://arxiv.org/abs/2402.05557)|null|
+|**2024-02-08**|**Question Aware Vision Transformer for Multimodal Reasoning**|Roy Ganz et.al.|[2402.05472](http://arxiv.org/abs/2402.05472)|null|
+|**2024-02-08**|**Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures**|Vincent Abbott et.al.|[2402.05424](http://arxiv.org/abs/2402.05424)|null|
 |**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079](http://arxiv.org/abs/2402.05079)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
 |**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753](http://arxiv.org/abs/2402.04753)|null|
 |**2024-02-07**|**Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention**|Saebom Leem et.al.|[2402.04563](http://arxiv.org/abs/2402.04563)|**[link](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention)**|
@@ -409,8 +414,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**|Senmao Li et.al.|[2402.05375](http://arxiv.org/abs/2402.05375)|**[link](https://github.com/sen-mao/suppresseot)**|
+|**2024-02-07**|**$λ$ -ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space**|Maitreya Patel et.al.|[2402.05195](http://arxiv.org/abs/2402.05195)|null|
 |**2024-02-07**|**Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation**|Shivang Chopra et.al.|[2402.04929](http://arxiv.org/abs/2402.04929)|null|
-|**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|null|
+|**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|**[link](https://github.com/frank-xwang/InstanceDiffusion)**|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/abs/2402.03162)|null|
 |**2024-02-07**|**Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models**|Fangzhao Zhang et.al.|[2402.02347](http://arxiv.org/abs/2402.02347)|**[link](https://github.com/pilancilab/Riemannian_Preconditioned_LoRA)**|
 |**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
