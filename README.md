@@ -94,6 +94,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Masked LoGoNet: Fast and Accurate 3D Image Analysis for Medical Domain**|Amin Karimi Monsefi et.al.|[2402.06190](http://arxiv.org/abs/2402.06190)|null|
+|**2024-02-08**|**Memory-Efficient Vision Transformers: An Activation-Aware Mixed-Rank Compression Strategy**|Seyedarmin Azizi et.al.|[2402.06004](http://arxiv.org/abs/2402.06004)|null|
 |**2024-02-08**|**Memory Consolidation Enables Long-Context Video Understanding**|Ivana Balažević et.al.|[2402.05861](http://arxiv.org/abs/2402.05861)|null|
 |**2024-02-08**|**AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers**|Reduan Achtibat et.al.|[2402.05602](http://arxiv.org/abs/2402.05602)|null|
 |**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557](http://arxiv.org/abs/2402.05557)|null|
@@ -414,6 +416,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
+|**2024-02-08**|**Animated Stickers: Bringing Stickers to Life with Video Diffusion**|David Yan et.al.|[2402.06088](http://arxiv.org/abs/2402.06088)|null|
 |**2024-02-08**|**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**|Senmao Li et.al.|[2402.05375](http://arxiv.org/abs/2402.05375)|**[link](https://github.com/sen-mao/suppresseot)**|
 |**2024-02-07**|**$λ$ -ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space**|Maitreya Patel et.al.|[2402.05195](http://arxiv.org/abs/2402.05195)|null|
 |**2024-02-07**|**Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation**|Shivang Chopra et.al.|[2402.04929](http://arxiv.org/abs/2402.04929)|null|
@@ -613,6 +617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390](http://arxiv.org/abs/2402.06390)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
 |**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554](http://arxiv.org/abs/2402.04554)|null|
