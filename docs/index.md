@@ -92,6 +92,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724](http://arxiv.org/abs/2403.04724)|null|
+|**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
+|**2024-03-07**|**AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors**|Kaishen Yuan et.al.|[2403.04697](http://arxiv.org/abs/2403.04697)|**[link](https://github.com/yuankaishen2001/auformer)**|
+|**2024-03-07**|**Yi: Open Foundation Models by 01.AI**|01. AI et.al.|[2403.04652](http://arxiv.org/abs/2403.04652)|null|
+|**2024-03-07**|**T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers**|Mariano V. Ntrougkas et.al.|[2403.04523](http://arxiv.org/abs/2403.04523)|null|
+|**2024-03-07**|**ACC-ViT : Atrous Convolution's Comeback in Vision Transformers**|Nabil Ibtehaz et.al.|[2403.04200](http://arxiv.org/abs/2403.04200)|null|
+|**2024-03-07**|**A data-centric approach to class-specific bias in image data augmentation**|Athanasios Angelakis et.al.|[2403.04120](http://arxiv.org/abs/2403.04120)|null|
 |**2024-03-06**|**MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition**|Yufan Chen et.al.|[2403.03691](http://arxiv.org/abs/2403.03691)|**[link](https://github.com/cyf2000127/molnextr)**|
 |**2024-03-06**|**Multi-modal Deep Learning**|Chen Yuhua et.al.|[2403.03385](http://arxiv.org/abs/2403.03385)|null|
 |**2024-03-05**|**ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures**|Salim Rukhsar et.al.|[2403.03276](http://arxiv.org/abs/2403.03276)|null|
@@ -486,6 +493,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
+|**2024-03-07**|**Controllable Generation with Text-to-Image Diffusion Models: A Survey**|Pu Cao et.al.|[2403.04279](http://arxiv.org/abs/2403.04279)|**[link](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)**|
 |**2024-03-06**|**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging**|Takahiro Shirakawa et.al.|[2403.03485](http://arxiv.org/abs/2403.03485)|null|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-03-06**|**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control**|Xuweiyi Chen et.al.|[2403.02332](http://arxiv.org/abs/2403.02332)|**[link](https://github.com/XuweiyiChen/UniCtrl)**|
@@ -709,6 +718,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Space**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
+|**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
+|**2024-03-07**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115](http://arxiv.org/abs/2403.04115)|null|
+|**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
