@@ -103,6 +103,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**|Liting Lin et.al.|[2403.05231](http://arxiv.org/abs/2403.05231)|null|
+|**2024-03-08**|**Trust Recognition in Human-Robot Cooperation Using EEG**|Caiyue Xu et.al.|[2403.05225](http://arxiv.org/abs/2403.05225)|null|
 |**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724](http://arxiv.org/abs/2403.04724)|null|
 |**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
 |**2024-03-07**|**AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors**|Kaishen Yuan et.al.|[2403.04697](http://arxiv.org/abs/2403.04697)|**[link](https://github.com/yuankaishen2001/auformer)**|
@@ -506,6 +508,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
+|**2024-03-08**|**Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation**|Junyan Wang et.al.|[2403.05239](http://arxiv.org/abs/2403.05239)|null|
+|**2024-03-08**|**Denoising Autoregressive Representation Learning**|Yazhe Li et.al.|[2403.05196](http://arxiv.org/abs/2403.05196)|null|
+|**2024-03-08**|**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**|Xiwei Hu et.al.|[2403.05135](http://arxiv.org/abs/2403.05135)|null|
+|**2024-03-08**|**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**|Wendi Zheng et.al.|[2403.05121](http://arxiv.org/abs/2403.05121)|null|
+|**2024-03-08**|**Face2Diffusion for Fast and Editable Face Personalization**|Kaede Shiohara et.al.|[2403.05094](http://arxiv.org/abs/2403.05094)|**[link](https://github.com/mapooon/face2diffusion)**|
+|**2024-03-07**|**An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control**|Aosong Feng et.al.|[2403.04880](http://arxiv.org/abs/2403.04880)|null|
 |**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
 |**2024-03-07**|**Controllable Generation with Text-to-Image Diffusion Models: A Survey**|Pu Cao et.al.|[2403.04279](http://arxiv.org/abs/2403.04279)|**[link](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)**|
 |**2024-03-06**|**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging**|Takahiro Shirakawa et.al.|[2403.03485](http://arxiv.org/abs/2403.03485)|null|
@@ -733,6 +742,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
 |**2024-03-08**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115](http://arxiv.org/abs/2403.04115)|null|
