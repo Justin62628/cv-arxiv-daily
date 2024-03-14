@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Iterative Learning for Joint Image Denoising and Motion Artifact Correction of 3D Brain MRI**|Lintao Zhang et.al.|[2403.08162](http://arxiv.org/abs/2403.08162)|**[link](https://github.com/goodaycoder/jdac)**|
 |**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874](http://arxiv.org/abs/2403.07874)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
 |**2024-03-12**|**Decoupled Data Consistency with Diffusion Purification for Image Restoration**|Xiang Li et.al.|[2403.06054](http://arxiv.org/abs/2403.06054)|null|
 |**2024-03-06**|**Fast, nonlocal and neural: a lightweight high quality solution to image denoising**|Yu Guo et.al.|[2403.03488](http://arxiv.org/abs/2403.03488)|null|
@@ -94,7 +95,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-12**|**Equipping Computational Pathology Systems with Artifact Processing Pipelines: A Showcase for Computation and Performance Trade-offs**|Neel Kanwal et.al.|[2403.07743](http://arxiv.org/abs/2403.07743)|**[link](https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline)**|
+|**2024-03-13**|**OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework**|Wanyun Li et.al.|[2403.08682](http://arxiv.org/abs/2403.08682)|null|
+|**2024-03-13**|**METER: a mobile vision transformer architecture for monocular depth estimation**|L. Papa et.al.|[2403.08368](http://arxiv.org/abs/2403.08368)|**[link](https://github.com/lorenzopapa5/meter)**|
+|**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330](http://arxiv.org/abs/2403.08330)|null|
+|**2024-03-13**|**Equipping Computational Pathology Systems with Artifact Processing Pipelines: A Showcase for Computation and Performance Trade-offs**|Neel Kanwal et.al.|[2403.07743](http://arxiv.org/abs/2403.07743)|**[link](https://github.com/neelkanwal/equipping-computational-pathology-systems-with-artifact-processing-pipeline)**|
 |**2024-03-12**|**Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal**|Yijun Yang et.al.|[2403.07684](http://arxiv.org/abs/2403.07684)|null|
 |**2024-03-12**|**PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution**|Honghao Chen et.al.|[2403.07589](http://arxiv.org/abs/2403.07589)|null|
 |**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542](http://arxiv.org/abs/2403.07542)|null|
@@ -512,13 +516,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
+|**2024-03-10**|**WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs**|Deshun Yang et.al.|[2403.07944](http://arxiv.org/abs/2403.07944)|null|
 |**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
 |**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
 |**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
 |**2024-03-11**|**Multistep Consistency Models**|Jonathan Heek et.al.|[2403.06807](http://arxiv.org/abs/2403.06807)|null|
 |**2024-03-11**|**V3D: Video Diffusion Models are Effective 3D Generators**|Zilong Chen et.al.|[2403.06738](http://arxiv.org/abs/2403.06738)|**[link](https://github.com/heheyas/v3d)**|
 |**2024-03-10**|**MACE: Mass Concept Erasure in Diffusion Models**|Shilin Lu et.al.|[2403.06135](http://arxiv.org/abs/2403.06135)|**[link](https://github.com/shilin-lu/mace)**|
-|**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098](http://arxiv.org/abs/2403.06098)|null|
+|**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098](http://arxiv.org/abs/2403.06098)|**[link](https://github.com/wangwenhao0716/vidprom)**|
 |**2024-03-09**|**Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines**|Michael Toker et.al.|[2403.05846](http://arxiv.org/abs/2403.05846)|null|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation**|Junyan Wang et.al.|[2403.05239](http://arxiv.org/abs/2403.05239)|null|
@@ -752,12 +758,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
+|**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125](http://arxiv.org/abs/2403.08125)|null|
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/abs/2403.07547)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505](http://arxiv.org/abs/2403.06505)|null|
-|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
+|**2024-03-13**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
 |**2024-03-10**|**Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**|Hanxin Zhu et.al.|[2403.06092](http://arxiv.org/abs/2403.06092)|null|
-|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907](http://arxiv.org/abs/2403.05907)|null|
+|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907](http://arxiv.org/abs/2403.05907)|**[link](https://github.com/vision-sjtu/lightning-nerf)**|
 |**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783](http://arxiv.org/abs/2403.05783)|null|
 |**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
