@@ -95,6 +95,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**GiT: Towards Generalist Vision Transformer through Universal Language Interface**|Haiyang Wang et.al.|[2403.09394](http://arxiv.org/abs/2403.09394)|**[link](https://github.com/haiyang-w/git)**|
+|**2024-03-14**|**LocalMamba: Visual State Space Model with Windowed Selective Scan**|Tao Huang et.al.|[2403.09338](http://arxiv.org/abs/2403.09338)|**[link](https://github.com/hunto/localmamba)**|
 |**2024-03-13**|**OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework**|Wanyun Li et.al.|[2403.08682](http://arxiv.org/abs/2403.08682)|null|
 |**2024-03-13**|**METER: a mobile vision transformer architecture for monocular depth estimation**|L. Papa et.al.|[2403.08368](http://arxiv.org/abs/2403.08368)|**[link](https://github.com/lorenzopapa5/meter)**|
 |**2024-03-13**|**Activating Wider Areas in Image Super-Resolution**|Cheng Cheng et.al.|[2403.08330](http://arxiv.org/abs/2403.08330)|null|
@@ -516,6 +518,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**HeadEvolver: Text to Head Avatars via Locally Learnable Mesh Deformation**|Duotun Wang et.al.|[2403.09326](http://arxiv.org/abs/2403.09326)|null|
+|**2024-03-14**|**XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model**|Anees Ur Rehman Hashmi et.al.|[2403.09240](http://arxiv.org/abs/2403.09240)|null|
+|**2024-03-13**|**Envision3D: One Image to 3D with Anchor Views Interpolation**|Yatian Pang et.al.|[2403.08902](http://arxiv.org/abs/2403.08902)|**[link](https://github.com/pku-yuangroup/envision3d)**|
 |**2024-03-13**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
 |**2024-03-10**|**WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs**|Deshun Yang et.al.|[2403.07944](http://arxiv.org/abs/2403.07944)|null|
 |**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
@@ -758,6 +763,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
+|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
+|**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439](http://arxiv.org/abs/2403.09439)|null|
+|**2024-03-14**|**RoDUS: Robust Decomposition of Static and Dynamic Elements in Urban Scenes**|Thang-Anh-Quan Nguyen et.al.|[2403.09419](http://arxiv.org/abs/2403.09419)|null|
+|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|null|
 |**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
 |**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
