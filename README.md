@@ -118,6 +118,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638](http://arxiv.org/abs/2403.19638)|null|
+|**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
+|**2024-03-28**|**Patch Spatio-Temporal Relation Prediction for Video Anomaly Detection**|Hao Shen et.al.|[2403.19111](http://arxiv.org/abs/2403.19111)|null|
+|**2024-03-28**|**Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach**|Wei Dong et.al.|[2403.19067](http://arxiv.org/abs/2403.19067)|**[link](https://github.com/zstarn70/rlrr)**|
+|**2024-03-27**|**Illicit object detection in X-ray images using Vision Transformers**|Jorgen Cani et.al.|[2403.19043](http://arxiv.org/abs/2403.19043)|null|
+|**2024-03-27**|**Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning**|Huiyi Wang et.al.|[2403.18886](http://arxiv.org/abs/2403.18886)|null|
 |**2024-03-27**|**Dense Vision Transformer Compression with Few Samples**|Hanxiao Zhang et.al.|[2403.18708](http://arxiv.org/abs/2403.18708)|null|
 |**2024-03-27**|**MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction**|Mahendra Gurve et.al.|[2403.18580](http://arxiv.org/abs/2403.18580)|null|
 |**2024-03-28**|**ViTAR: Vision Transformer with Any Resolution**|Qihang Fan et.al.|[2403.18361](http://arxiv.org/abs/2403.18361)|null|
@@ -592,6 +598,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
+|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
+|**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593](http://arxiv.org/abs/2403.19593)|null|
+|**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978](http://arxiv.org/abs/2403.18978)|null|
 |**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554](http://arxiv.org/abs/2403.18554)|null|
 |**2024-03-27**|**DiffStyler: Diffusion-based Localized Image Style Transfer**|Shaoxu Li et.al.|[2403.18461](http://arxiv.org/abs/2403.18461)|null|
 |**2024-03-27**|**U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models**|Ilias Mitsouras et.al.|[2403.18425](http://arxiv.org/abs/2403.18425)|null|
@@ -881,6 +891,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/abs/2403.19607)|null|
+|**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
+|**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/abs/2403.19319)|null|
+|**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476](http://arxiv.org/abs/2403.18476)|null|
