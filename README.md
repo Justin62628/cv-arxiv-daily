@@ -121,7 +121,7 @@
 |**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317](http://arxiv.org/abs/2403.20317)|null|
 |**2024-03-29**|**An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT**|Haikuo Shao et.al.|[2403.20230](http://arxiv.org/abs/2403.20230)|null|
 |**2024-03-28**|**Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights**|Moein Heidari et.al.|[2403.19882](http://arxiv.org/abs/2403.19882)|null|
-|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638](http://arxiv.org/abs/2403.19638)|null|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638](http://arxiv.org/abs/2403.19638)|**[link](https://github.com/genjib/avsiam)**|
 |**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
 |**2024-03-28**|**Patch Spatio-Temporal Relation Prediction for Video Anomaly Detection**|Hao Shen et.al.|[2403.19111](http://arxiv.org/abs/2403.19111)|null|
 |**2024-03-28**|**Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach**|Wei Dong et.al.|[2403.19067](http://arxiv.org/abs/2403.19067)|**[link](https://github.com/zstarn70/rlrr)**|
