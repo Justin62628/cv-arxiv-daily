@@ -109,6 +109,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900](http://arxiv.org/abs/2404.02900)|**[link](https://github.com/val-iisc/DeiT-LT)**|
+|**2024-04-03**|**Imaging transformer for MRI denoising with the SNR unit training: enabling generalization across field-strengths, imaging contrasts, and anatomy**|Hui Xue et.al.|[2404.02382](http://arxiv.org/abs/2404.02382)|null|
 |**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
 |**2024-04-02**|**Minimize Quantization Output Error with Bias Compensation**|Cheng Gong et.al.|[2404.01892](http://arxiv.org/abs/2404.01892)|null|
 |**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705](http://arxiv.org/abs/2404.01705)|null|
@@ -600,6 +602,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models**|Wentian Zhang et.al.|[2404.02747](http://arxiv.org/abs/2404.02747)|**[link](https://github.com/haozheliu-st/t-gate)**|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**Upsample Guidance: Scale Up Diffusion Models without Training**|Juno Hwang et.al.|[2404.01709](http://arxiv.org/abs/2404.01709)|null|
 |**2024-04-01**|**DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery**|Yixuan Zhu et.al.|[2404.01424](http://arxiv.org/abs/2404.01424)|**[link](https://github.com/eternalevan/dpmesh)**|
@@ -903,6 +906,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788](http://arxiv.org/abs/2404.02788)|null|
+|**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742](http://arxiv.org/abs/2404.02742)|**[link](https://github.com/ispc-lab/lidar4d)**|
+|**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617](http://arxiv.org/abs/2404.02617)|null|
+|**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514](http://arxiv.org/abs/2404.02514)|null|
+|**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185](http://arxiv.org/abs/2404.02185)|null|
 |**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/abs/2404.02155)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812](http://arxiv.org/abs/2404.01812)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
