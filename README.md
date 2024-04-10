@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2022-05-31**|**SAR Despeckling Using Overcomplete Convolutional Networks**|Malsha V. Perera et.al.|[2205.15906](http://arxiv.org/abs/2205.15906)|**[link](https://github.com/malshav/sar_overcomplete)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355](http://arxiv.org/abs/2201.09355)|**[link](https://github.com/malshav/sar_transformer)**|
 
-<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
 
 ## Denoise
 
@@ -116,7 +116,7 @@
 |**2023-10-13**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664](http://arxiv.org/abs/2310.05664)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 
-<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
 
 ## Transformer
 
@@ -128,7 +128,7 @@
 |**2024-04-08**|**HSViT: Horizontally Scalable Vision Transformer**|Chenhao Xu et.al.|[2404.05196](http://arxiv.org/abs/2404.05196)|**[link](https://github.com/xuchenhao001/hsvit)**|
 |**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
 |**2024-04-07**|**GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**|Dongjing Shan et.al.|[2404.04924](http://arxiv.org/abs/2404.04924)|null|
-|**2024-04-07**|**Do the receptive fields in the primary visual cortex span a variability over the degree of elongation of the receptive fields?**|Tony Lindeberg et.al.|[2404.04858](http://arxiv.org/abs/2404.04858)|null|
+|**2024-04-09**|**Do the receptive fields in the primary visual cortex span a variability over the degree of elongation of the receptive fields?**|Tony Lindeberg et.al.|[2404.04858](http://arxiv.org/abs/2404.04858)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726](http://arxiv.org/abs/2404.04726)|null|
 |**2024-04-06**|**VTR: An Optimized Vision Transformer for SAR ATR Acceleration on FPGA**|Sachini Wickramasinghe et.al.|[2404.04527](http://arxiv.org/abs/2404.04527)|null|
 |**2024-04-05**|**Vision Transformers in Domain Adaptation and Generalization: A Study of Robustness**|Shadi Alijani et.al.|[2404.04452](http://arxiv.org/abs/2404.04452)|null|
@@ -626,7 +626,7 @@
 |**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063](http://arxiv.org/abs/2310.14063)|null|
 |**2023-10-21**|**Ophthalmic Biomarker Detection Using Ensembled Vision Transformers -- Winning Solution to IEEE SPS VIP Cup 2023**|H. A. Z. Sameen Shahgir et.al.|[2310.14005](http://arxiv.org/abs/2310.14005)|null|
 
-<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
 
 ## Diffusion
 
@@ -944,7 +944,7 @@
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 
-<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
 
 ## NeRF
 
@@ -1351,7 +1351,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
-<p align=right>(<a href=#updated-on-20240409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

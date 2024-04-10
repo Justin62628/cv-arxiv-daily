@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -117,7 +117,7 @@ layout: default
 |**2024-04-08**|**HSViT: Horizontally Scalable Vision Transformer**|Chenhao Xu et.al.|[2404.05196](http://arxiv.org/abs/2404.05196)|**[link](https://github.com/xuchenhao001/hsvit)**|
 |**2024-04-07**|**VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**|Ziyang Wang et.al.|[2404.05105](http://arxiv.org/abs/2404.05105)|null|
 |**2024-04-07**|**GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**|Dongjing Shan et.al.|[2404.04924](http://arxiv.org/abs/2404.04924)|null|
-|**2024-04-07**|**Do the receptive fields in the primary visual cortex span a variability over the degree of elongation of the receptive fields?**|Tony Lindeberg et.al.|[2404.04858](http://arxiv.org/abs/2404.04858)|null|
+|**2024-04-09**|**Do the receptive fields in the primary visual cortex span a variability over the degree of elongation of the receptive fields?**|Tony Lindeberg et.al.|[2404.04858](http://arxiv.org/abs/2404.04858)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726](http://arxiv.org/abs/2404.04726)|null|
 |**2024-04-06**|**VTR: An Optimized Vision Transformer for SAR ATR Acceleration on FPGA**|Sachini Wickramasinghe et.al.|[2404.04527](http://arxiv.org/abs/2404.04527)|null|
 |**2024-04-05**|**Vision Transformers in Domain Adaptation and Generalization: A Study of Robustness**|Shadi Alijani et.al.|[2404.04452](http://arxiv.org/abs/2404.04452)|null|
