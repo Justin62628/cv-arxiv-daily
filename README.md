@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075](http://arxiv.org/abs/2404.06075)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726](http://arxiv.org/abs/2404.04726)|null|
 |**2024-04-04**|**Spatio-Spectral Structure Tensor Total Variation for Hyperspectral Image Denoising and Destriping**|Shingo Takemoto et.al.|[2404.03313](http://arxiv.org/abs/2404.03313)|**[link](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)**|
@@ -123,6 +124,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al.|[2404.07794](http://arxiv.org/abs/2404.07794)|**[link](https://github.com/longshaocong/dgmamba)**|
+|**2024-04-11**|**Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning**|Shiming Chen et.al.|[2404.07713](http://arxiv.org/abs/2404.07713)|null|
+|**2024-04-10**|**Solving Masked Jigsaw Puzzles with Diffusion Vision Transformers**|Jinyang Liu et.al.|[2404.07292](http://arxiv.org/abs/2404.07292)|**[link](https://github.com/jinyangmarkliu/jpdvt)**|
 |**2024-04-10**|**Lost in Translation: Modern Neural Networks Still Struggle With Small Realistic Image Transformations**|Ofir Shifman et.al.|[2404.07153](http://arxiv.org/abs/2404.07153)|null|
 |**2024-04-10**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773](http://arxiv.org/abs/2404.06773)|null|
 |**2024-04-09**|**Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers**|Dipam Goswami et.al.|[2404.06622](http://arxiv.org/abs/2404.06622)|**[link](https://github.com/dipamgoswami/fscil-calibration)**|
@@ -640,6 +644,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
+|**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600](http://arxiv.org/abs/2404.07600)|null|
+|**2024-04-10**|**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**|Yasi Zhang et.al.|[2404.07389](http://arxiv.org/abs/2404.07389)|null|
 |**2024-04-10**|**Move Anything with Layered Scene Diffusion**|Jiawei Ren et.al.|[2404.07178](http://arxiv.org/abs/2404.07178)|null|
 |**2024-04-10**|**Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior**|Fan Lu et.al.|[2404.06780](http://arxiv.org/abs/2404.06780)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
@@ -960,6 +967,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
+|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/abs/2404.07762)|**[link](https://github.com/wljungbergh/neuroncap)**|
+|**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474](http://arxiv.org/abs/2404.07474)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832](http://arxiv.org/abs/2404.06832)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
