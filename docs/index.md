@@ -118,6 +118,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA**|Zeyu Zhang et.al.|[2404.11525](http://arxiv.org/abs/2404.11525)|**[link](https://github.com/steve-zeyu-zhang/JointViT)**|
+|**2024-04-17**|**Supervised Contrastive Vision Transformer for Breast Histopathological Image Classification**|Mohammad Shiri et.al.|[2404.11052](http://arxiv.org/abs/2404.11052)|null|
+|**2024-04-16**|**Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging**|Toqi Tahamid Sarker et.al.|[2404.10841](http://arxiv.org/abs/2404.10841)|**[link](https://github.com/toqitahamid/gasformer)**|
 |**2024-04-16**|**Comprehensive Survey of Model Compression and Speed up for Vision Transformers**|Feiyang Chen et.al.|[2404.10407](http://arxiv.org/abs/2404.10407)|null|
 |**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156](http://arxiv.org/abs/2404.10156)|**[link](https://github.com/osupcvlab/segformer3d)**|
 |**2024-04-17**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326](http://arxiv.org/abs/2404.09326)|null|
@@ -645,6 +648,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
+|**2024-04-17**|**Predicting Long-horizon Futures by Conditioning on Geometry and Time**|Tarasha Khurana et.al.|[2404.11554](http://arxiv.org/abs/2404.11554)|null|
 |**2024-04-16**|**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance**|Jiahao Wang et.al.|[2404.10267](http://arxiv.org/abs/2404.10267)|null|
 |**2024-04-15**|**MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models**|Nithin Gopalakrishnan Nair et.al.|[2404.09977](http://arxiv.org/abs/2404.09977)|null|
 |**2024-04-15**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
@@ -971,6 +977,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603](http://arxiv.org/abs/2404.10603)|null|
 |**2024-04-16**|**1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**|Hang Du et.al.|[2404.10441](http://arxiv.org/abs/2404.10441)|null|
