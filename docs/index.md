@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -34,7 +34,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664](http://arxiv.org/abs/2404.10664)|null|
-|**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|null|
+|**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|**[link](https://github.com/woldier/witunet)**|
 |**2024-04-15**|**Masked and Shuffled Blind Spot Denoising for Real-World Images**|Hamadi Chihaoui et.al.|[2404.09389](http://arxiv.org/abs/2404.09389)|null|
 |**2024-04-14**|**Minimax Optimal rates of convergence in the shuffled regression, unlinked regression, and deconvolution under vanishing noise**|Cecile Durot et.al.|[2404.09306](http://arxiv.org/abs/2404.09306)|null|
 |**2024-04-16**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514](http://arxiv.org/abs/2404.08514)|null|
@@ -120,7 +120,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-16**|**Comprehensive Survey of Model Compression and Speed up for Vision Transformers**|Feiyang Chen et.al.|[2404.10407](http://arxiv.org/abs/2404.10407)|null|
 |**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156](http://arxiv.org/abs/2404.10156)|**[link](https://github.com/osupcvlab/segformer3d)**|
-|**2024-04-14**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326](http://arxiv.org/abs/2404.09326)|null|
+|**2024-04-17**|**Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers**|Diana-Nicoleta Grigore et.al.|[2404.09326](http://arxiv.org/abs/2404.09326)|null|
 |**2024-04-14**|**Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics**|Haosong Peng et.al.|[2404.09245](http://arxiv.org/abs/2404.09245)|null|
 |**2024-04-13**|**HEAT: Head-level Parameter Efficient Adaptation of Vision Transformers with Taylor-expansion Importance Scores**|Yibo Zhong et.al.|[2404.08894](http://arxiv.org/abs/2404.08894)|null|
 |**2024-04-12**|**Single-image driven 3d viewpoint training data augmentation for effective wine label recognition**|Yueh-Cheng Huang et.al.|[2404.08820](http://arxiv.org/abs/2404.08820)|null|
@@ -650,7 +650,7 @@ layout: default
 |**2024-04-15**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
 |**2024-04-16**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
 |**2024-04-13**|**Multimodal Cross-Document Event Coreference Resolution Using Linear Semantic Transfer and Mixed-Modality Ensembles**|Abhijnan Nath et.al.|[2404.08949](http://arxiv.org/abs/2404.08949)|**[link](https://github.com/csu-signal/multimodal-coreference)**|
-|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
+|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|**[link](https://github.com/liming-ai/ControlNet_Plus_Plus)**|
 |**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600](http://arxiv.org/abs/2404.07600)|null|
 |**2024-04-10**|**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**|Yasi Zhang et.al.|[2404.07389](http://arxiv.org/abs/2404.07389)|null|
 |**2024-04-10**|**Move Anything with Layered Scene Diffusion**|Jiawei Ren et.al.|[2404.07178](http://arxiv.org/abs/2404.07178)|null|
