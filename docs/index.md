@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -37,7 +37,7 @@ layout: default
 |**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|**[link](https://github.com/woldier/witunet)**|
 |**2024-04-15**|**Masked and Shuffled Blind Spot Denoising for Real-World Images**|Hamadi Chihaoui et.al.|[2404.09389](http://arxiv.org/abs/2404.09389)|null|
 |**2024-04-14**|**Minimax Optimal rates of convergence in the shuffled regression, unlinked regression, and deconvolution under vanishing noise**|Cecile Durot et.al.|[2404.09306](http://arxiv.org/abs/2404.09306)|null|
-|**2024-04-16**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514](http://arxiv.org/abs/2404.08514)|null|
+|**2024-04-16**|**NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Datase**|Rongjian Xu et.al.|[2404.08514](http://arxiv.org/abs/2404.08514)|**[link](https://github.com/ronjonxu/naid)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075](http://arxiv.org/abs/2404.06075)|null|
 |**2024-04-06**|**Convolutional Neural Network Transformer (CNNT) for Fluorescence Microscopy image Denoising with Improved Generalization and Fast Adaptation**|Azaan Rehman et.al.|[2404.04726](http://arxiv.org/abs/2404.04726)|null|
@@ -118,8 +118,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-17**|**JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA**|Zeyu Zhang et.al.|[2404.11525](http://arxiv.org/abs/2404.11525)|**[link](https://github.com/steve-zeyu-zhang/JointViT)**|
-|**2024-04-17**|**Supervised Contrastive Vision Transformer for Breast Histopathological Image Classification**|Mohammad Shiri et.al.|[2404.11052](http://arxiv.org/abs/2404.11052)|null|
+|**2024-04-18**|**JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA**|Zeyu Zhang et.al.|[2404.11525](http://arxiv.org/abs/2404.11525)|**[link](https://github.com/steve-zeyu-zhang/JointViT)**|
+|**2024-04-18**|**Supervised Contrastive Vision Transformer for Breast Histopathological Image Classification**|Mohammad Shiri et.al.|[2404.11052](http://arxiv.org/abs/2404.11052)|null|
 |**2024-04-16**|**Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging**|Toqi Tahamid Sarker et.al.|[2404.10841](http://arxiv.org/abs/2404.10841)|**[link](https://github.com/toqitahamid/gasformer)**|
 |**2024-04-16**|**Comprehensive Survey of Model Compression and Speed up for Vision Transformers**|Feiyang Chen et.al.|[2404.10407](http://arxiv.org/abs/2404.10407)|null|
 |**2024-04-15**|**SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation**|Shehan Perera et.al.|[2404.10156](http://arxiv.org/abs/2404.10156)|**[link](https://github.com/osupcvlab/segformer3d)**|
