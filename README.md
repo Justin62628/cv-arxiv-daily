@@ -130,7 +130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|null|
+|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|**[link](https://github.com/wangsr126/mae-lite)**|
 |**2024-04-18**|**AccidentBlip2: Accident Detection With Multi-View MotionBlip2**|Yihua Shao et.al.|[2404.12149](http://arxiv.org/abs/2404.12149)|**[link](https://github.com/yihuajerry/accidentblip2)**|
 |**2024-04-17**|**Pretraining Billion-scale Geospatial Foundational Models on Frontier**|Aristeidis Tsaris et.al.|[2404.11706](http://arxiv.org/abs/2404.11706)|null|
 |**2024-04-18**|**SNP: Structured Neuron-level Pruning to Preserve Attention Scores**|Kyunghwan Shim et.al.|[2404.11630](http://arxiv.org/abs/2404.11630)|null|
