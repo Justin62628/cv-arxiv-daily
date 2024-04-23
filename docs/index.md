@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972](http://arxiv.org/abs/2404.13972)|null|
 |**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163](http://arxiv.org/abs/2404.12163)|null|
 |**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664](http://arxiv.org/abs/2404.10664)|null|
 |**2024-04-15**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|**[link](https://github.com/woldier/witunet)**|
@@ -119,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-21**|**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control**|Maria Mihaela Trusca et.al.|[2404.13766](http://arxiv.org/abs/2404.13766)|null|
+|**2024-04-21**|**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**|Felix M. Schmitt-Koopmann et.al.|[2404.13667](http://arxiv.org/abs/2404.13667)|null|
+|**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659](http://arxiv.org/abs/2404.13659)|null|
+|**2024-04-21**|**Data-independent Module-aware Pruning for Hierarchical Vision Transformers**|Yang He et.al.|[2404.13648](http://arxiv.org/abs/2404.13648)|**[link](https://github.com/he-y/data-independent-module-aware-pruning)**|
+|**2024-04-21**|**Masked Latent Transformer with the Random Masking Ratio to Advance the Diagnosis of Dental Fluorosis**|Yun Wu et.al.|[2404.13564](http://arxiv.org/abs/2404.13564)|**[link](https://github.com/uxhao-o/MLTrMR)**|
+|**2024-04-20**|**Nested-TNT: Hierarchical Vision Transformers with Multi-Scale Feature Processing**|Yuang Liu et.al.|[2404.13434](http://arxiv.org/abs/2404.13434)|null|
+|**2024-04-20**|**SSVT: Self-Supervised Vision Transformer For Eye Disease Diagnosis Based On Fundus Images**|Jiaqi Wang et.al.|[2404.13386](http://arxiv.org/abs/2404.13386)|null|
+|**2024-04-20**|**StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction**|Maitreya Shelare et.al.|[2404.13270](http://arxiv.org/abs/2404.13270)|null|
+|**2024-04-20**|**3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification**|Shyam Varahagiri et.al.|[2404.13252](http://arxiv.org/abs/2404.13252)|**[link](https://github.com/shyamvarahagiri/3d-convsst)**|
+|**2024-04-20**|**Vim4Path: Self-Supervised Vision Mamba for Histopathology Images**|Ali Nasiri-Sarvi et.al.|[2404.13222](http://arxiv.org/abs/2404.13222)|**[link](https://github.com/atlasanalyticslab/vim4path)**|
 |**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
 |**2024-04-19**|**A Large-scale Medical Visual Task Adaptation Benchmark**|Shentong Mo et.al.|[2404.12876](http://arxiv.org/abs/2404.12876)|null|
 |**2024-04-19**|**Linearly-evolved Transformer for Pan-sharpening**|Junming Hou et.al.|[2404.12804](http://arxiv.org/abs/2404.12804)|null|
@@ -656,6 +667,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**X-Ray: A Sequential 3D Representation for Generation**|Tao Hu et.al.|[2404.14329](http://arxiv.org/abs/2404.14329)|null|
+|**2024-04-22**|**Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting**|Weili Zeng et.al.|[2404.14007](http://arxiv.org/abs/2404.14007)|null|
+|**2024-04-22**|**MaterialSeg3D: Segmenting Dense Materials from 2D Priors for 3D Assets**|Zeyu Li et.al.|[2404.13923](http://arxiv.org/abs/2404.13923)|null|
+|**2024-04-21**|**Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models**|Vitali Petsiuk et.al.|[2404.13706](http://arxiv.org/abs/2404.13706)|null|
 |**2024-04-19**|**Analysis of Classifier-Free Guidance Weight Schedulers**|Xi Wang et.al.|[2404.13040](http://arxiv.org/abs/2404.13040)|null|
 |**2024-04-19**|**ConCLVD: Controllable Chinese Landscape Video Generation via Diffusion Model**|Dingming Liu et.al.|[2404.12903](http://arxiv.org/abs/2404.12903)|null|
 |**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
@@ -990,8 +1005,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
+|**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921](http://arxiv.org/abs/2404.13921)|null|
+|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896](http://arxiv.org/abs/2404.13896)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
+|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711](http://arxiv.org/abs/2404.13711)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541](http://arxiv.org/abs/2404.13541)|null|
+|**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346](http://arxiv.org/abs/2404.13346)|null|
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
-|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
+|**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
