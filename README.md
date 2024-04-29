@@ -132,6 +132,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning**|Maoxun Yuan et.al.|[2404.17360](http://arxiv.org/abs/2404.17360)|null|
+|**2024-04-26**|**Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting**|Reza Akbarian Bafghi et.al.|[2404.17245](http://arxiv.org/abs/2404.17245)|**[link](https://github.com/rezaakb/peft-vit)**|
+|**2024-04-26**|**Binarizing Documents by Leveraging both Space and Frequency**|Fabio Quattrini et.al.|[2404.17243](http://arxiv.org/abs/2404.17243)|**[link](https://github.com/aimagelab/fourbi)**|
+|**2024-04-26**|**SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval**|Marco Peer et.al.|[2404.17221](http://arxiv.org/abs/2404.17221)|**[link](https://github.com/marco-peer/icdar24)**|
+|**2024-04-26**|**S-IQA Image Quality Assessment With Compressive Sampling**|Ronghua Liao et.al.|[2404.17170](http://arxiv.org/abs/2404.17170)|null|
 |**2024-04-25**|**TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning**|Liang Zhang et.al.|[2404.16635](http://arxiv.org/abs/2404.16635)|**[link](https://github.com/x-plug/mplug-docowl)**|
 |**2024-04-24**|**Vision Transformer-based Adversarial Domain Adaptation**|Yahan Li et.al.|[2404.15817](http://arxiv.org/abs/2404.15817)|**[link](https://github.com/lluckyyh/vt-ada)**|
 |**2024-04-24**|**MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis**|Jiaxin Zhuang et.al.|[2404.15580](http://arxiv.org/abs/2404.15580)|null|
@@ -1033,6 +1038,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
 |**2024-04-24**|**ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**|Jinseo Jeong et.al.|[2404.15707](http://arxiv.org/abs/2404.15707)|null|
