@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994](http://arxiv.org/abs/2404.17994)|null|
 |**2024-04-27**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972](http://arxiv.org/abs/2404.13972)|null|
 |**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163](http://arxiv.org/abs/2404.12163)|null|
@@ -121,6 +122,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Harmonic Machine Learning Models are Robust**|Nicholas S. Kersting et.al.|[2404.18825](http://arxiv.org/abs/2404.18825)|null|
+|**2024-04-29**|**SIDBench: A Python Framework for Reliably Assessing Synthetic Image Detection Methods**|Manos Schinas et.al.|[2404.18552](http://arxiv.org/abs/2404.18552)|**[link](https://github.com/mever-team/sidbench)**|
+|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199](http://arxiv.org/abs/2404.18199)|null|
+|**2024-04-28**|**Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers**|Clément Grisi et.al.|[2404.18152](http://arxiv.org/abs/2404.18152)|null|
+|**2024-04-28**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040](http://arxiv.org/abs/2404.18040)|null|
+|**2024-04-27**|**CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**|Junyi Gu et.al.|[2404.17793](http://arxiv.org/abs/2404.17793)|**[link](https://github.com/claud1234/fcn_transformer_object_segmentation)**|
+|**2024-04-26**|**Deep Learning for Melt Pool Depth Contour Prediction From Surface Thermal Images via Vision Transformers**|Francis Ogoke et.al.|[2404.17699](http://arxiv.org/abs/2404.17699)|null|
 |**2024-04-26**|**UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning**|Maoxun Yuan et.al.|[2404.17360](http://arxiv.org/abs/2404.17360)|null|
 |**2024-04-26**|**Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting**|Reza Akbarian Bafghi et.al.|[2404.17245](http://arxiv.org/abs/2404.17245)|**[link](https://github.com/rezaakb/peft-vit)**|
 |**2024-04-26**|**Binarizing Documents by Leveraging both Space and Frequency**|Fabio Quattrini et.al.|[2404.17243](http://arxiv.org/abs/2404.17243)|**[link](https://github.com/aimagelab/fourbi)**|
@@ -683,6 +691,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
+|**2024-04-28**|**Exposing Text-Image Inconsistency Using Diffusion Models**|Mingzhen Huang et.al.|[2404.18033](http://arxiv.org/abs/2404.18033)|null|
+|**2024-04-27**|**Diffusion-Aided Joint Source Channel Coding For High Realism Wireless Image Transmission**|Mingyu Yang et.al.|[2404.17736](http://arxiv.org/abs/2404.17736)|null|
 |**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
 |**2024-04-22**|**UVMap-ID: A Controllable and Personalized UV Map Generative Model**|Weijie Wang et.al.|[2404.14568](http://arxiv.org/abs/2404.14568)|**[link](https://github.com/twowwj/uvmap-id)**|
 |**2024-04-22**|**X-Ray: A Sequential 3D Representation for Generation**|Tao Hu et.al.|[2404.14329](http://arxiv.org/abs/2404.14329)|null|
@@ -1023,6 +1034,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284](http://arxiv.org/abs/2404.18284)|null|
+|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890](http://arxiv.org/abs/2404.17890)|null|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528](http://arxiv.org/abs/2404.17528)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429](http://arxiv.org/abs/2404.16429)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221](http://arxiv.org/abs/2404.16221)|null|
