@@ -140,9 +140,9 @@ layout: default
 |**2024-04-29**|**Revolutionizing Traffic Sign Recognition: Unveiling the Potential of Vision Transformers**|Susano Mingwin et.al.|[2404.19066](http://arxiv.org/abs/2404.19066)|null|
 |**2024-04-29**|**Harmonic Machine Learning Models are Robust**|Nicholas S. Kersting et.al.|[2404.18825](http://arxiv.org/abs/2404.18825)|null|
 |**2024-04-29**|**SIDBench: A Python Framework for Reliably Assessing Synthetic Image Detection Methods**|Manos Schinas et.al.|[2404.18552](http://arxiv.org/abs/2404.18552)|**[link](https://github.com/mever-team/sidbench)**|
-|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199](http://arxiv.org/abs/2404.18199)|null|
+|**2024-04-28**|**Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging**|Fares Bougourzi et.al.|[2404.18199](http://arxiv.org/abs/2404.18199)|**[link](https://github.com/faresbougourzi/pagtransynet)**|
 |**2024-04-28**|**Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers**|Clément Grisi et.al.|[2404.18152](http://arxiv.org/abs/2404.18152)|null|
-|**2024-04-28**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040](http://arxiv.org/abs/2404.18040)|null|
+|**2024-04-28**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040](http://arxiv.org/abs/2404.18040)|**[link](https://github.com/outfit-net/outfit-commpatibility)**|
 |**2024-04-27**|**CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**|Junyi Gu et.al.|[2404.17793](http://arxiv.org/abs/2404.17793)|**[link](https://github.com/claud1234/fcn_transformer_object_segmentation)**|
 |**2024-04-26**|**Deep Learning for Melt Pool Depth Contour Prediction From Surface Thermal Images via Vision Transformers**|Francis Ogoke et.al.|[2404.17699](http://arxiv.org/abs/2404.17699)|null|
 |**2024-04-26**|**UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning**|Maoxun Yuan et.al.|[2404.17360](http://arxiv.org/abs/2404.17360)|null|
@@ -245,7 +245,7 @@ layout: default
 |**2024-03-26**|**Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer**|Badri N. Patro et.al.|[2403.18063](http://arxiv.org/abs/2403.18063)|**[link](https://github.com/badripatro/sct)**|
 |**2024-03-26**|**Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications**|Fouad Trad et.al.|[2403.17787](http://arxiv.org/abs/2403.17787)|null|
 |**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432](http://arxiv.org/abs/2403.17432)|null|
-|**2024-03-26**|**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**|Yufu Wang et.al.|[2403.17346](http://arxiv.org/abs/2403.17346)|null|
+|**2024-03-26**|**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**|Yufu Wang et.al.|[2403.17346](http://arxiv.org/abs/2403.17346)|**[link](https://github.com/yufu-wang/tram)**|
 |**2024-03-26**|**Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer**|Jeong-Yoon Kim et.al.|[2403.17327](http://arxiv.org/abs/2403.17327)|null|
 |**2024-03-25**|**Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study**|Ahmed Soliman et.al.|[2403.17177](http://arxiv.org/abs/2403.17177)|null|
 |**2024-03-25**|**Mapping Image Transformations Onto Pixel Processor Arrays**|Laurie Bose et.al.|[2403.16994](http://arxiv.org/abs/2403.16994)|**[link](https://github.com/lauriebose/scamp7-image-transformations)**|
@@ -522,7 +522,7 @@ layout: default
 |**2023-12-15**|**Multiscale Vision Transformer With Deep Clustering-Guided Refinement for Weakly Supervised Object Localization**|David Kim et.al.|[2312.09584](http://arxiv.org/abs/2312.09584)|null|
 |**2023-12-18**|**A Case Study of Image Enhancement Algorithms' Effectiveness of Improving Neural Networks' Performance on Adverse Images**|Jonathan Sanderson et.al.|[2312.09509](http://arxiv.org/abs/2312.09509)|null|
 |**2023-12-14**|**Weight subcloning: direct initialization of transformers using larger pretrained ones**|Mohammad Samragh et.al.|[2312.09299](http://arxiv.org/abs/2312.09299)|null|
-|**2023-12-14**|**Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery**|Zimian Wei et.al.|[2312.09059](http://arxiv.org/abs/2312.09059)|null|
+|**2023-12-14**|**Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery**|Zimian Wei et.al.|[2312.09059](http://arxiv.org/abs/2312.09059)|**[link](https://github.com/lilujunai/auto-prox-aaai24)**|
 |**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
 |**2023-12-14**|**Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost**|Haolin Qin et.al.|[2312.08614](http://arxiv.org/abs/2312.08614)|**[link](https://github.com/q2479036243/favit)**|
 |**2023-12-13**|**Vision Transformer-Based Deep Learning for Histologic Classification of Endometrial Cancer**|Manu Goyal et.al.|[2312.08479](http://arxiv.org/abs/2312.08479)|null|
@@ -810,7 +810,7 @@ layout: default
 |**2024-03-17**|**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**|Jie Ren et.al.|[2403.11052](http://arxiv.org/abs/2403.11052)|**[link](https://github.com/renjie3/memattn)**|
 |**2024-03-16**|**Ctrl123: Consistent Novel View Synthesis via Closed-Loop Transcription**|Hongxiang Zhao et.al.|[2403.10953](http://arxiv.org/abs/2403.10953)|null|
 |**2024-03-14**|**HeadEvolver: Text to Head Avatars via Locally Learnable Mesh Deformation**|Duotun Wang et.al.|[2403.09326](http://arxiv.org/abs/2403.09326)|null|
-|**2024-03-14**|**XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model**|Anees Ur Rehman Hashmi et.al.|[2403.09240](http://arxiv.org/abs/2403.09240)|null|
+|**2024-03-14**|**XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model**|Anees Ur Rehman Hashmi et.al.|[2403.09240](http://arxiv.org/abs/2403.09240)|**[link](https://github.com/biomedia-mbzuai/xreal)**|
 |**2024-03-13**|**Envision3D: One Image to 3D with Anchor Views Interpolation**|Yatian Pang et.al.|[2403.08902](http://arxiv.org/abs/2403.08902)|**[link](https://github.com/pku-yuangroup/envision3d)**|
 |**2024-03-13**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
 |**2024-03-10**|**WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs**|Deshun Yang et.al.|[2403.07944](http://arxiv.org/abs/2403.07944)|null|
