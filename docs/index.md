@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -33,7 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
+|**2024-05-12**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-05-08**|**Investigating Self-Supervised Image Denoising with Denaturation**|Hiroki Waida et.al.|[2405.01124](http://arxiv.org/abs/2405.01124)|null|
 |**2024-04-30**|**Noise propagation and MP-PCA image denoising for high-resolution quantitative T2* and magnetic susceptibility mapping (QSM)**|Liad Doniza et.al.|[2404.19309](http://arxiv.org/abs/2404.19309)|null|
 |**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994](http://arxiv.org/abs/2404.17994)|null|
@@ -41,7 +41,7 @@ layout: default
 |**2024-05-09**|**A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers**|Muhammad Ahmad et.al.|[2404.14955](http://arxiv.org/abs/2404.14955)|**[link](https://github.com/mahmad00/conventional-to-transformer-for-hyperspectral-image-classification-survey-2024)**|
 |**2024-04-22**|**Non-Uniform Exposure Imaging via Neuromorphic Shutter Control**|Mingyuan Lin et.al.|[2404.13972](http://arxiv.org/abs/2404.13972)|null|
 |**2024-04-17**|**Unsupervised Microscopy Video Denoising**|Mary Aiyetigbo et.al.|[2404.12163](http://arxiv.org/abs/2404.12163)|null|
-|**2024-04-16**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664](http://arxiv.org/abs/2404.10664)|**[link](https://github.com/MHmi1/Image_Denoising_Classification)**|
+|**2024-05-12**|**Assessing The Impact of CNN Auto Encoder-Based Image Denoising on Image Classification Tasks**|Mohsen Hami et.al.|[2404.10664](http://arxiv.org/abs/2404.10664)|**[link](https://github.com/MHmi1/Image_Denoising_Classification)**|
 |**2024-04-29**|**WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion**|Bin Wang et.al.|[2404.09533](http://arxiv.org/abs/2404.09533)|**[link](https://github.com/woldier/witunet)**|
 |**2024-04-15**|**Masked and Shuffled Blind Spot Denoising for Real-World Images**|Hamadi Chihaoui et.al.|[2404.09389](http://arxiv.org/abs/2404.09389)|null|
 |**2024-04-14**|**Minimax Optimal rates of convergence in the shuffled regression, unlinked regression, and deconvolution under vanishing noise**|Cecile Durot et.al.|[2404.09306](http://arxiv.org/abs/2404.09306)|null|
