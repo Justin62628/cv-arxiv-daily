@@ -126,6 +126,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**NutritionVerse-Direct: Exploring Deep Neural Networks for Multitask Nutrition Prediction from Food Images**|Matthew Keller et.al.|[2405.07814](http://arxiv.org/abs/2405.07814)|null|
+|**2024-05-13**|**Dehazing Remote Sensing and UAV Imagery: A Review of Deep Learning, Prior-based, and Hybrid Approaches**|Gao Yu Lee et.al.|[2405.07520](http://arxiv.org/abs/2405.07520)|null|
+|**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
+|**2024-05-10**|**Dual-Task Vision Transformer for Rapid and Accurate Intracerebral Hemorrhage Classification on CT Images**|Jialiang Fan et.al.|[2405.06814](http://arxiv.org/abs/2405.06814)|null|
 |**2024-05-09**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057](http://arxiv.org/abs/2405.06057)|**[link](https://github.com/ksgr5566/unseggnet)**|
 |**2024-05-09**|**TransAnaNet: Transformer-based Anatomy Change Prediction Network for Head and Neck Cancer Patient Radiotherapy**|Meixu Chen et.al.|[2405.05674](http://arxiv.org/abs/2405.05674)|null|
 |**2024-05-08**|**Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches**|Qing Yu et.al.|[2405.04771](http://arxiv.org/abs/2405.04771)|null|
@@ -726,6 +730,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
+|**2024-05-12**|**Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning**|Masane Fuchi et.al.|[2405.07288](http://arxiv.org/abs/2405.07288)|null|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
 |**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
@@ -1077,6 +1083,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**|Mingyu Kim et.al.|[2405.07857](http://arxiv.org/abs/2405.07857)|**[link](https://github.com/mingyukim87/synergynerf)**|
+|**2024-05-12**|**Point Resampling and Ray Transformation Aid to Editable NeRF Models**|Zhenyang Li et.al.|[2405.07306](http://arxiv.org/abs/2405.07306)|null|
+|**2024-05-12**|**Hologram: Realtime Holographic Overlays via LiDAR Augmented Reconstruction**|Ekansh Agrawal et.al.|[2405.07178](http://arxiv.org/abs/2405.07178)|null|
+|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027](http://arxiv.org/abs/2405.07027)|null|
+|**2024-05-10**|**LIVE: LaTex Interactive Visual Editing**|Jinwei Lin et.al.|[2405.06762](http://arxiv.org/abs/2405.06762)|null|
 |**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-10**|**Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering**|Xiaohan Zhang et.al.|[2405.06214](http://arxiv.org/abs/2405.06214)|null|
 |**2024-05-10**|**Residual-NeRF: Learning Residual NeRFs for Transparent Object Manipulation**|Bardienus P. Duisterhof et.al.|[2405.06181](http://arxiv.org/abs/2405.06181)|null|
