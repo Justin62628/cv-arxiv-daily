@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -33,7 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-12**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
+|**2024-05-15**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-05-08**|**Investigating Self-Supervised Image Denoising with Denaturation**|Hiroki Waida et.al.|[2405.01124](http://arxiv.org/abs/2405.01124)|null|
 |**2024-04-30**|**Noise propagation and MP-PCA image denoising for high-resolution quantitative T2* and magnetic susceptibility mapping (QSM)**|Liad Doniza et.al.|[2404.19309](http://arxiv.org/abs/2404.19309)|null|
 |**2024-04-27**|**LpQcM: Adaptable Lesion-Quantification-Consistent Modulation for Deep Learning Low-Count PET Image Denoising**|Menghua Xia et.al.|[2404.17994](http://arxiv.org/abs/2404.17994)|null|
@@ -737,7 +737,7 @@ layout: default
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
 |**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
-|**2024-05-12**|**Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning**|Masane Fuchi et.al.|[2405.07288](http://arxiv.org/abs/2405.07288)|null|
+|**2024-05-12**|**Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning**|Masane Fuchi et.al.|[2405.07288](http://arxiv.org/abs/2405.07288)|**[link](https://github.com/fmp453/few-shot-erasing)**|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
 |**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
