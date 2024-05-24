@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -127,7 +127,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-17**|**Enhancing the analysis of murine neonatal ultrasonic vocalizations: Development, evaluation, and application of different mathematical models**|Rudolf Herdt et.al.|[2405.12957](http://arxiv.org/abs/2405.12957)|null|
-|**2024-05-19**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954](http://arxiv.org/abs/2405.12954)|null|
+|**2024-05-22**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954](http://arxiv.org/abs/2405.12954)|null|
 |**2024-05-21**|**On a time-frequency blurring operator with applications in data augmentation**|Simon Halvdansson et.al.|[2405.12899](http://arxiv.org/abs/2405.12899)|null|
 |**2024-05-21**|**BIMM: Brain Inspired Masked Modeling for Video Representation Learning**|Zhifan Wan et.al.|[2405.12757](http://arxiv.org/abs/2405.12757)|null|
 |**2024-05-21**|**Is Dataset Quality Still a Concern in Diagnosis Using Large Foundation Model?**|Ziqin Lin et.al.|[2405.12584](http://arxiv.org/abs/2405.12584)|null|
