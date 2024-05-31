@@ -128,6 +128,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Scaling White-Box Transformers for Vision**|Jinrui Yang et.al.|[2405.20299](http://arxiv.org/abs/2405.20299)|null|
+|**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
+|**2024-05-30**|**P $^2$ -ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer**|Huihong Shi et.al.|[2405.19915](http://arxiv.org/abs/2405.19915)|null|
+|**2024-05-29**|**MDS-ViTNet: Improving saliency prediction for Eye-Tracking with Vision Transformer**|Polezhaev Ignat et.al.|[2405.19501](http://arxiv.org/abs/2405.19501)|**[link](https://github.com/ignatpolezhaev/mds-vitnet)**|
 |**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
 |**2024-05-29**|**PanoNormal: Monocular Indoor 360° Surface Normal Estimation**|Kun Huang et.al.|[2405.18745](http://arxiv.org/abs/2405.18745)|null|
 |**2024-05-29**|**Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain**|Juntao Zhang et.al.|[2405.18679](http://arxiv.org/abs/2405.18679)|**[link](https://github.com/yws-wxs/vim-f)**|
@@ -786,8 +790,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334](http://arxiv.org/abs/2405.20334)|null|
+|**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
+|**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155](http://arxiv.org/abs/2405.20155)|null|
+|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|null|
+|**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
-|**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|null|
+|**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|**[link](https://github.com/jaehong31/raccoon)**|
 |**2024-05-28**|**VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**|Qilin Wang et.al.|[2405.18156](http://arxiv.org/abs/2405.18156)|null|
 |**2024-05-28**|**EG4D: Explicit Generation of 4D Object without Score Distillation**|Qi Sun et.al.|[2405.18132](http://arxiv.org/abs/2405.18132)|null|
 |**2024-05-28**|**Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval**|Dvir Samuel et.al.|[2405.18025](http://arxiv.org/abs/2405.18025)|null|
@@ -1181,8 +1190,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
+|**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283](http://arxiv.org/abs/2405.20283)|null|
+|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
+|**2024-05-30**|**IReNe: Instant Recoloring in Neural Radiance Fields**|Alessio Mazzucchelli et.al.|[2405.19876](http://arxiv.org/abs/2405.19876)|null|
+|**2024-05-30**|**HINT: Learning Complete Human Neural Representations from Limited Viewpoints**|Alessandro Sanvito et.al.|[2405.19712](http://arxiv.org/abs/2405.19712)|null|
+|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678](http://arxiv.org/abs/2405.19678)|null|
 |**2024-05-29**|**Neural Radiance Fields for Novel View Synthesis in Monocular Gastroscopy**|Zijie Jiang et.al.|[2405.18863](http://arxiv.org/abs/2405.18863)|null|
-|**2024-05-29**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|null|
+|**2024-05-29**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|**[link](https://github.com/cvg/nerf-on-the-go)**|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
 |**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
 |**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
