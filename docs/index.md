@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -792,7 +792,7 @@ layout: default
 |**2024-05-28**|**EG4D: Explicit Generation of 4D Object without Score Distillation**|Qi Sun et.al.|[2405.18132](http://arxiv.org/abs/2405.18132)|null|
 |**2024-05-28**|**Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval**|Dvir Samuel et.al.|[2405.18025](http://arxiv.org/abs/2405.18025)|null|
 |**2024-05-28**|**Diffusion Rejection Sampling**|Byeonghu Na et.al.|[2405.17880](http://arxiv.org/abs/2405.17880)|**[link](https://github.com/aailabkaist/diffrs)**|
-|**2024-05-28**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
+|**2024-05-30**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
 |**2024-05-28**|**MindFormer: A Transformer Architecture for Multi-Subject Brain Decoding via fMRI**|Inhwa Han et.al.|[2405.17720](http://arxiv.org/abs/2405.17720)|null|
 |**2024-05-27**|**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance**|Jiaojiao Fan et.al.|[2405.17661](http://arxiv.org/abs/2405.17661)|null|
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
