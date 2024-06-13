@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -834,7 +834,7 @@ layout: default
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
 |**2024-06-10**|**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**|Jiwoo Hong et.al.|[2406.06424](http://arxiv.org/abs/2406.06424)|null|
 |**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641](http://arxiv.org/abs/2406.05641)|null|
-|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
+|**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
 |**2024-06-07**|**DiffusionPID: Interpreting Diffusion via Partial Information Decomposition**|Shaurya Dewan et.al.|[2406.05191](http://arxiv.org/abs/2406.05191)|null|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/abs/2406.04814)|null|
