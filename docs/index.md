@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -135,7 +135,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
-|**2024-06-13**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296](http://arxiv.org/abs/2406.09296)|null|
+|**2024-06-14**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296](http://arxiv.org/abs/2406.09296)|null|
 |**2024-06-13**|**MGRQ: Post-Training Quantization For Vision Transformer With Mixed Granularity Reconstruction**|Lianwei Yang et.al.|[2406.09229](http://arxiv.org/abs/2406.09229)|null|
 |**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167](http://arxiv.org/abs/2406.09167)|null|
 |**2024-06-13**|**Fusion of regional and sparse attention in Vision Transformers**|Nabil Ibtehaz et.al.|[2406.08859](http://arxiv.org/abs/2406.08859)|null|
@@ -845,7 +845,7 @@ layout: default
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
 |**2024-06-12**|**Diffusion-Promoted HDR Video Reconstruction**|Yuanshen Guan et.al.|[2406.08204](http://arxiv.org/abs/2406.08204)|null|
-|**2024-06-12**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
+|**2024-06-14**|**One-Step Effective Diffusion Network for Real-World Image Super-Resolution**|Rongyuan Wu et.al.|[2406.08177](http://arxiv.org/abs/2406.08177)|**[link](https://github.com/cswry/osediff)**|
 |**2024-06-12**|**Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models**|Arman Zarei et.al.|[2406.07844](http://arxiv.org/abs/2406.07844)|**[link](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)**|
 |**2024-06-11**|**Instant 3D Human Avatar Generation using Image Diffusion Models**|Nikos Kolotouros et.al.|[2406.07516](http://arxiv.org/abs/2406.07516)|null|
 |**2024-06-11**|**4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models**|Heng Yu et.al.|[2406.07472](http://arxiv.org/abs/2406.07472)|null|
@@ -1283,7 +1283,7 @@ layout: default
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
-|**2024-06-13**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
+|**2024-06-14**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
 |**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
 |**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488](http://arxiv.org/abs/2406.08488)|null|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009](http://arxiv.org/abs/2406.08009)|**[link](https://github.com/BIT-DYN/OpenObj)**|
