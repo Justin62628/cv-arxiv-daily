@@ -138,6 +138,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
+|**2024-06-24**|**Priorformer: A UGC-VQA Method with content and distortion priors**|Yajing Pei et.al.|[2406.16297](http://arxiv.org/abs/2406.16297)|null|
+|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
+|**2024-06-23**|**RepNeXt: A Fast Multi-Scale CNN using Structural Reparameterization**|Mingshu Zhao et.al.|[2406.16004](http://arxiv.org/abs/2406.16004)|**[link](https://github.com/suous/repnext)**|
+|**2024-06-22**|**Beyond the Doors of Perception: Vision Transformers Represent Relations Between Objects**|Michael A. Lepori et.al.|[2406.15955](http://arxiv.org/abs/2406.15955)|null|
+|**2024-06-22**|**How to Learn More? Exploring Kolmogorov-Arnold Networks for Hyperspectral Image Classification**|Ali Jamali et.al.|[2406.15719](http://arxiv.org/abs/2406.15719)|**[link](https://github.com/aj1365/hsiconvkan)**|
 |**2024-06-21**|**ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification**|Xianlong Wang et.al.|[2406.15093](http://arxiv.org/abs/2406.15093)|**[link](https://github.com/cgcl-codes/eclipse)**|
 |**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034](http://arxiv.org/abs/2406.15034)|null|
 |**2024-06-21**|**SiT: Symmetry-Invariant Transformers for Generalisation in Reinforcement Learning**|Matthias Weissenbacher et.al.|[2406.15025](http://arxiv.org/abs/2406.15025)|null|
@@ -869,6 +875,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
+|**2024-06-24**|**YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals**|Sandeep Mishra et.al.|[2406.16273](http://arxiv.org/abs/2406.16273)|null|
+|**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272](http://arxiv.org/abs/2406.16272)|null|
+|**2024-06-24**|**Video-Infinity: Distributed Long Video Generation**|Zhenxiong Tan et.al.|[2406.16260](http://arxiv.org/abs/2406.16260)|null|
+|**2024-06-22**|**EmoAttack: Emotion-to-Image Diffusion Models for Emotional Backdoor Generation**|Tianyu Wei et.al.|[2406.15863](http://arxiv.org/abs/2406.15863)|null|
+|**2024-06-22**|**Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model**|Min Zhao et.al.|[2406.15735](http://arxiv.org/abs/2406.15735)|null|
 |**2024-06-21**|**VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**|Zixuan Chen et.al.|[2406.14964](http://arxiv.org/abs/2406.14964)|null|
 |**2024-06-21**|**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models**|Jie Ren et.al.|[2406.14855](http://arxiv.org/abs/2406.14855)|null|
 |**2024-06-21**|**Fair Text to Medical Image Diffusion Model with Subgroup Distribution Aligned Tuning**|Xu Han et.al.|[2406.14847](http://arxiv.org/abs/2406.14847)|null|
@@ -1332,6 +1345,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623](http://arxiv.org/abs/2406.16623)|null|
+|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289](http://arxiv.org/abs/2406.16289)|null|
+|**2024-06-23**|**Towards Real-Time Neural Volumetric Rendering on Mobile Devices: A Measurement Study**|Zhe Wang et.al.|[2406.16068](http://arxiv.org/abs/2406.16068)|null|
+|**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982](http://arxiv.org/abs/2406.15982)|null|
+|**2024-06-22**|**psPRF:Pansharpening Planar Neural Radiance Field for Generalized 3D Reconstruction Satellite Imagery**|Tongtong Zhang et.al.|[2406.15707](http://arxiv.org/abs/2406.15707)|null|
 |**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020](http://arxiv.org/abs/2406.15020)|null|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978](http://arxiv.org/abs/2406.14978)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
 |**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806](http://arxiv.org/abs/2406.14806)|null|
