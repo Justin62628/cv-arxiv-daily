@@ -150,6 +150,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
+|**2024-07-03**|**Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization**|Sebastian Doerrich et.al.|[2407.02900](http://arxiv.org/abs/2407.02900)|**[link](https://github.com/sdoerrich97/vits-are-generative-models)**|
+|**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763](http://arxiv.org/abs/2407.02763)|null|
+|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation1 from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616](http://arxiv.org/abs/2407.02616)|null|
 |**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371](http://arxiv.org/abs/2407.02371)|null|
 |**2024-07-02**|**LPViT: Low-Power Semi-structured Pruning for Vision Transformers**|Kaixin Xu et.al.|[2407.02068](http://arxiv.org/abs/2407.02068)|null|
 |**2024-07-02**|**Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope**|Haodi Hu et.al.|[2407.01898](http://arxiv.org/abs/2407.01898)|null|
@@ -1400,6 +1404,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811](http://arxiv.org/abs/2407.01811)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
