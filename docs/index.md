@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -146,7 +146,7 @@ layout: default
 |**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449](http://arxiv.org/abs/2407.04449)|**[link](https://github.com/nyuad-cai/cxr-ehr-msn)**|
 |**2024-07-05**|**Hard-Attention Gates with Gradient Routing for Endoscopic Image Computing**|Giorgio Roffo et.al.|[2407.04400](http://arxiv.org/abs/2407.04400)|null|
 |**2024-07-05**|**HCS-TNAS: Hybrid Constraint-driven Semi-supervised Transformer-NAS for Ultrasound Image Segmentation**|Renqi Chen et.al.|[2407.04203](http://arxiv.org/abs/2407.04203)|null|
-|**2024-07-04**|**Looking for Tiny Defects via Forward-Backward Feature Transfer**|Alex Costanzino et.al.|[2407.04092](http://arxiv.org/abs/2407.04092)|null|
+|**2024-07-08**|**Looking for Tiny Defects via Forward-Backward Feature Transfer**|Alex Costanzino et.al.|[2407.04092](http://arxiv.org/abs/2407.04092)|null|
 |**2024-07-04**|**PECTP: Parameter-Efficient Cross-Task Prompts for Incremental Vision Transformer**|Qian Feng et.al.|[2407.03813](http://arxiv.org/abs/2407.03813)|null|
 |**2024-07-04**|**Feedback-guided Domain Synthesis with Multi-Source Conditional Diffusion Models for Domain Generalization**|Mehrdad Noori et.al.|[2407.03588](http://arxiv.org/abs/2407.03588)|**[link](https://github.com/mehrdad-noori/fds)**|
 |**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
