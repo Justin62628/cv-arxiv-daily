@@ -42,6 +42,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Pan-denoising: Guided Hyperspectral Image Denoising via Weighted Represent Coefficient Total Variation**|Shuang Xu et.al.|[2407.06064](http://arxiv.org/abs/2407.06064)|**[link](https://github.com/shuangxu96/pwrctv)**|
+|**2024-07-08**|**Heterogeneous window transformer for image denoising**|Chunwei Tian et.al.|[2407.05709](http://arxiv.org/abs/2407.05709)|null|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
 |**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264](http://arxiv.org/abs/2406.14264)|**[link](https://github.com/meijitian/zs-denoisier-hrem)**|
 |**2024-06-17**|**A Dictionary Based Approach for Removing Out-of-Focus Blur**|Uditangshu Aurangabadkar et.al.|[2406.11330](http://arxiv.org/abs/2406.11330)|**[link](https://github.com/aurangau/ICIP2024)**|
@@ -150,6 +152,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Transfer Learning with Self-Supervised Vision Transformers for Snake Identification**|Anthony Miyaguchi et.al.|[2407.06178](http://arxiv.org/abs/2407.06178)|**[link](https://github.com/dsgt-kaggle-clef/snakeclef-2024)**|
+|**2024-07-08**|**Enhancing Robotic Arm Activity Recognition with Vision Transformers and Wavelet-Transformed Channel State Information**|Rojin Zandi et.al.|[2407.06154](http://arxiv.org/abs/2407.06154)|null|
+|**2024-07-08**|**Bringing Masked Autoencoders Explicit Contrastive Properties for Point Cloud Self-Supervised Learning**|Bin Ren et.al.|[2407.05862](http://arxiv.org/abs/2407.05862)|null|
+|**2024-07-08**|**Wavelet Convolutions for Large Receptive Fields**|Shahaf E. Finder et.al.|[2407.05848](http://arxiv.org/abs/2407.05848)|**[link](https://github.com/bgu-cs-vil/wtconv)**|
+|**2024-07-08**|**Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**|Yaozong Gan et.al.|[2407.05814](http://arxiv.org/abs/2407.05814)|null|
+|**2024-07-07**|**Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking**|You Wu et.al.|[2407.05383](http://arxiv.org/abs/2407.05383)|null|
+|**2024-07-07**|**CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs**|Akshat Ramachandran et.al.|[2407.05266](http://arxiv.org/abs/2407.05266)|**[link](https://github.com/georgia-tech-synergy-lab/clamp-vit)**|
+|**2024-07-06**|**CBM: Curriculum by Masking**|Andrei Jarca et.al.|[2407.05193](http://arxiv.org/abs/2407.05193)|**[link](https://github.com/croitorualin/cbm)**|
+|**2024-07-06**|**PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**|Ye Li et.al.|[2407.05010](http://arxiv.org/abs/2407.05010)|null|
+|**2024-07-05**|**Improving ensemble extreme precipitation forecasts using generative artificial intelligence**|Yingkai Sha et.al.|[2407.04882](http://arxiv.org/abs/2407.04882)|null|
 |**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616](http://arxiv.org/abs/2407.04616)|**[link](https://github.com/vainf/isomorphic-pruning)**|
 |**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603](http://arxiv.org/abs/2407.04603)|null|
 |**2024-07-05**|**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**|Ananthu Aniraj et.al.|[2407.04538](http://arxiv.org/abs/2407.04538)|**[link](https://github.com/ananthu-aniraj/pdiscoformer)**|
@@ -926,6 +938,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
+|**2024-07-07**|**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**|Danni Yang et.al.|[2407.05352](http://arxiv.org/abs/2407.05352)|null|
 |**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461](http://arxiv.org/abs/2407.04461)|null|
 |**2024-07-05**|**T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models**|Zhongqi Wang et.al.|[2407.04215](http://arxiv.org/abs/2407.04215)|**[link](https://github.com/robin-wzq/t2ishield)**|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
@@ -1416,6 +1431,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
+|**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
+|**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
