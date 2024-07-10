@@ -42,6 +42,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Efficient nonlocal linear image denoising: Bilevel optimization with Nonequispaced Fast Fourier Transform and matrix-free preconditioning**|Andrés Miniguano-Trujillo et.al.|[2407.06834](http://arxiv.org/abs/2407.06834)|null|
+|**2024-07-09**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514](http://arxiv.org/abs/2407.06514)|null|
 |**2024-07-08**|**Pan-denoising: Guided Hyperspectral Image Denoising via Weighted Represent Coefficient Total Variation**|Shuang Xu et.al.|[2407.06064](http://arxiv.org/abs/2407.06064)|**[link](https://github.com/shuangxu96/pwrctv)**|
 |**2024-07-08**|**Heterogeneous window transformer for image denoising**|Chunwei Tian et.al.|[2407.05709](http://arxiv.org/abs/2407.05709)|null|
 |**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|null|
@@ -152,6 +154,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
+|**2024-07-09**|**ERQ: Error Reduction for Post-Training Quantization of Vision Transformers**|Yunshan Zhong et.al.|[2407.06794](http://arxiv.org/abs/2407.06794)|null|
+|**2024-07-08**|**Multi-Label Plant Species Classification with Self-Supervised Vision Transformers**|Murilo Gustineli et.al.|[2407.06298](http://arxiv.org/abs/2407.06298)|**[link](https://github.com/dsgt-kaggle-clef/plantclef-2024)**|
 |**2024-07-08**|**Transfer Learning with Self-Supervised Vision Transformers for Snake Identification**|Anthony Miyaguchi et.al.|[2407.06178](http://arxiv.org/abs/2407.06178)|**[link](https://github.com/dsgt-kaggle-clef/snakeclef-2024)**|
 |**2024-07-08**|**Enhancing Robotic Arm Activity Recognition with Vision Transformers and Wavelet-Transformed Channel State Information**|Rojin Zandi et.al.|[2407.06154](http://arxiv.org/abs/2407.06154)|null|
 |**2024-07-08**|**Bringing Masked Autoencoders Explicit Contrastive Properties for Point Cloud Self-Supervised Learning**|Bin Ren et.al.|[2407.05862](http://arxiv.org/abs/2407.05862)|null|
@@ -938,6 +943,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
+|**2024-07-08**|**VIMI: Grounding Video Generation through Multi-modal Instruction**|Yuwei Fang et.al.|[2407.06304](http://arxiv.org/abs/2407.06304)|null|
+|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250](http://arxiv.org/abs/2407.06250)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 |**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
 |**2024-07-07**|**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**|Danni Yang et.al.|[2407.05352](http://arxiv.org/abs/2407.05352)|null|
@@ -1431,6 +1439,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
+|**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**|Jiawei Guo et.al.|[2407.05666](http://arxiv.org/abs/2407.05666)|null|
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
