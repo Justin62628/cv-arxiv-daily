@@ -166,9 +166,9 @@
 |**2024-07-10**|**H-FCBFormer Hierarchical Fully Convolutional Branch Transformer for Occlusal Contact Segmentation with Articulating Paper**|Ryan Banks et.al.|[2407.07604](http://arxiv.org/abs/2407.07604)|**[link](https://github.com/banksylel/h-fcbformer)**|
 |**2024-07-10**|**iiANET: Inception Inspired Attention Hybrid Network for efficient Long-Range Dependency**|Haruna Yunusa et.al.|[2407.07603](http://arxiv.org/abs/2407.07603)|null|
 |**2024-07-10**|**HDKD: Hybrid Data-Efficient Knowledge Distillation Network for Medical Image Classification**|Omar S. EL-Assiouti et.al.|[2407.07516](http://arxiv.org/abs/2407.07516)|null|
-|**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514](http://arxiv.org/abs/2407.07514)|null|
+|**2024-07-10**|**Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2407.07514](http://arxiv.org/abs/2407.07514)|**[link](https://github.com/mi2datalab/swinsmt)**|
 |**2024-07-10**|**Rethinking Few-shot Class-incremental Learning: Learning from Yourself**|Yu-Ming Tang et.al.|[2407.07468](http://arxiv.org/abs/2407.07468)|**[link](https://github.com/isee-laboratory/revisting_fscil)**|
-|**2024-07-10**|**Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models**|Cristiano Fanelli et.al.|[2407.07376](http://arxiv.org/abs/2407.07376)|null|
+|**2024-07-10**|**Deep(er) Reconstruction of Imaging Cherenkov Detectors with Swin Transformers and Normalizing Flow Models**|Cristiano Fanelli et.al.|[2407.07376](http://arxiv.org/abs/2407.07376)|**[link](https://github.com/wmdataphys/DeeperRICH)**|
 |**2024-07-10**|**Large Language Model-Augmented Auto-Delineation of Treatment Target Volume in Radiation Therapy**|Praveenbalaji Rajendran et.al.|[2407.07296](http://arxiv.org/abs/2407.07296)|null|
 |**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
 |**2024-07-09**|**ERQ: Error Reduction for Post-Training Quantization of Vision Transformers**|Yunshan Zhong et.al.|[2407.06794](http://arxiv.org/abs/2407.06794)|null|
