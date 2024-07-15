@@ -200,7 +200,7 @@ layout: default
 |**2024-06-28**|**Vision Transformer with Key-select Routing Attention for Single Image Dehazing**|Lihan Tong et.al.|[2406.19703](http://arxiv.org/abs/2406.19703)|null|
 |**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391](http://arxiv.org/abs/2406.19391)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197](http://arxiv.org/abs/2406.18197)|null|
-|**2024-06-26**|**ViT-1.58b: Mobile Vision Transformers in the 1-bit Era**|Zhengqing Yuan et.al.|[2406.18051](http://arxiv.org/abs/2406.18051)|null|
+|**2024-06-26**|**ViT-1.58b: Mobile Vision Transformers in the 1-bit Era**|Zhengqing Yuan et.al.|[2406.18051](http://arxiv.org/abs/2406.18051)|**[link](https://github.com/dlyuangod/vit-1.58b)**|
 |**2024-06-25**|**Semi-supervised classification of dental conditions in panoramic radiographs using large language model and instance segmentation: A real-world dataset evaluation**|Bernardo Silva et.al.|[2406.17915](http://arxiv.org/abs/2406.17915)|null|
 |**2024-06-25**|**Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration**|Mohammad Ali Labbaf Khaniki et.al.|[2406.17670](http://arxiv.org/abs/2406.17670)|null|
 |**2024-06-25**|**Investigating Self-Supervised Methods for Label-Efficient Learning**|Srinivasa Rao Nandam et.al.|[2406.17460](http://arxiv.org/abs/2406.17460)|null|
@@ -240,7 +240,7 @@ layout: default
 |**2024-06-15**|**Self Pre-training with Topology- and Spatiality-aware Masked Autoencoders for 3D Medical Image Segmentation**|Pengfei Gu et.al.|[2406.10519](http://arxiv.org/abs/2406.10519)|null|
 |**2024-06-14**|**BrainFounder: Towards Brain Foundation Models for Neuroimage Analysis**|Joseph Cox et.al.|[2406.10395](http://arxiv.org/abs/2406.10395)|null|
 |**2024-06-17**|**H-Fac: Memory-Efficient Optimization with Factorized Hamiltonian Descent**|Son Nguyen et.al.|[2406.09958](http://arxiv.org/abs/2406.09958)|null|
-|**2024-06-14**|**ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers**|Narges Norouzi et.al.|[2406.09936](http://arxiv.org/abs/2406.09936)|null|
+|**2024-06-14**|**ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers**|Narges Norouzi et.al.|[2406.09936](http://arxiv.org/abs/2406.09936)|**[link](https://github.com/tue-mps/algm-segmenter)**|
 |**2024-06-14**|**When Will Gradient Regularization Be Harmful?**|Yang Zhao et.al.|[2406.09723](http://arxiv.org/abs/2406.09723)|**[link](https://github.com/zhaoyang-0204/gnp)**|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
 |**2024-06-14**|**Parameter-Efficient Active Learning for Foundational models**|Athmanarayanan Lakshmi Narayanan et.al.|[2406.09296](http://arxiv.org/abs/2406.09296)|null|
@@ -1015,7 +1015,7 @@ layout: default
 |**2024-06-11**|**4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models**|Heng Yu et.al.|[2406.07472](http://arxiv.org/abs/2406.07472)|null|
 |**2024-06-11**|**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models**|Sooyeon Go et.al.|[2406.07008](http://arxiv.org/abs/2406.07008)|null|
 |**2024-06-11**|**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising**|Zigeng Chen et.al.|[2406.06911](http://arxiv.org/abs/2406.06911)|**[link](https://github.com/czg1225/asyncdiff)**|
-|**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890](http://arxiv.org/abs/2406.06890)|null|
+|**2024-06-11**|**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation**|Yuanhao Zhai et.al.|[2406.06890](http://arxiv.org/abs/2406.06890)|**[link](https://github.com/yhZhai/mcm)**|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
 |**2024-06-10**|**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference**|Jiwoo Hong et.al.|[2406.06424](http://arxiv.org/abs/2406.06424)|null|
@@ -1299,7 +1299,7 @@ layout: default
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
 |**2023-12-29**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
 |**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
-|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|**[link](https://github.com/ml-research/semantic-image-editing)**|
 |**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905](http://arxiv.org/abs/2312.15905)|**[link](https://github.com/lyupang/crossinitialization)**|
 |**2023-12-21**|**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models**|Brian Nlong Zhao et.al.|[2312.14216](http://arxiv.org/abs/2312.14216)|null|
 |**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
@@ -1337,7 +1337,7 @@ layout: default
 |**2023-12-10**|**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models**|Jiun Tian Hoe et.al.|[2312.05849](http://arxiv.org/abs/2312.05849)|**[link](https://github.com/jiuntian/interactdiffusion)**|
 |**2023-12-08**|**NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models**|Yusuf Dalva et.al.|[2312.05390](http://arxiv.org/abs/2312.05390)|null|
 |**2023-12-07**|**StableQ: Enhancing Data-Scarce Quantization with Text-to-Image Data**|Yuhang Li et.al.|[2312.05272](http://arxiv.org/abs/2312.05272)|null|
-|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|**[link](https://github.com/vinairesearch/swiftbrush)**|
 |**2023-12-07**|**Customizing Motion in Text-to-Video Diffusion Models**|Joanna Materzynska et.al.|[2312.04966](http://arxiv.org/abs/2312.04966)|null|
 |**2023-12-07**|**NeuSD: Surface Completion with Multi-View Text-to-Image Diffusion**|Savva Ignatyev et.al.|[2312.04654](http://arxiv.org/abs/2312.04654)|null|
 |**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
@@ -1694,7 +1694,7 @@ layout: default
 |**2024-03-28**|**CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians**|Avinash Paliwal et.al.|[2403.19495](http://arxiv.org/abs/2403.19495)|null|
 |**2024-03-28**|**Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation**|Yujin Chen et.al.|[2403.19319](http://arxiv.org/abs/2403.19319)|null|
 |**2024-03-28**|**Sine Activated Low-Rank Matrices for Parameter Efficient Learning**|Yiping Ji et.al.|[2403.19243](http://arxiv.org/abs/2403.19243)|null|
-|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
+|**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|**[link](https://github.com/SkyworkAI/Gamba)**|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711](http://arxiv.org/abs/2403.18711)|**[link](https://github.com/ellimac0/sat-ngp)**|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476](http://arxiv.org/abs/2403.18476)|null|
 |**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898](http://arxiv.org/abs/2403.17898)|**[link](https://github.com/city-super/Octree-GS)**|
