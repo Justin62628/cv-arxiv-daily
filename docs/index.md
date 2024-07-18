@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -149,10 +149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
+|**2024-07-17**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
 |**2024-07-16**|**SpaceJAM: a Lightweight and Regularization-free Method for Fast Joint Alignment of Images**|Nir Barel et.al.|[2407.11850](http://arxiv.org/abs/2407.11850)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573](http://arxiv.org/abs/2407.11573)|null|
-|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|null|
+|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|**[link](https://github.com/xinyiw915/relax-vqa)**|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
 |**2024-07-15**|**Aligning Neuronal Coding of Dynamic Visual Scenes with Foundation Vision Models**|Rining Wu et.al.|[2407.10737](http://arxiv.org/abs/2407.10737)|**[link](https://github.com/wurining/Vi-ST)**|
 |**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649](http://arxiv.org/abs/2407.10649)|null|
@@ -962,7 +962,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-16**|**Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis**|Vasco Ramos et.al.|[2407.11814](http://arxiv.org/abs/2407.11814)|null|
-|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/abs/2407.11585)|null|
+|**2024-07-17**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/abs/2407.11585)|null|
 |**2024-07-16**|**CycleHOI: Improving Human-Object Interaction Detection with Cycle Consistency of Detection and Generation**|Yisen Wang et.al.|[2407.11433](http://arxiv.org/abs/2407.11433)|null|
 |**2024-07-16**|**Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**|Yanqin Jiang et.al.|[2407.11398](http://arxiv.org/abs/2407.11398)|null|
 |**2024-07-16**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|

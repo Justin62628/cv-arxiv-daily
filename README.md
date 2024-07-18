@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2022-05-31**|**SAR Despeckling Using Overcomplete Convolutional Networks**|Malsha V. Perera et.al.|[2205.15906](http://arxiv.org/abs/2205.15906)|**[link](https://github.com/malshav/sar_overcomplete)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355](http://arxiv.org/abs/2201.09355)|**[link](https://github.com/malshav/sar_transformer)**|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 ## Denoise
 
@@ -154,16 +154,16 @@
 |**2023-10-13**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664](http://arxiv.org/abs/2310.05664)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
+|**2024-07-17**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
 |**2024-07-16**|**SpaceJAM: a Lightweight and Regularization-free Method for Fast Joint Alignment of Images**|Nir Barel et.al.|[2407.11850](http://arxiv.org/abs/2407.11850)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573](http://arxiv.org/abs/2407.11573)|null|
-|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|null|
+|**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](http://arxiv.org/abs/2407.11496)|**[link](https://github.com/xinyiw915/relax-vqa)**|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
 |**2024-07-15**|**Aligning Neuronal Coding of Dynamic Visual Scenes with Foundation Vision Models**|Rining Wu et.al.|[2407.10737](http://arxiv.org/abs/2407.10737)|**[link](https://github.com/wurining/Vi-ST)**|
 |**2024-07-15**|**APC: Adaptive Patch Contrast for Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2407.10649](http://arxiv.org/abs/2407.10649)|null|
@@ -968,14 +968,14 @@
 |**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063](http://arxiv.org/abs/2310.14063)|null|
 |**2023-10-21**|**Ophthalmic Biomarker Detection Using Ensembled Vision Transformers -- Winning Solution to IEEE SPS VIP Cup 2023**|H. A. Z. Sameen Shahgir et.al.|[2310.14005](http://arxiv.org/abs/2310.14005)|null|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-16**|**Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis**|Vasco Ramos et.al.|[2407.11814](http://arxiv.org/abs/2407.11814)|null|
-|**2024-07-16**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/abs/2407.11585)|null|
+|**2024-07-17**|**QVD: Post-training Quantization for Video Diffusion Models**|Shilong Tian et.al.|[2407.11585](http://arxiv.org/abs/2407.11585)|null|
 |**2024-07-16**|**CycleHOI: Improving Human-Object Interaction Detection with Cycle Consistency of Detection and Generation**|Yisen Wang et.al.|[2407.11433](http://arxiv.org/abs/2407.11433)|null|
 |**2024-07-16**|**Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**|Yanqin Jiang et.al.|[2407.11398](http://arxiv.org/abs/2407.11398)|null|
 |**2024-07-16**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|
@@ -1477,7 +1477,7 @@
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 ## NeRF
 
@@ -2109,7 +2109,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
