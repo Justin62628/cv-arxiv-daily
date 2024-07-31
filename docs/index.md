@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -158,8 +158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-29**|**MimiQ: Low-Bit Data-Free Quantization of Vision Transformers**|Kanghyun Choi et.al.|[2407.20021](http://arxiv.org/abs/2407.20021)|null|
-|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985](http://arxiv.org/abs/2407.19985)|null|
+|**2024-07-30**|**MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity**|Kanghyun Choi et.al.|[2407.20021](http://arxiv.org/abs/2407.20021)|null|
+|**2024-07-30**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985](http://arxiv.org/abs/2407.19985)|null|
 |**2024-07-29**|**Twins-PainViT: Towards a Modality-Agnostic Vision Transformer Framework for Multimodal Automatic Pain Assessment using Facial Videos and fNIRS**|Stefanos Gkikas et.al.|[2407.19809](http://arxiv.org/abs/2407.19809)|null|
 |**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714](http://arxiv.org/abs/2407.19714)|null|
 |**2024-07-28**|**EPD: Long-term Memory Extraction, Context-awared Planning and Multi-iteration Decision @ EgoPlan Challenge ICML 2024**|Letian Shi et.al.|[2407.19510](http://arxiv.org/abs/2407.19510)|**[link](https://github.com/kkskkkskr/epd)**|
