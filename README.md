@@ -169,6 +169,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Machine learning surrogates for efficient hydrologic modeling: Insights from stochastic simulations of managed aquifer recharge**|Timothy Dai et.al.|[2407.20902](http://arxiv.org/abs/2407.20902)|null|
 |**2024-07-30**|**MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity**|Kanghyun Choi et.al.|[2407.20021](http://arxiv.org/abs/2407.20021)|null|
 |**2024-07-30**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985](http://arxiv.org/abs/2407.19985)|null|
 |**2024-07-29**|**Twins-PainViT: Towards a Modality-Agnostic Vision Transformer Framework for Multimodal Automatic Pain Assessment using Facial Videos and fNIRS**|Stefanos Gkikas et.al.|[2407.19809](http://arxiv.org/abs/2407.19809)|null|
@@ -1558,7 +1559,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|null|
+|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
+|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774](http://arxiv.org/abs/2407.19774)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 |**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611](http://arxiv.org/abs/2407.18611)|null|
