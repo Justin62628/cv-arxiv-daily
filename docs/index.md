@@ -158,6 +158,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749](http://arxiv.org/abs/2408.00749)|null|
+|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738](http://arxiv.org/abs/2408.00738)|null|
+|**2024-08-01**|**SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation**|Shengbo Tan et.al.|[2408.00496](http://arxiv.org/abs/2408.00496)|null|
+|**2024-07-31**|**CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation**|Shreyank N Gowda et.al.|[2408.00181](http://arxiv.org/abs/2408.00181)|null|
 |**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666](http://arxiv.org/abs/2407.21666)|null|
 |**2024-07-31**|**EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer**|Ali Abedi et.al.|[2407.21311](http://arxiv.org/abs/2407.21311)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293](http://arxiv.org/abs/2407.21293)|null|
@@ -1019,6 +1023,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Illustrating Classic Brazilian Books using a Text-To-Image Diffusion Model**|Felipe Mahlow et.al.|[2408.00544](http://arxiv.org/abs/2408.00544)|null|
+|**2024-08-01**|**Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models**|Juntu Zhao et.al.|[2408.00230](http://arxiv.org/abs/2408.00230)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|null|
 |**2024-07-29**|**DDAP: Dual-Domain Anti-Personalization against Text-to-Image Diffusion Models**|Jing Yang et.al.|[2407.20141](http://arxiv.org/abs/2407.20141)|null|
@@ -1549,6 +1555,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
