@@ -170,6 +170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291](http://arxiv.org/abs/2408.03291)|null|
 |**2024-08-04**|**FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks**|Mahadev Prasad Panda et.al.|[2408.02123](http://arxiv.org/abs/2408.02123)|null|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
 |**2024-08-03**|**Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers**|Weijie Zheng et.al.|[2408.01705](http://arxiv.org/abs/2408.01705)|null|
@@ -1042,6 +1043,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
+|**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
 |**2024-08-04**|**Robustness of Watermarking on Text-to-Image Diffusion Models**|Xiaodong Wu et.al.|[2408.02035](http://arxiv.org/abs/2408.02035)|null|
 |**2024-08-02**|**TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**|Dong Huo et.al.|[2408.01291](http://arxiv.org/abs/2408.01291)|null|
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014](http://arxiv.org/abs/2408.01014)|null|
@@ -1580,6 +1583,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193](http://arxiv.org/abs/2408.03193)|null|
+|**2024-08-06**|**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**|Tengfei Wang et.al.|[2408.03060](http://arxiv.org/abs/2408.03060)|null|
 |**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/abs/2408.01878)|null|
 |**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
