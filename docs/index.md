@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1634,7 +1634,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
-|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
+|**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
 |**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347](http://arxiv.org/abs/2408.09347)|null|
 |**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144](http://arxiv.org/abs/2408.09144)|null|
 |**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[2408.09104](http://arxiv.org/abs/2408.09104)|null|
