@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Adapting MIMO video restoration networks to low latency constraints**|Valéry Dewil et.al.|[2408.12439](http://arxiv.org/abs/2408.12439)|null|
 |**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283](http://arxiv.org/abs/2408.10283)|null|
 |**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241](http://arxiv.org/abs/2408.09241)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-16**|**A lifted Bregman strategy for training unfolded proximal neural network Gaussian denoisers**|Xiaoyu Wang et.al.|[2408.08742](http://arxiv.org/abs/2408.08742)|null|
@@ -171,14 +172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
+|**2024-08-22**|**AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network**|Donghwa Kang et.al.|[2408.12293](http://arxiv.org/abs/2408.12293)|null|
 |**2024-08-21**|**On Learnable Parameters of Optimal and Suboptimal Deep Learning Models**|Ziwei Zheng et.al.|[2408.11720](http://arxiv.org/abs/2408.11720)|null|
 |**2024-08-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al.|[2408.11207](http://arxiv.org/abs/2408.11207)|**[link](https://github.com/sanjay-810/qicvt)**|
 |**2024-08-20**|**UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement**|Yingtie Lei et.al.|[2408.10653](http://arxiv.org/abs/2408.10653)|**[link](https://github.com/CXH-Research/UIE-UnFold)**|
 |**2024-08-20**|**Adaptive Knowledge Distillation for Classification of Hand Images using Explainable Vision Transformers**|Thanh Thi Nguyen et.al.|[2408.10503](http://arxiv.org/abs/2408.10503)|null|
-|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886](http://arxiv.org/abs/2408.09886)|**[link](https://github.com/hhankyangg/sam-unet)**|
-|**2024-08-19**|**Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**|Jiandong Jin et.al.|[2408.09720](http://arxiv.org/abs/2408.09720)|**[link](https://github.com/event-ahu/openpar)**|
+|**2024-08-19**|**Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework**|Jiandong Jin et.al.|[2408.09720](http://arxiv.org/abs/2408.09720)|**[link](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)**|
 |**2024-08-18**|**OU-CoViT: Copula-Enhanced Bi-Channel Multi-Task Vision Transformers with Dual Adaptation for OU-UWF Images**|Yang Li et.al.|[2408.09395](http://arxiv.org/abs/2408.09395)|null|
 |**2024-08-16**|**Research on Personalized Compression Algorithm for Pre-trained Models Based on Homomorphic Entropy Increase**|Yicong Li et.al.|[2408.08684](http://arxiv.org/abs/2408.08684)|null|
 |**2024-08-16**|**Adaptive Layer Selection for Efficient Vision Transformer Fine-Tuning**|Alessio Devoto et.al.|[2408.08670](http://arxiv.org/abs/2408.08670)|null|
@@ -1098,7 +1101,7 @@ layout: default
 |**2024-08-16**|**Classifier-Free Guidance is a Predictor-Corrector**|Arwen Bradley et.al.|[2408.09000](http://arxiv.org/abs/2408.09000)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
 |**2024-08-15**|**CT4D: Consistent Text-to-4D Generation with Animatable Meshes**|Ce Chen et.al.|[2408.08342](http://arxiv.org/abs/2408.08342)|null|
-|**2024-08-14**|**Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies**|Peiran Wang et.al.|[2408.07728](http://arxiv.org/abs/2408.07728)|null|
+|**2024-08-14**|**Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies**|Peiran Wang et.al.|[2408.07728](http://arxiv.org/abs/2408.07728)|**[link](https://github.com/DataSmithLab/Moderator)**|
 |**2024-08-12**|**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**|Zhuoyi Yang et.al.|[2408.06072](http://arxiv.org/abs/2408.06072)|**[link](https://github.com/thudm/cogvideo)**|
 |**2024-08-10**|**ReToMe-VA: Recursive Token Merging for Video Diffusion-based Unrestricted Adversarial Attack**|Ziyi Gao et.al.|[2408.05479](http://arxiv.org/abs/2408.05479)|null|
 |**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631](http://arxiv.org/abs/2408.04631)|null|
@@ -1641,6 +1644,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
