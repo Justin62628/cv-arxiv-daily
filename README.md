@@ -184,6 +184,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|null|
+|**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
+|**2024-08-26**|**Image Provenance Analysis via Graph Encoding with Vision Transformer**|Keyang Zhang et.al.|[2408.14170](http://arxiv.org/abs/2408.14170)|null|
+|**2024-08-26**|**GenFormer -- Generated Images are All You Need to Improve Robustness of Transformers on Small Datasets**|Sven Oehri et.al.|[2408.14131](http://arxiv.org/abs/2408.14131)|null|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-25**|**Flexible game-playing AI with AlphaViT: adapting to multiple games and board sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|null|
+|**2024-08-25**|**3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification**|Haizhao Jing et.al.|[2408.13728](http://arxiv.org/abs/2408.13728)|null|
+|**2024-08-24**|**Enhanced Astronomical Source Classification with Integration of Attention Mechanisms and Vision Transformers**|Srinadh Reddy Bhavanam et.al.|[2408.13634](http://arxiv.org/abs/2408.13634)|null|
+|**2024-08-24**|**Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models**|Sakhinana Sagar Srinivas et.al.|[2408.13621](http://arxiv.org/abs/2408.13621)|null|
+|**2024-08-24**|**PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model**|Hao Yang et.al.|[2408.13574](http://arxiv.org/abs/2408.13574)|null|
 |**2024-08-23**|**EAViT: External Attention Vision Transformer for Audio Classification**|Aquib Iqbal et.al.|[2408.13201](http://arxiv.org/abs/2408.13201)|null|
 |**2024-08-23**|**Vision Transformer Neural Quantum States for Impurity Models**|Xiaodong Cao et.al.|[2408.13050](http://arxiv.org/abs/2408.13050)|null|
 |**2024-08-23**|**Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture**|Chenqi Kong et.al.|[2408.12791](http://arxiv.org/abs/2408.12791)|null|
@@ -1113,6 +1123,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered by Interpretable Graph Neural Networks**|Gang Qu et.al.|[2408.14254](http://arxiv.org/abs/2408.14254)|null|
+|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016](http://arxiv.org/abs/2408.14016)|null|
+|**2024-08-25**|**Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching**|Minghao Liu et.al.|[2408.13858](http://arxiv.org/abs/2408.13858)|null|
+|**2024-08-24**|**Training-free Long Video Generation with Chain of Diffusion Model Experts**|Wenhao Li et.al.|[2408.13423](http://arxiv.org/abs/2408.13423)|null|
 |**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
 |**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721](http://arxiv.org/abs/2408.11721)|null|
@@ -1667,6 +1682,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
+|**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508](http://arxiv.org/abs/2408.13508)|null|
+|**2024-08-23**|**SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**|Jiseung Hong et.al.|[2408.13285](http://arxiv.org/abs/2408.13285)|**[link](https://github.com/kaistchangmin/sin-nerf2nerf)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
