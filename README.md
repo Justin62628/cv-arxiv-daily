@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143](http://arxiv.org/abs/2408.15143)|null|
 |**2024-08-23**|**A gradient system based on anisotropic monochrome image processing with orientation auto-adjustment**|Harbir Antil et.al.|[2408.12847](http://arxiv.org/abs/2408.12847)|null|
 |**2024-08-22**|**Adapting MIMO video restoration networks to low latency constraints**|Valéry Dewil et.al.|[2408.12439](http://arxiv.org/abs/2408.12439)|null|
 |**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283](http://arxiv.org/abs/2408.10283)|null|
@@ -184,6 +185,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Applying ViT in Generalized Few-shot Semantic Segmentation**|Liyuan Geng et.al.|[2408.14957](http://arxiv.org/abs/2408.14957)|**[link](https://github.com/lgnyu/vitseg)**|
+|**2024-08-27**|**ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**|Wenjin Hou et.al.|[2408.14868](http://arxiv.org/abs/2408.14868)|null|
+|**2024-08-27**|**Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection**|Samir Kassam et.al.|[2408.14847](http://arxiv.org/abs/2408.14847)|null|
 |**2024-08-26**|**LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation**|Trung Dinh Quoc Dang et.al.|[2408.14415](http://arxiv.org/abs/2408.14415)|null|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-26**|**Image Provenance Analysis via Graph Encoding with Vision Transformer**|Keyang Zhang et.al.|[2408.14170](http://arxiv.org/abs/2408.14170)|null|
@@ -1123,6 +1127,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
+|**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239](http://arxiv.org/abs/2408.15239)|null|
 |**2024-08-26**|**Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered by Interpretable Graph Neural Networks**|Gang Qu et.al.|[2408.14254](http://arxiv.org/abs/2408.14254)|null|
 |**2024-08-27**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
 |**2024-08-26**|**Pixel-Aligned Multi-View Generation with Depth Guided Decoder**|Zhenggang Tang et.al.|[2408.14016](http://arxiv.org/abs/2408.14016)|null|
@@ -1682,6 +1688,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
+|**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724](http://arxiv.org/abs/2408.14724)|null|
 |**2024-08-26**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-24**|**G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles**|Adil Meric et.al.|[2408.13508](http://arxiv.org/abs/2408.13508)|null|
