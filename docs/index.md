@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1139,7 +1139,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
-|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574](http://arxiv.org/abs/2409.02574)|null|
 |**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429](http://arxiv.org/abs/2409.02429)|null|
 |**2024-09-04**|**Exploring Low-Dimensional Subspaces in Diffusion Models for Controllable Image Editing**|Siyi Chen et.al.|[2409.02374](http://arxiv.org/abs/2409.02374)|null|
