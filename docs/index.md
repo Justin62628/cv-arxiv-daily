@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1147,7 +1147,7 @@ layout: default
 |**2024-09-05**|**Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation**|Slava Elizarov et.al.|[2409.03718](http://arxiv.org/abs/2409.03718)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
 |**2024-09-05**|**RoomDiffusion: A Specialized Diffusion Model in the Interior Design Industry**|Zhaowei Wang et.al.|[2409.03198](http://arxiv.org/abs/2409.03198)|null|
-|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|**[link](https://github.com/Human-VDM/Human-VDM)**|
 |**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574](http://arxiv.org/abs/2409.02574)|null|
 |**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429](http://arxiv.org/abs/2409.02429)|null|
