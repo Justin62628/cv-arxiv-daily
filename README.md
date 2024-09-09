@@ -188,6 +188,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers**|Gorka Abad et.al.|[2409.04142](http://arxiv.org/abs/2409.04142)|null|
+|**2024-09-06**|**UNIT: Unifying Image and Text Recognition in One Vision Encoder**|Yi Zhu et.al.|[2409.04095](http://arxiv.org/abs/2409.04095)|null|
+|**2024-09-05**|**On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models**|Thanh-Dung Le et.al.|[2409.03901](http://arxiv.org/abs/2409.03901)|null|
+|**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 |**2024-09-05**|**LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution**|Jeongsoo Kim et.al.|[2409.03516](http://arxiv.org/abs/2409.03516)|**[link](https://github.com/jwgdmkj/lmlt)**|
 |**2024-09-04**|**Towards Data-Centric Face Anti-Spoofing: Improving Cross-domain Generalization via Physics-based Data Synthesis**|Rizhao Cai et.al.|[2409.03501](http://arxiv.org/abs/2409.03501)|null|
 |**2024-09-05**|**Shuffle Vision Transformer: Lightweight, Fast and Efficient Recognition of Driver Facial Expression**|Ibtissam Saadi et.al.|[2409.03438](http://arxiv.org/abs/2409.03438)|null|
