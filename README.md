@@ -192,6 +192,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**AD-Lite Net: A Lightweight and Concatenated CNN Model for Alzheimer's Detection from MRI Images**|Santanu Roy et.al.|[2409.08170](http://arxiv.org/abs/2409.08170)|null|
+|**2024-09-12**|**Learning Brain Tumor Representation in 3D High-Resolution MR Images via Interpretable State Space Models**|Qingqiao Hu et.al.|[2409.07746](http://arxiv.org/abs/2409.07746)|**[link](https://github.com/winstonhutiger/mamba_mae)**|
+|**2024-09-11**|**Token Turing Machines are Efficient Vision Models**|Purvish Jajal et.al.|[2409.07613](http://arxiv.org/abs/2409.07613)|null|
+|**2024-09-11**|**DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis**|Ke Chen et.al.|[2409.07584](http://arxiv.org/abs/2409.07584)|null|
+|**2024-09-11**|**TabMixer: Noninvasive Estimation of the Mean Pulmonary Artery Pressure via Imaging and Tabular Data Mixing**|Michal K. Grzeszczyk et.al.|[2409.07564](http://arxiv.org/abs/2409.07564)|**[link](https://github.com/sanoscience/tabmixer)**|
 |**2024-09-11**|**Brain-Inspired Stepwise Patch Merging for Vision Transformers**|Yonghao Yu et.al.|[2409.06963](http://arxiv.org/abs/2409.06963)|null|
 |**2024-09-11**|**Intrapartum Ultrasound Image Segmentation of Pubic Symphysis and Fetal Head Using Dual Student-Teacher Framework with CNN-ViT Collaborative Learning**|Jianmei Jiang et.al.|[2409.06928](http://arxiv.org/abs/2409.06928)|**[link](https://github.com/jjm1589/dstct)**|
 |**2024-09-10**|**Data Collection-free Masked Video Modeling**|Yuchi Ishikawa et.al.|[2409.06665](http://arxiv.org/abs/2409.06665)|null|
@@ -1174,6 +1179,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
+|**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
+|**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
+|**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
+|**2024-09-12**|**Scribble-Guided Diffusion for Training-free Text-to-Image Generation**|Seonho Lee et.al.|[2409.08026](http://arxiv.org/abs/2409.08026)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
 |**2024-09-11**|**StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos**|Sijie Zhao et.al.|[2409.07447](http://arxiv.org/abs/2409.07447)|null|
@@ -1759,6 +1769,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
