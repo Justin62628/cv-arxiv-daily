@@ -43,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943](http://arxiv.org/abs/2409.08943)|null|
 |**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067](http://arxiv.org/abs/2409.07067)|null|
@@ -194,6 +195,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
+|**2024-09-17**|**Gamma/hadron discrimination through the analysis of the shower footprint at low energies**|R. Conceição et.al.|[2409.11093](http://arxiv.org/abs/2409.11093)|null|
+|**2024-09-16**|**Are Deep Learning Models Robust to Partial Object Occlusion in Visual Recognition Tasks?**|Kaleb Kassaw et.al.|[2409.10775](http://arxiv.org/abs/2409.10775)|null|
+|**2024-09-16**|**Personalized Speech Emotion Recognition in Human-Robot Interaction using Vision Transformers**|Ruchik Mishra et.al.|[2409.10687](http://arxiv.org/abs/2409.10687)|null|
 |**2024-09-16**|**Robust image representations with counterfactual contrastive learning**|Mélanie Roschewitz et.al.|[2409.10365](http://arxiv.org/abs/2409.10365)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
 |**2024-09-15**|**Underwater Image Enhancement via Dehazing and Color Restoration**|Chengqin Wu et.al.|[2409.09779](http://arxiv.org/abs/2409.09779)|null|
 |**2024-09-15**|**ELSA: Exploiting Layer-wise N:M Sparsity for Vision Transformer Acceleration**|Ning-Chi Huang et.al.|[2409.09708](http://arxiv.org/abs/2409.09708)|null|
@@ -1195,6 +1200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
+|**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
+|**2024-09-15**|**GLEAN: Generative Learning for Eliminating Adversarial Noise**|Justin Lyu Kim et.al.|[2409.10578](http://arxiv.org/abs/2409.10578)|null|
 |**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
 |**2024-09-15**|**DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion**|Liao Shen et.al.|[2409.09605](http://arxiv.org/abs/2409.09605)|null|
@@ -1790,6 +1798,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
+|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327](http://arxiv.org/abs/2409.10327)|null|
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|null|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829](http://arxiv.org/abs/2409.09829)|null|
