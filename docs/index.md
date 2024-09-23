@@ -437,7 +437,7 @@ layout: default
 |**2024-06-30**|**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**|Zenglin Shi et.al.|[2407.01636](http://arxiv.org/abs/2407.01636)|null|
 |**2024-07-02**|**xLSTM-UNet can be an Effective 2D & 3D Medical Image Segmentation Backbone with Vision-LSTM (ViL) better than its Mamba Counterpart**|Tianrun Chen et.al.|[2407.01530](http://arxiv.org/abs/2407.01530)|**[link](https://github.com/tianrun-chen/xLSTM-UNet-PyTorch)**|
 |**2024-07-01**|**Neurovascular Segmentation in sOCT with Deep Learning and Synthetic Training Data**|Etienne Chollet et.al.|[2407.01419](http://arxiv.org/abs/2407.01419)|null|
-|**2024-07-01**|**TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation**|André Sacilotti et.al.|[2407.01375](http://arxiv.org/abs/2407.01375)|null|
+|**2024-07-01**|**TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation**|André Sacilotti et.al.|[2407.01375](http://arxiv.org/abs/2407.01375)|**[link](https://github.com/andre-sacilotti/transferattn-project-code)**|
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851](http://arxiv.org/abs/2407.00851)|**[link](https://github.com/muzmax/safe)**|
 |**2024-06-29**|**Parametric Primitive Analysis of CAD Sketches with Vision Transformer**|Xiaogang Wang et.al.|[2407.00410](http://arxiv.org/abs/2407.00410)|null|
 |**2024-06-29**|**Query-Efficient Hard-Label Black-Box Attack against Vision Transformers**|Chao Zhou et.al.|[2407.00389](http://arxiv.org/abs/2407.00389)|null|
@@ -730,7 +730,7 @@ layout: default
 |**2024-03-26**|**Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications**|Fouad Trad et.al.|[2403.17787](http://arxiv.org/abs/2403.17787)|null|
 |**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432](http://arxiv.org/abs/2403.17432)|null|
 |**2024-03-26**|**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**|Yufu Wang et.al.|[2403.17346](http://arxiv.org/abs/2403.17346)|**[link](https://github.com/yufu-wang/tram)**|
-|**2024-03-26**|**Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer**|Jeong-Yoon Kim et.al.|[2403.17327](http://arxiv.org/abs/2403.17327)|null|
+|**2024-03-26**|**Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer**|Jeong-Yoon Kim et.al.|[2403.17327](http://arxiv.org/abs/2403.17327)|**[link](https://github.com/kjy7567/speech_emotion_recognition_from_log_Mel_spectrogram_using_vertically_long_patch)**|
 |**2024-03-25**|**Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study**|Ahmed Soliman et.al.|[2403.17177](http://arxiv.org/abs/2403.17177)|null|
 |**2024-03-25**|**Mapping Image Transformations Onto Pixel Processor Arrays**|Laurie Bose et.al.|[2403.16994](http://arxiv.org/abs/2403.16994)|**[link](https://github.com/lauriebose/scamp7-image-transformations)**|
 |**2024-03-25**|**3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation**|Dongwei Gan et.al.|[2403.16350](http://arxiv.org/abs/2403.16350)|**[link](https://github.com/hidneuron/3d-effivitcaps)**|
@@ -1420,7 +1420,7 @@ layout: default
 |**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
 |**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
 |**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
-|**2024-05-24**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
+|**2024-05-24**|**Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|**[link](https://github.com/mrirecon/aid)**|
 |**2024-05-23**|**Exposure Diffusion: HDR Image Generation by Consistent LDR denoising**|Mojtaba Bemana et.al.|[2405.14304](http://arxiv.org/abs/2405.14304)|null|
 |**2024-05-22**|**Prompt Mixing in Diffusion Models using the Black Scholes Algorithm**|Divya Kothandaraman et.al.|[2405.13685](http://arxiv.org/abs/2405.13685)|**[link](https://github.com/divyakraman/blackscholesdiffusion2024)**|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
@@ -1950,7 +1950,7 @@ layout: default
 |**2024-06-15**|**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**|Zhenggang Tang et.al.|[2406.10543](http://arxiv.org/abs/2406.10543)|**[link](https://github.com/nerfdeformer/nerfdeformer)**|
 |**2024-06-15**|**Federated Neural Radiance Field for Distributed Intelligence**|Yintian Zhang et.al.|[2406.10474](http://arxiv.org/abs/2406.10474)|null|
 |**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373](http://arxiv.org/abs/2406.10373)|null|
-|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|**[link](https://github.com/j-alex-hanson/gaussian-splatting-pup)**|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
 |**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
 |**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
