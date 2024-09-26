@@ -43,6 +43,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions**|Maria Vasilyeva et.al.|[2409.15952](http://arxiv.org/abs/2409.15952)|null|
+|**2024-09-22**|**Quantitative and Qualitative Evaluation of NLM and Wavelet Methods in Image Enhancement**|Cameron Khanpour et.al.|[2409.14334](http://arxiv.org/abs/2409.14334)|null|
+|**2024-09-20**|**Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier**|Jaewan Park et.al.|[2409.13908](http://arxiv.org/abs/2409.13908)|null|
 |**2024-09-17**|**Noise-aware Dynamic Image Denoising and Positron Range Correction for Rubidium-82 Cardiac PET Imaging via Self-supervision**|Huidong Xie et.al.|[2409.11543](http://arxiv.org/abs/2409.11543)|null|
 |**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
@@ -196,6 +199,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization**|Yao Ni et.al.|[2409.17137](http://arxiv.org/abs/2409.17137)|null|
+|**2024-09-25**|**Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba**|Amin Malekmohammadi et.al.|[2409.17122](http://arxiv.org/abs/2409.17122)|**[link](https://github.com/swiman/mamba-medical-classification)**|
+|**2024-09-25**|**Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis**|Illia Tsiporenko et.al.|[2409.16940](http://arxiv.org/abs/2409.16940)|null|
+|**2024-09-25**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|
+|**2024-09-24**|**Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition**|Zheda Mai et.al.|[2409.16434](http://arxiv.org/abs/2409.16434)|null|
+|**2024-09-23**|**Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model**|Jing Wei Tan et.al.|[2409.15574](http://arxiv.org/abs/2409.15574)|**[link](https://github.com/hvcl/Clinical-grade-Pathology-Report-Generation)**|
+|**2024-09-23**|**SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries**|Sebastian Janampa et.al.|[2409.15553](http://arxiv.org/abs/2409.15553)|**[link](https://github.com/sebastianjanampa/sofi)**|
+|**2024-09-23**|**A Novel Framework for the Automated Characterization of Gram-Stained Blood Culture Slides Using a Large-Scale Vision Transformer**|Jack McMahon et.al.|[2409.15546](http://arxiv.org/abs/2409.15546)|null|
+|**2024-09-23**|**HydroVision: LiDAR-Guided Hydrometric Prediction with Vision Transformers and Hybrid Graph Learning**|Naghmeh Shafiee Roudbari et.al.|[2409.15213](http://arxiv.org/abs/2409.15213)|null|
+|**2024-09-22**|**SOS: Segment Object System for Open-World Instance Segmentation With Object Priors**|Christian Wilms et.al.|[2409.14627](http://arxiv.org/abs/2409.14627)|**[link](https://github.com/chwilms/sos)**|
 |**2024-09-18**|**On Vision Transformers for Classification Tasks in Side-Scan Sonar Imagery**|BW Sheffield et.al.|[2409.12026](http://arxiv.org/abs/2409.12026)|null|
 |**2024-09-18**|**NT-ViT: Neural Transcoding Vision Transformers for EEG-to-fMRI Synthesis**|Romeo Lanzino et.al.|[2409.11836](http://arxiv.org/abs/2409.11836)|null|
 |**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661](http://arxiv.org/abs/2409.11661)|null|
@@ -1204,6 +1217,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
+|**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/abs/2409.16938)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
+|**2024-09-23**|**Fine Tuning Text-to-Image Diffusion Models for Correcting Anomalous Images**|Hyunwoo Yoo et.al.|[2409.16174](http://arxiv.org/abs/2409.16174)|**[link](https://github.com/hyoo14/finetuned-sd3-correcting-anomalous-images)**|
+|**2024-09-23**|**Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech**|Hong Nguyen et.al.|[2409.15525](http://arxiv.org/abs/2409.15525)|**[link](https://github.com/hong7cong/span-rtmri)**|
+|**2024-09-23**|**S $^2$ AG-Vid: Enhancing Multi-Motion Alignment in Video Diffusion Models via Spatial and Syntactic Attention-Based Guidance**|Yuanhang Li et.al.|[2409.15259](http://arxiv.org/abs/2409.15259)|null|
+|**2024-09-23**|**DepthART: Monocular Depth Estimation as Autoregressive Refinement Task**|Bulat Gabdullin et.al.|[2409.15010](http://arxiv.org/abs/2409.15010)|null|
+|**2024-09-21**|**JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation**|Hadrien Reynaud et.al.|[2409.14149](http://arxiv.org/abs/2409.14149)|null|
+|**2024-09-20**|**Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier**|Jaewan Park et.al.|[2409.13908](http://arxiv.org/abs/2409.13908)|null|
+|**2024-09-19**|**LVCD: Reference-based Lineart Video Colorization with Diffusion Models**|Zhitong Huang et.al.|[2409.12960](http://arxiv.org/abs/2409.12960)|null|
+|**2024-09-25**|**FlexiTex: Enhancing Texture Generation with Visual Guidance**|DaDong Jiang et.al.|[2409.12431](http://arxiv.org/abs/2409.12431)|null|
 |**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024](http://arxiv.org/abs/2409.12024)|null|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
 |**2024-09-17**|**Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models**|Tianqi Chen et.al.|[2409.11219](http://arxiv.org/abs/2409.11219)|null|
@@ -1803,6 +1826,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
+|**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
+|**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715](http://arxiv.org/abs/2409.15715)|null|
+|**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689](http://arxiv.org/abs/2409.15689)|null|
+|**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487](http://arxiv.org/abs/2409.15487)|null|
+|**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
+|**2024-09-21**|**MOSE: Monocular Semantic Reconstruction Using NeRF-Lifted Noisy Priors**|Zhenhua Du et.al.|[2409.14019](http://arxiv.org/abs/2409.14019)|null|
+|**2024-09-19**|**CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**|Vladimir Frolov et.al.|[2409.12617](http://arxiv.org/abs/2409.12617)|null|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
 |**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
