@@ -43,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**DualDn: Dual-domain Denoising via Differentiable ISP**|Ruikang Li et.al.|[2409.18783](http://arxiv.org/abs/2409.18783)|null|
 |**2024-09-24**|**Multiscale method for image denoising using nonlinear diffusion process: local denoising and spectral multiscale basis functions**|Maria Vasilyeva et.al.|[2409.15952](http://arxiv.org/abs/2409.15952)|null|
 |**2024-09-22**|**Quantitative and Qualitative Evaluation of NLM and Wavelet Methods in Image Enhancement**|Cameron Khanpour et.al.|[2409.14334](http://arxiv.org/abs/2409.14334)|null|
 |**2024-09-20**|**Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier**|Jaewan Park et.al.|[2409.13908](http://arxiv.org/abs/2409.13908)|null|
@@ -199,6 +200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
+|**2024-09-27**|**How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?**|Jose Sosa et.al.|[2409.18536](http://arxiv.org/abs/2409.18536)|null|
+|**2024-09-26**|**Developing a Dual-Stage Vision Transformer Model for Lung Disease Classification**|Anirudh Mazumder et.al.|[2409.18257](http://arxiv.org/abs/2409.18257)|null|
 |**2024-09-26**|**HydraViT: Stacking Heads for a Scalable ViT**|Janek Haberer et.al.|[2409.17978](http://arxiv.org/abs/2409.17978)|null|
 |**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788](http://arxiv.org/abs/2409.17788)|null|
 |**2024-09-25**|**Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting**|Jay Zoellin et.al.|[2409.17332](http://arxiv.org/abs/2409.17332)|null|
@@ -1221,6 +1225,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
+|**2024-09-27**|**GenesisTex2: Stable, Consistent and High-Quality Text-to-Texture Generation**|Jiawei Lu et.al.|[2409.18401](http://arxiv.org/abs/2409.18401)|null|
+|**2024-09-26**|**PDFed: Privacy-Preserving and Decentralized Asynchronous Federated Learning for Diffusion Models**|Kar Balan et.al.|[2409.18245](http://arxiv.org/abs/2409.18245)|null|
+|**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214](http://arxiv.org/abs/2409.18214)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**Dark Miner: Defend against unsafe generation for text-to-image diffusion models**|Zheling Meng et.al.|[2409.17682](http://arxiv.org/abs/2409.17682)|null|
 |**2024-09-26**|**A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation**|Masato Ishii et.al.|[2409.17550](http://arxiv.org/abs/2409.17550)|null|
