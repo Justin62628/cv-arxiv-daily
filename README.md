@@ -229,7 +229,7 @@
 |**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
 |**2024-09-27**|**How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?**|Jose Sosa et.al.|[2409.18536](http://arxiv.org/abs/2409.18536)|null|
 |**2024-09-26**|**Developing a Dual-Stage Vision Transformer Model for Lung Disease Classification**|Anirudh Mazumder et.al.|[2409.18257](http://arxiv.org/abs/2409.18257)|null|
-|**2024-09-26**|**HydraViT: Stacking Heads for a Scalable ViT**|Janek Haberer et.al.|[2409.17978](http://arxiv.org/abs/2409.17978)|null|
+|**2024-09-26**|**HydraViT: Stacking Heads for a Scalable ViT**|Janek Haberer et.al.|[2409.17978](http://arxiv.org/abs/2409.17978)|**[link](https://github.com/ds-kiel/hydravit)**|
 |**2024-09-26**|**Ophthalmic Biomarker Detection with Parallel Prediction of Transformer and Convolutional Architecture**|Md. Touhidul Islam et.al.|[2409.17788](http://arxiv.org/abs/2409.17788)|null|
 |**2024-09-25**|**Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting**|Jay Zoellin et.al.|[2409.17332](http://arxiv.org/abs/2409.17332)|null|
 |**2024-09-25**|**CROSS-GAiT: Cross-Attention-Based Multimodal Representation Fusion for Parametric Gait Adaptation in Complex Terrains**|Gershom Seneviratne et.al.|[2409.17262](http://arxiv.org/abs/2409.17262)|null|
@@ -476,7 +476,7 @@
 |**2024-07-06**|**PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**|Ye Li et.al.|[2407.05010](http://arxiv.org/abs/2407.05010)|null|
 |**2024-07-05**|**Improving ensemble extreme precipitation forecasts using generative artificial intelligence**|Yingkai Sha et.al.|[2407.04882](http://arxiv.org/abs/2407.04882)|null|
 |**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616](http://arxiv.org/abs/2407.04616)|**[link](https://github.com/vainf/isomorphic-pruning)**|
-|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603](http://arxiv.org/abs/2407.04603)|null|
+|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603](http://arxiv.org/abs/2407.04603)|**[link](https://github.com/MCG-NJU/AWT)**|
 |**2024-07-05**|**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**|Ananthu Aniraj et.al.|[2407.04538](http://arxiv.org/abs/2407.04538)|**[link](https://github.com/ananthu-aniraj/pdiscoformer)**|
 |**2024-07-05**|**LayerShuffle: Enhancing Robustness in Vision Transformers by Randomizing Layer Execution Order**|Matthias Freiberger et.al.|[2407.04513](http://arxiv.org/abs/2407.04513)|null|
 |**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449](http://arxiv.org/abs/2407.04449)|**[link](https://github.com/nyuad-cai/cxr-ehr-msn)**|
@@ -1034,7 +1034,7 @@
 |**2023-12-29**|**Multiscale Vision Transformers meet Bipartite Matching for efficient single-stage Action Localization**|Ioanna Ntinou et.al.|[2312.17686](http://arxiv.org/abs/2312.17686)|**[link](https://github.com/ioannanti/bmvit)**|
 |**2023-12-28**|**ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification**|Ga-Eun Kim et.al.|[2312.16914](http://arxiv.org/abs/2312.16914)|null|
 |**2023-12-30**|**Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding**|Lixiang Xu et.al.|[2312.16477](http://arxiv.org/abs/2312.16477)|**[link](https://github.com/bigdata-graph/gmvit)**|
-|**2023-12-27**|**Adaptive Depth Networks with Skippable Sub-Paths**|Woochul Kang et.al.|[2312.16392](http://arxiv.org/abs/2312.16392)|null|
+|**2023-12-27**|**Adaptive Depth Networks with Skippable Sub-Paths**|Woochul Kang et.al.|[2312.16392](http://arxiv.org/abs/2312.16392)|**[link](https://github.com/wchkang/depth)**|
 |**2023-12-26**|**Universal Pyramid Adversarial Training for Improved ViT Performance**|Ping-yeh Chiang et.al.|[2312.16339](http://arxiv.org/abs/2312.16339)|null|
 |**2023-12-26**|**State-of-the-Art in Nudity Classification: A Comparative Analysis**|Fatih Cagatay Akyon et.al.|[2312.16338](http://arxiv.org/abs/2312.16338)|**[link](https://github.com/fcakyon/content-moderation-deep-learning)**|
 |**2023-12-25**|**Merging Vision Transformers from Different Tasks and Domains**|Peng Ye et.al.|[2312.16240](http://arxiv.org/abs/2312.16240)|null|
@@ -1840,7 +1840,7 @@
 |**2023-11-18**|**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer**|Di Chang et.al.|[2311.12052](http://arxiv.org/abs/2311.12052)|**[link](https://github.com/boese0601/magicdance)**|
 |**2023-11-17**|**The Hidden Linear Structure in Score-Based Models and its Application**|Binxu Wang et.al.|[2311.10892](http://arxiv.org/abs/2311.10892)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
-|**2023-11-17**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257](http://arxiv.org/abs/2311.09257)|null|
+|**2023-11-17**|**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs**|Yanwu Xu et.al.|[2311.09257](http://arxiv.org/abs/2311.09257)|**[link](https://github.com/xuyanwu/SIDDMs-UFOGen)**|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-11**|**Finetuning Text-to-Image Diffusion Models for Fairness**|Xudong Shen et.al.|[2311.07604](http://arxiv.org/abs/2311.07604)|**[link](https://github.com/sail-sg/finetune-fair-diffusion)**|
 |**2023-11-18**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322](http://arxiv.org/abs/2311.06322)|null|
@@ -2083,7 +2083,7 @@
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
 |**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
-|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
+|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|**[link](https://github.com/hzxie/GaussianCity)**|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133](http://arxiv.org/abs/2406.06133)|null|
@@ -2276,7 +2276,7 @@
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/abs/2403.16043)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
 |**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
-|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705](http://arxiv.org/abs/2403.15705)|**[link](https://github.com/abhi1kumar/SUP-NeRF)**|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272](http://arxiv.org/abs/2403.15272)|null|
 |**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839](http://arxiv.org/abs/2403.14839)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
