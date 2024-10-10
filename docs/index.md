@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -34,7 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|null|
+|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-04**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|null|
 |**2024-10-03**|**Galaxy-Galaxy Strong Lensing with U-Net (GGSL-UNet). I. Extracting 2-Dimensional Information from Multi-Band Images in Ground and Space Observations**|Fucheng Zhong et.al.|[2410.02936](http://arxiv.org/abs/2410.02936)|null|
 |**2024-10-03**|**An Improved Variational Method for Image Denoising**|Jing-En Huang et.al.|[2410.02587](http://arxiv.org/abs/2410.02587)|null|
@@ -202,7 +202,7 @@ layout: default
 |**2024-10-07**|**Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**|Kazumoto Nakamura et.al.|[2410.04801](http://arxiv.org/abs/2410.04801)|null|
 |**2024-10-07**|**PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners**|Yujin Tang et.al.|[2410.04733](http://arxiv.org/abs/2410.04733)|**[link](https://github.com/yyyujintang/predformer)**|
 |**2024-10-07**|**Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation**|Vince Zhu et.al.|[2410.04689](http://arxiv.org/abs/2410.04689)|null|
-|**2024-10-06**|**Automated Detection of Defects on Metal Surfaces using Vision Transformers**|Toqa Alaa et.al.|[2410.04440](http://arxiv.org/abs/2410.04440)|null|
+|**2024-10-06**|**Automated Detection of Defects on Metal Surfaces using Vision Transformers**|Toqa Alaa et.al.|[2410.04440](http://arxiv.org/abs/2410.04440)|**[link](https://github.com/toqaalaa20/Metal-surface-defects-detection)**|
 |**2024-10-05**|**Implicit to Explicit Entropy Regularization: Benchmarking ViT Fine-tuning under Noisy Labels**|Maria Marrium et.al.|[2410.04256](http://arxiv.org/abs/2410.04256)|null|
 |**2024-10-05**|**Optimizing Medical Image Segmentation with Advanced Decoder Design**|Weibin Yang et.al.|[2410.04128](http://arxiv.org/abs/2410.04128)|null|
 |**2024-10-05**|**Designing Concise ConvNets with Columnar Stages**|Ashish Kumar et.al.|[2410.04089](http://arxiv.org/abs/2410.04089)|null|
@@ -1256,9 +1256,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Diffusion Models in 3D Vision: A Survey**|Zhen Wang et.al.|[2410.04738](http://arxiv.org/abs/2410.04738)|null|
-|**2024-10-06**|**VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide**|Dohun Lee et.al.|[2410.04364](http://arxiv.org/abs/2410.04364)|null|
+|**2024-10-08**|**VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide**|Dohun Lee et.al.|[2410.04364](http://arxiv.org/abs/2410.04364)|null|
 |**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
-|**2024-10-05**|**IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis**|Shitong Shao et.al.|[2410.04171](http://arxiv.org/abs/2410.04171)|null|
+|**2024-10-08**|**IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis**|Shitong Shao et.al.|[2410.04171](http://arxiv.org/abs/2410.04171)|null|
 |**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160](http://arxiv.org/abs/2410.03160)|**[link](https://github.com/yaofang-liu/fvdm)**|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
 |**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738](http://arxiv.org/abs/2410.01738)|**[link](https://github.com/carlofkl/vitaglyph)**|
@@ -1892,7 +1892,7 @@ layout: default
 |**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402](http://arxiv.org/abs/2410.04402)|null|
 |**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
-|**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-09**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
