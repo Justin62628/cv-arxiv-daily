@@ -198,6 +198,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**A Counterexample in Image Registration**|Serap A. Savari et.al.|[2410.10725](http://arxiv.org/abs/2410.10725)|null|
+|**2024-10-14**|**A Stochastic Approach to Bi-Level Optimization for Hyperparameter Optimization and Meta Learning**|Minyoung Kim et.al.|[2410.10417](http://arxiv.org/abs/2410.10417)|null|
+|**2024-10-14**|**big.LITTLE Vision Transformer for Efficient Visual Recognition**|He Guo et.al.|[2410.10267](http://arxiv.org/abs/2410.10267)|null|
+|**2024-10-14**|**Performance Evaluation of Deep Learning and Transformer Models Using Multimodal Data for Breast Cancer Classification**|Sadam Hussain et.al.|[2410.10146](http://arxiv.org/abs/2410.10146)|null|
+|**2024-10-13**|**NARAIM: Native Aspect Ratio Autoregressive Image Models**|Daniel Gallo Fernández et.al.|[2410.10012](http://arxiv.org/abs/2410.10012)|**[link](https://github.com/daniel-gallo/naraim)**|
+|**2024-10-13**|**Data Adaptive Few-shot Multi Label Segmentation with Foundation Model**|Gurunath Reddy et.al.|[2410.09759](http://arxiv.org/abs/2410.09759)|null|
+|**2024-10-12**|**Token Pruning using a Lightweight Background Aware Vision Transformer**|Sudhakar Sah et.al.|[2410.09324](http://arxiv.org/abs/2410.09324)|null|
+|**2024-10-11**|**Probing Three-Dimensional Magnetic Fields: IV -- Synchrotron Polarization Derivative and Vision Transformer**|Yue Hu et.al.|[2410.09294](http://arxiv.org/abs/2410.09294)|null|
 |**2024-10-11**|**On the Adversarial Transferability of Generalized "Skip Connections"**|Yisen Wang et.al.|[2410.08950](http://arxiv.org/abs/2410.08950)|null|
 |**2024-10-11**|**Towards virtual painting recolouring using Vision Transformer on X-Ray Fluorescence datacubes**|Alessandro Bombini et.al.|[2410.08826](http://arxiv.org/abs/2410.08826)|null|
 |**2024-10-11**|**ViT3D Alignment of LLaMA3: 3D Medical Image Report Generation**|Siyou Li et.al.|[2410.08588](http://arxiv.org/abs/2410.08588)|null|
@@ -1273,6 +1281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
+|**2024-10-14**|**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**|Dejia Xu et.al.|[2410.10774](http://arxiv.org/abs/2410.10774)|null|
+|**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
+|**2024-10-14**|**Towards Reliable Verification of Unauthorized Data Usage in Personalized Text-to-Image Diffusion Models**|Boheng Li et.al.|[2410.10437](http://arxiv.org/abs/2410.10437)|null|
+|**2024-10-14**|**Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models**|Yongjin Yang et.al.|[2410.10166](http://arxiv.org/abs/2410.10166)|null|
+|**2024-10-14**|**Learning to Customize Text-to-Image Diffusion In Diverse Context**|Taewook Kim et.al.|[2410.10058](http://arxiv.org/abs/2410.10058)|null|
+|**2024-10-13**|**Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy**|Hancheng Ye et.al.|[2410.09873](http://arxiv.org/abs/2410.09873)|**[link](https://github.com/unimodal4reasoning/adaptivediffusion)**|
+|**2024-10-13**|**Intermediate Representations for Enhanced Text-To-Image Generation Using Diffusion Models**|Ran Galun et.al.|[2410.09792](http://arxiv.org/abs/2410.09792)|**[link](https://github.com/rang1991/public-intermediate-semantics-for-generation)**|
 |**2024-10-11**|**E-Motion: Future Motion Simulation via Event Sequence Diffusion**|Song Wu et.al.|[2410.08649](http://arxiv.org/abs/2410.08649)|null|
 |**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551](http://arxiv.org/abs/2410.08551)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
@@ -1916,6 +1934,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782](http://arxiv.org/abs/2410.10782)|null|
+|**2024-10-14**|**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**|Md Farhan Tasnim Oshim et.al.|[2410.10085](http://arxiv.org/abs/2410.10085)|null|
+|**2024-10-13**|**Magnituder Layers for Implicit Neural Representations in 3D**|Sang Min Kim et.al.|[2410.09771](http://arxiv.org/abs/2410.09771)|null|
+|**2024-10-12**|**Improving 3D Finger Traits Recognition via Generalizable Neural Rendering**|Hongbin Xu et.al.|[2410.09582](http://arxiv.org/abs/2410.09582)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941](http://arxiv.org/abs/2410.08941)|null|
 |**2024-10-11**|**Optimizing NeRF-based SLAM with Trajectory Smoothness Constraints**|Yicheng He et.al.|[2410.08780](http://arxiv.org/abs/2410.08780)|null|
