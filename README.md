@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Cross-Dataset Generalization in Deep Learning**|Xuyu Zhang et.al.|[2410.11207](http://arxiv.org/abs/2410.11207)|null|
 |**2024-08-29**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|**[link](https://github.com/alejandromestrequereda/CNN_PolSAR_Despeckling)**|
 |**2024-03-05**|**Speckle Noise Reduction in Ultrasound Images using Denoising Auto-encoder with Skip Connection**|Suraj Bhute et.al.|[2403.02750](http://arxiv.org/abs/2403.02750)|null|
 |**2024-01-15**|**PolMERLIN: Self-Supervised Polarimetric Complex SAR Image Despeckling with Masked Networks**|Shunya Kato et.al.|[2401.07503](http://arxiv.org/abs/2401.07503)|null|
@@ -43,6 +44,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373](http://arxiv.org/abs/2410.11373)|null|
+|**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi et.al.|[2410.10984](http://arxiv.org/abs/2410.10984)|null|
 |**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|**[link](https://github.com/desaixie/pa_vdm)**|
 |**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|**[link](https://github.com/yutazhuo/diffusereg)**|
 |**2024-10-15**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|**[link](https://github.com/Ascend-Research/Turtle)**|
@@ -209,6 +212,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
+|**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
+|**2024-10-15**|**Unveiling the Mystery of Visual Attributes of Concrete and Abstract Concepts: Variability, Nearest Neighbors, and Challenging Categories**|Tarun Tater et.al.|[2410.11657](http://arxiv.org/abs/2410.11657)|null|
+|**2024-10-15**|**ED-ViT: Splitting Vision Transformer for Distributed Inference on Edge Devices**|Xiang Liu et.al.|[2410.11650](http://arxiv.org/abs/2410.11650)|null|
+|**2024-10-15**|**CTA-Net: A CNN-Transformer Aggregation Network for Improving Multi-Scale Feature Extraction**|Chunlei Meng et.al.|[2410.11428](http://arxiv.org/abs/2410.11428)|null|
+|**2024-10-14**|**Locality Alignment Improves Vision-Language Models**|Ian Covert et.al.|[2410.11087](http://arxiv.org/abs/2410.11087)|null|
 |**2024-10-14**|**A Counterexample in Image Registration**|Serap A. Savari et.al.|[2410.10725](http://arxiv.org/abs/2410.10725)|null|
 |**2024-10-14**|**A Stochastic Approach to Bi-Level Optimization for Hyperparameter Optimization and Meta Learning**|Minyoung Kim et.al.|[2410.10417](http://arxiv.org/abs/2410.10417)|null|
 |**2024-10-14**|**big.LITTLE Vision Transformer for Efficient Visual Recognition**|He Guo et.al.|[2410.10267](http://arxiv.org/abs/2410.10267)|null|
@@ -1294,7 +1303,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817](http://arxiv.org/abs/2410.11817)|**[link](https://github.com/luping-liu/longalign)**|
+|**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|**[link](https://github.com/ZqlwMatt/Tex4D)**|
 |**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
 |**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
 |**2024-10-14**|**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention**|Dejia Xu et.al.|[2410.10774](http://arxiv.org/abs/2410.10774)|null|
