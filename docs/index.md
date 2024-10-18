@@ -35,6 +35,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**An Adaptive Finite Difference Method for Total Variation Minimization**|Thomas Jacumin et.al.|[2410.13608](http://arxiv.org/abs/2410.13608)|null|
 |**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373](http://arxiv.org/abs/2410.11373)|null|
 |**2024-10-14**|**Data-Aware Training Quality Monitoring and Certification for Reliable Deep Learning**|Farhang Yeganegi et.al.|[2410.10984](http://arxiv.org/abs/2410.10984)|**[link](https://github.com/WaveOpt-Lab/YES-bound)**|
 |**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|**[link](https://github.com/desaixie/pa_vdm)**|
@@ -201,6 +202,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition**|Demetris Shianios et.al.|[2410.13663](http://arxiv.org/abs/2410.13663)|null|
+|**2024-10-17**|**Co-Segmentation without any Pixel-level Supervision with Application to Large-Scale Sketch Classification**|Nikolaos-Antonios Ypsilantis et.al.|[2410.13582](http://arxiv.org/abs/2410.13582)|null|
+|**2024-10-17**|**360U-Former: HDR Illumination Estimation with Panoramic Adapted Vision Transformers**|Jack Hilliard et.al.|[2410.13566](http://arxiv.org/abs/2410.13566)|null|
 |**2024-10-15**|**Pixology: Probing the Linguistic and Visual Capabilities of Pixel-based Language Models**|Kushal Tatariya et.al.|[2410.12011](http://arxiv.org/abs/2410.12011)|null|
 |**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
 |**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
@@ -1291,6 +1295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models**|Donghao Zhou et.al.|[2410.13370](http://arxiv.org/abs/2410.13370)|null|
 |**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817](http://arxiv.org/abs/2410.11817)|**[link](https://github.com/luping-liu/longalign)**|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
 |**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|**[link](https://github.com/ZqlwMatt/Tex4D)**|
@@ -1946,6 +1951,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
+|**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
+|**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349](http://arxiv.org/abs/2410.13349)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262](http://arxiv.org/abs/2410.12262)|null|
 |**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242](http://arxiv.org/abs/2410.12242)|null|
 |**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782](http://arxiv.org/abs/2410.10782)|null|
