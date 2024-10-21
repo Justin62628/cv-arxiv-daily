@@ -202,6 +202,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**FaceSaliencyAug: Mitigating Geographic, Gender and Stereotypical Biases via Saliency-Based Data Augmentation**|Teerath Kumar et.al.|[2410.14070](http://arxiv.org/abs/2410.14070)|null|
+|**2024-10-17**|**FiTv2: Scalable and Improved Flexible Vision Transformer for Diffusion Model**|ZiDong Wang et.al.|[2410.13925](http://arxiv.org/abs/2410.13925)|null|
 |**2024-10-17**|**DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition**|Demetris Shianios et.al.|[2410.13663](http://arxiv.org/abs/2410.13663)|null|
 |**2024-10-17**|**Co-Segmentation without any Pixel-level Supervision with Application to Large-Scale Sketch Classification**|Nikolaos-Antonios Ypsilantis et.al.|[2410.13582](http://arxiv.org/abs/2410.13582)|null|
 |**2024-10-17**|**360U-Former: HDR Illumination Estimation with Panoramic Adapted Vision Transformers**|Jack Hilliard et.al.|[2410.13566](http://arxiv.org/abs/2410.13566)|null|
@@ -1295,6 +1297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**|Yuhao Wan et.al.|[2410.14279](http://arxiv.org/abs/2410.14279)|null|
 |**2024-10-17**|**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models**|Donghao Zhou et.al.|[2410.13370](http://arxiv.org/abs/2410.13370)|null|
 |**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817](http://arxiv.org/abs/2410.11817)|**[link](https://github.com/luping-liu/longalign)**|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
@@ -1951,6 +1954,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177](http://arxiv.org/abs/2410.14177)|null|
+|**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
