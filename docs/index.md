@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -204,7 +204,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-22**|**Bayes without Underfitting: Fully Correlated Deep Learning Posteriors via Alternating Projections**|Marco Miani et.al.|[2410.16901](http://arxiv.org/abs/2410.16901)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
+|**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Beyond 2:4: exploring V:N:M sparsity for efficient transformer inference on GPUs**|Kang Zhao et.al.|[2410.16135](http://arxiv.org/abs/2410.16135)|null|
 |**2024-10-21**|**GReFEL: Geometry-Aware Reliable Facial Expression Learning under Bias and Imbalanced Data Distribution**|Azmine Toushik Wasi et.al.|[2410.15927](http://arxiv.org/abs/2410.15927)|null|
 |**2024-10-21**|**Random Token Fusion for Multi-View Medical Diagnosis**|Jingyu Guo et.al.|[2410.15847](http://arxiv.org/abs/2410.15847)|null|
@@ -1974,7 +1974,7 @@ layout: default
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
 |**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395](http://arxiv.org/abs/2410.16395)|null|
 |**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
-|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
+|**2024-10-22**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
 |**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958](http://arxiv.org/abs/2410.14958)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177](http://arxiv.org/abs/2410.14177)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
