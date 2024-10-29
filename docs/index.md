@@ -35,6 +35,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Primal-dual algorithm for weakly convex functions under sharpness conditions**|Ewa Bednarczuk et.al.|[2410.20977](http://arxiv.org/abs/2410.20977)|null|
 |**2024-10-24**|**WARP-LCA: Efficient Convolutional Sparse Coding with Locally Competitive Algorithm**|Geoffrey Kasenbacher et.al.|[2410.18794](http://arxiv.org/abs/2410.18794)|null|
 |**2024-10-23**|**A variational approach to nonlocal image restoration flows**|Harsh Prasad et.al.|[2410.17649](http://arxiv.org/abs/2410.17649)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
@@ -206,6 +207,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256](http://arxiv.org/abs/2410.21256)|null|
+|**2024-10-28**|**Explainability in AI Based Applications: A Framework for Comparing Different Techniques**|Arne Grobrugge et.al.|[2410.20873](http://arxiv.org/abs/2410.20873)|null|
+|**2024-10-28**|**ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives**|Wenyang Liu et.al.|[2410.20855](http://arxiv.org/abs/2410.20855)|null|
+|**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
+|**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722](http://arxiv.org/abs/2410.20722)|null|
+|**2024-10-27**|**PViT: Prior-augmented Vision Transformer for Out-of-distribution Detection**|Tianhao Zhang et.al.|[2410.20631](http://arxiv.org/abs/2410.20631)|null|
+|**2024-10-27**|**Unsupervised Panoptic Interpretation of Latent Spaces in GANs Using Space-Filling Vector Quantization**|Mohammad Hassan Vali et.al.|[2410.20573](http://arxiv.org/abs/2410.20573)|**[link](https://github.com/mhvali/interpretable-gans-by-sfvq)**|
+|**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
+|**2024-10-26**|**Transforming Precision: A Comparative Analysis of Vision Transformers, CNNs, and Traditional ML for Knee Osteoarthritis Severity Diagnosis**|Tasnim Sakib Apon et.al.|[2410.20062](http://arxiv.org/abs/2410.20062)|null|
+|**2024-10-26**|**Cross-Survey Image Transformation: Enhancing SDSS and DECaLS Images to Near-HSC Quality for Advanced Astronomical Analysis**|Zhijian Luo et.al.|[2410.20025](http://arxiv.org/abs/2410.20025)|null|
 |**2024-10-25**|**Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series**|Ilan Naiman et.al.|[2410.19538](http://arxiv.org/abs/2410.19538)|null|
 |**2024-10-25**|**Transductive Learning for Near-Duplicate Image Detection in Scanned Photo Collections**|Francesc Net et.al.|[2410.19437](http://arxiv.org/abs/2410.19437)|null|
 |**2024-10-24**|**DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis**|Mahtab Ranjbar et.al.|[2410.19166](http://arxiv.org/abs/2410.19166)|null|
@@ -1321,6 +1332,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Attention Overlap Is Responsible for The Entity Missing Problem in Text-to-image Diffusion Models!**|Arash Marioriyad et.al.|[2410.20972](http://arxiv.org/abs/2410.20972)|null|
+|**2024-10-26**|**MarDini: Masked Autoregressive Diffusion for Video Generation at Scale**|Haozhe Liu et.al.|[2410.20280](http://arxiv.org/abs/2410.20280)|null|
+|**2024-10-26**|**Human-Object Interaction Detection Collaborated with Large Relation-driven Diffusion Models**|Liulei Li et.al.|[2410.20155](http://arxiv.org/abs/2410.20155)|null|
+|**2024-10-26**|**Super-resolved virtual staining of label-free tissue using diffusion models**|Yijie Zhang et.al.|[2410.20073](http://arxiv.org/abs/2410.20073)|null|
 |**2024-10-25**|**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**|Zhengyao Lv et.al.|[2410.19355](http://arxiv.org/abs/2410.19355)|null|
 |**2024-10-24**|**3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**|Hansheng Chen et.al.|[2410.18974](http://arxiv.org/abs/2410.18974)|**[link](https://github.com/Lakonik/MVEdit)**|
 |**2024-10-24**|**SMITE: Segment Me In TimE**|Amirhossein Alimohammadi et.al.|[2410.18538](http://arxiv.org/abs/2410.18538)|**[link](https://github.com/alimohammadiamirhossein/smite)**|
@@ -1985,6 +2000,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
 |**2024-10-25**|**Evaluation of strategies for efficient rate-distortion NeRF streaming**|Pedro Martin et.al.|[2410.19459](http://arxiv.org/abs/2410.19459)|null|
 |**2024-10-27**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
