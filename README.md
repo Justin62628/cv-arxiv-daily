@@ -218,6 +218,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation**|Wei Dong et.al.|[2410.22952](http://arxiv.org/abs/2410.22952)|null|
+|**2024-10-30**|**Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**|Zhiyuan Min et.al.|[2410.22817](http://arxiv.org/abs/2410.22817)|null|
+|**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|null|
+|**2024-10-30**|**FilterViT and DropoutViT: Lightweight Vision Transformer Models for Efficient Attention Mechanisms**|Bohang Sun et.al.|[2410.22709](http://arxiv.org/abs/2410.22709)|null|
+|**2024-10-30**|**Backdoor Attack Against Vision Transformers via Attention Gradient-Based Image Erosion**|Ji Guo et.al.|[2410.22678](http://arxiv.org/abs/2410.22678)|null|
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
 |**2024-10-29**|**HRPVT: High-Resolution Pyramid Vision Transformer for medium and small-scale human pose estimation**|Zhoujie Xu et.al.|[2410.22079](http://arxiv.org/abs/2410.22079)|null|
 |**2024-10-29**|**DINeuro: Distilling Knowledge from 2D Natural Images via Deformable Tubular Transferring Strategy for 3D Neuron Reconstruction**|Yik San Cheng et.al.|[2410.22078](http://arxiv.org/abs/2410.22078)|null|
@@ -1351,6 +1357,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/abs/2410.22979)|null|
+|**2024-10-28**|**Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse Autoencoders**|Viacheslav Surkov et.al.|[2410.22366](http://arxiv.org/abs/2410.22366)|**[link](https://github.com/surkovv/sdxl-unbox)**|
 |**2024-10-30**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
 |**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708](http://arxiv.org/abs/2410.21708)|**[link](https://github.com/xiarho/madm)**|
 |**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669](http://arxiv.org/abs/2410.21669)|null|
@@ -2025,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936](http://arxiv.org/abs/2410.22936)|null|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
 |**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
