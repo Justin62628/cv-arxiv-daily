@@ -36,6 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-03**|**Adaptive Domain Learning for Cross-domain Image Denoising**|Zian Qian et.al.|[2411.01472](http://arxiv.org/abs/2411.01472)|null|
 |**2024-10-29**|**Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images**|Vishal Dubey et.al.|[2410.23898](http://arxiv.org/abs/2410.23898)|null|
 |**2024-10-31**|**Cycle-Constrained Adversarial Denoising Convolutional Network for PET Image Denoising: Multi-Dimensional Validation on Large Datasets with Reader Study and Real Low-Dose Data**|Yucun Hou et.al.|[2410.23628](http://arxiv.org/abs/2410.23628)|null|
 |**2024-10-30**|**Plug-and-play superiorization**|Jon Henshaw et.al.|[2410.23401](http://arxiv.org/abs/2410.23401)|null|
@@ -211,6 +212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Encoding Multi-level Dynamics in Effect Heterogeneity Estimation**|Fucheng Warren Zhu et.al.|[2411.02134](http://arxiv.org/abs/2411.02134)|null|
+|**2024-11-04**|**UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering**|A. Mudit Adityaja et.al.|[2411.01966](http://arxiv.org/abs/2411.01966)|**[link](https://github.com/mudit-adityaja/unsegmedgat)**|
+|**2024-11-04**|**V-CAS: A Realtime Vehicle Anti Collision System Using Vision Transformer on Multi-Camera Streams**|Muhammad Waqas Ashraf et.al.|[2411.01963](http://arxiv.org/abs/2411.01963)|null|
+|**2024-11-04**|**Learning Where to Edit Vision Transformers**|Yunqiao Yang et.al.|[2411.01948](http://arxiv.org/abs/2411.01948)|**[link](https://github.com/hustyyq/where-to-edit)**|
+|**2024-11-03**|**FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing**|Jitesh Joshi et.al.|[2411.01542](http://arxiv.org/abs/2411.01542)|**[link](https://github.com/physiologicailab/factorizephys)**|
+|**2024-11-03**|**Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision**|Xiangzhong Luo et.al.|[2411.01431](http://arxiv.org/abs/2411.01431)|null|
+|**2024-11-02**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
+|**2024-11-02**|**RLE: A Unified Perspective of Data Augmentation for Cross-Spectral Re-identification**|Lei Tan et.al.|[2411.01225](http://arxiv.org/abs/2411.01225)|**[link](https://github.com/stone96123/rle)**|
+|**2024-11-01**|**B-cosification: Transforming Deep Neural Networks to be Inherently Interpretable**|Shreyash Arya et.al.|[2411.00715](http://arxiv.org/abs/2411.00715)|**[link](https://github.com/shrebox/b-cosification)**|
+|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630](http://arxiv.org/abs/2411.00630)|null|
 |**2024-10-31**|**JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment**|Joao Sousa et.al.|[2410.23988](http://arxiv.org/abs/2410.23988)|null|
 |**2024-10-31**|**Context-Aware Token Selection and Packing for Enhanced Vision Transformer**|Tianyi Zhang et.al.|[2410.23608](http://arxiv.org/abs/2410.23608)|null|
 |**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|**[link](https://github.com/ai-med/diamond)**|
@@ -1350,6 +1361,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179](http://arxiv.org/abs/2411.02179)|null|
+|**2024-11-04**|**Model Integrity when Unlearning with T2I Diffusion Models**|Andrea Schioppa et.al.|[2411.02068](http://arxiv.org/abs/2411.02068)|null|
+|**2024-11-03**|**Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation**|Zhenbin Wang et.al.|[2411.01647](http://arxiv.org/abs/2411.01647)|null|
+|**2024-11-02**|**Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models**|Wonguk Cho et.al.|[2411.01179](http://arxiv.org/abs/2411.01179)|null|
+|**2024-11-02**|**Fast and Memory-Efficient Video Diffusion Using Streamlined Inference**|Zheng Zhan et.al.|[2411.01171](http://arxiv.org/abs/2411.01171)|null|
+|**2024-11-04**|**Fashion-VDM: Video Diffusion Model for Virtual Try-On**|Johanna Karras et.al.|[2411.00225](http://arxiv.org/abs/2411.00225)|null|
 |**2024-10-30**|**MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts**|Jie Zhu et.al.|[2410.23332](http://arxiv.org/abs/2410.23332)|null|
 |**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
@@ -2029,6 +2046,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
+|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
+|**2024-11-04**|**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**|Matthew McDermott et.al.|[2411.01725](http://arxiv.org/abs/2411.01725)|**[link](https://github.com/mcdermatt/plink)**|
+|**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626](http://arxiv.org/abs/2411.00626)|**[link](https://github.com/naver-ai/zim)**|
 |**2024-10-31**|**Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**|Karim Kassab et.al.|[2410.23742](http://arxiv.org/abs/2410.23742)|null|
 |**2024-10-31**|**Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer**|Tyler Ga Wei Lum et.al.|[2410.23701](http://arxiv.org/abs/2410.23701)|null|
 |**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690](http://arxiv.org/abs/2410.23690)|null|
