@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -217,7 +217,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**ScaleKD: Strong Vision Transformers Could Be Excellent Teachers**|Jiawei Fan et.al.|[2411.06786](http://arxiv.org/abs/2411.06786)|**[link](https://github.com/deep-optimization/scalekd)**|
 |**2024-11-10**|**Few-shot Semantic Learning for Robust Multi-Biome 3D Semantic Mapping in Off-Road Environments**|Deegan Atha et.al.|[2411.06632](http://arxiv.org/abs/2411.06632)|null|
-|**2024-11-09**|**Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID**|Mei Qiu et.al.|[2411.06297](http://arxiv.org/abs/2411.06297)|null|
+|**2024-11-09**|**Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID**|Mei Qiu et.al.|[2411.06297](http://arxiv.org/abs/2411.06297)|**[link](https://github.com/qiumei1101/adaptive_ar_pm_transreid)**|
 |**2024-11-09**|**Scalable, Tokenization-Free Diffusion Model Architectures with Efficient Initial Convolution and Fixed-Size Reusable Structures for On-Device Image Generation**|Sanchar Palit et.al.|[2411.06119](http://arxiv.org/abs/2411.06119)|null|
 |**2024-11-09**|**Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing**|Kaixuan Lu et.al.|[2411.06091](http://arxiv.org/abs/2411.06091)|null|
 |**2024-11-08**|**Emotional Images: Assessing Emotions in Images and Potential Biases in Generative Models**|Maneet Mehta et.al.|[2411.05985](http://arxiv.org/abs/2411.05985)|null|
