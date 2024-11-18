@@ -36,6 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Video Denoising in Fluorescence Guided Surgery**|Trevor Seets et.al.|[2411.09798](http://arxiv.org/abs/2411.09798)|null|
 |**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512](http://arxiv.org/abs/2411.09512)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
 |**2024-11-13**|**Dynamic Thresholding Algorithm with Memory for Linear Inverse Problems**|Zhong-Feng Sun et.al.|[2411.08284](http://arxiv.org/abs/2411.08284)|null|
@@ -219,6 +220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251](http://arxiv.org/abs/2411.10251)|null|
+|**2024-11-15**|**Evidential Federated Learning for Skin Lesion Image Classification**|Rutger Hendrix et.al.|[2411.10071](http://arxiv.org/abs/2411.10071)|null|
+|**2024-11-15**|**Building 6G Radio Foundation Models with Transformer Architectures**|Ahmed Aboulfotouh et.al.|[2411.09996](http://arxiv.org/abs/2411.09996)|null|
+|**2024-11-15**|**A Multi-Scale Spatial-Temporal Network for Wireless Video Transmission**|Xinyi Zhou et.al.|[2411.09936](http://arxiv.org/abs/2411.09936)|null|
+|**2024-11-15**|**Masked Image Contrastive Learning for Efficient Visual Conceptual Pre-training**|Xiaoyu Yang et.al.|[2411.09858](http://arxiv.org/abs/2411.09858)|null|
+|**2024-11-14**|**Learning Parameter Sharing with Tensor Decompositions and Sparsity**|Cem Üyük et.al.|[2411.09816](http://arxiv.org/abs/2411.09816)|null|
+|**2024-11-14**|**Partial Multi-View Clustering via Meta-Learning and Contrastive Feature Alignment**|BoHao Chen et.al.|[2411.09758](http://arxiv.org/abs/2411.09758)|null|
 |**2024-11-14**|**On the Surprising Effectiveness of Attention Transfer for Vision Transformers**|Alexander C. Li et.al.|[2411.09702](http://arxiv.org/abs/2411.09702)|null|
 |**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
 |**2024-11-14**|**SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers**|Shravan Venkatraman et.al.|[2411.09420](http://arxiv.org/abs/2411.09420)|null|
@@ -1393,6 +1401,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164](http://arxiv.org/abs/2411.10164)|null|
+|**2024-11-15**|**EyeDiff: text-to-image diffusion model improves rare eye disease diagnosis**|Ruoyu Chen et.al.|[2411.10004](http://arxiv.org/abs/2411.10004)|null|
 |**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
 |**2024-11-13**|**Motion Control for Enhanced Complex Action Video Generation**|Qiang Zhou et.al.|[2411.08328](http://arxiv.org/abs/2411.08328)|null|
@@ -2093,6 +2103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
