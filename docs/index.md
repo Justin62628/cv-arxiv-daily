@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**Neighboring Slice Noise2Noise: Self-Supervised Medical Image Denoising from Single Noisy Image Volume**|Langrui Zhou et.al.|[2411.10831](http://arxiv.org/abs/2411.10831)|null|
+|**2024-11-11**|**Efficient Denoising Method to Improve The Resolution of Satellite Images**|Jhanavi Hegde et.al.|[2411.10476](http://arxiv.org/abs/2411.10476)|null|
 |**2024-11-14**|**Video Denoising in Fluorescence Guided Surgery**|Trevor Seets et.al.|[2411.09798](http://arxiv.org/abs/2411.09798)|null|
 |**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512](http://arxiv.org/abs/2411.09512)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
@@ -220,6 +222,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Lung Disease Detection with Vision Transformers: A Comparative Study of Machine Learning Methods**|Baljinnyam Dayan et.al.|[2411.11376](http://arxiv.org/abs/2411.11376)|null|
+|**2024-11-18**|**DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery**|Jaewoo Heo et.al.|[2411.11214](http://arxiv.org/abs/2411.11214)|null|
+|**2024-11-16**|**MpoxVLM: A Vision-Language Model for Diagnosing Skin Lesions from Mpox Virus Infection**|Xu Cao et.al.|[2411.10888](http://arxiv.org/abs/2411.10888)|null|
 |**2024-11-15**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251](http://arxiv.org/abs/2411.10251)|null|
 |**2024-11-15**|**Evidential Federated Learning for Skin Lesion Image Classification**|Rutger Hendrix et.al.|[2411.10071](http://arxiv.org/abs/2411.10071)|null|
 |**2024-11-15**|**Building 6G Radio Foundation Models with Transformer Architectures**|Ahmed Aboulfotouh et.al.|[2411.09996](http://arxiv.org/abs/2411.09996)|null|
@@ -1401,7 +1406,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164](http://arxiv.org/abs/2411.10164)|null|
+|**2024-11-18**|**Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge**|Qinglong Cao et.al.|[2411.11343](http://arxiv.org/abs/2411.11343)|null|
+|**2024-11-17**|**Oscillation Inversion: Understand the structure of Large Flow Model through the Lens of Inversion Method**|Yan Zheng et.al.|[2411.11135](http://arxiv.org/abs/2411.11135)|null|
+|**2024-11-16**|**Generating Compositional Scenes via Text-to-image RGBA Instance Generation**|Alessandro Fontanella et.al.|[2411.10913](http://arxiv.org/abs/2411.10913)|null|
+|**2024-11-16**|**FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations**|Hmrishav Bandyopadhyay et.al.|[2411.10818](http://arxiv.org/abs/2411.10818)|null|
+|**2024-11-16**|**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models**|Tripti Shukla et.al.|[2411.10800](http://arxiv.org/abs/2411.10800)|null|
+|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|null|
+|**2024-11-16**|**TDSM:Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/abs/2411.10745)|null|
+|**2024-11-16**|**MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations**|Qixuan Jin et.al.|[2411.10686](http://arxiv.org/abs/2411.10686)|null|
+|**2024-11-15**|**OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models**|Mathis Koroglu et.al.|[2411.10501](http://arxiv.org/abs/2411.10501)|null|
+|**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164](http://arxiv.org/abs/2411.10164)|**[link](https://github.com/tlpss/diffusing-synthetic-data)**|
 |**2024-11-15**|**EyeDiff: text-to-image diffusion model improves rare eye disease diagnosis**|Ruoyu Chen et.al.|[2411.10004](http://arxiv.org/abs/2411.10004)|null|
 |**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|null|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
@@ -2103,6 +2117,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
+|**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
+|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
