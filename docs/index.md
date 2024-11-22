@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1421,7 +1421,7 @@ layout: default
 |**2024-11-16**|**Generating Compositional Scenes via Text-to-image RGBA Instance Generation**|Alessandro Fontanella et.al.|[2411.10913](http://arxiv.org/abs/2411.10913)|null|
 |**2024-11-16**|**FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations**|Hmrishav Bandyopadhyay et.al.|[2411.10818](http://arxiv.org/abs/2411.10818)|null|
 |**2024-11-16**|**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models**|Tripti Shukla et.al.|[2411.10800](http://arxiv.org/abs/2411.10800)|null|
-|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|null|
+|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|**[link](https://github.com/xie-lab-ml/Meissonic-Inference)**|
 |**2024-11-16**|**TDSM:Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745](http://arxiv.org/abs/2411.10745)|null|
 |**2024-11-16**|**MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations**|Qixuan Jin et.al.|[2411.10686](http://arxiv.org/abs/2411.10686)|**[link](https://github.com/QixuanJin99/generative_validation)**|
 |**2024-11-15**|**OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models**|Mathis Koroglu et.al.|[2411.10501](http://arxiv.org/abs/2411.10501)|null|
