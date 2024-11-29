@@ -235,7 +235,7 @@
 |---|---|---|---|---|
 |**2024-11-27**|**Hierarchical Information Flow for Generalized Efficient Image Restoration**|Yawei Li et.al.|[2411.18588](http://arxiv.org/abs/2411.18588)|null|
 |**2024-11-27**|**Preserving Deep Representations In One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework**|Ryan Lucas et.al.|[2411.18376](http://arxiv.org/abs/2411.18376)|null|
-|**2024-11-27**|**Training Noise Token Pruning**|Mingxing Rao et.al.|[2411.18092](http://arxiv.org/abs/2411.18092)|null|
+|**2024-11-27**|**Training Noise Token Pruning**|Mingxing Rao et.al.|[2411.18092](http://arxiv.org/abs/2411.18092)|**[link](https://github.com/mx-ethan-rao/tnt)**|
 |**2024-11-26**|**BadScan: An Architectural Backdoor Attack on Visual State Space Models**|Om Suhas Deshmukh et.al.|[2411.17283](http://arxiv.org/abs/2411.17283)|null|
 |**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226](http://arxiv.org/abs/2411.17226)|null|
 |**2024-11-26**|**SCASeg: Strip Cross-Attention for Efficient Semantic Segmentation**|Guoan Xu et.al.|[2411.17061](http://arxiv.org/abs/2411.17061)|null|
