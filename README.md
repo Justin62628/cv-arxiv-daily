@@ -237,7 +237,7 @@
 |**2024-11-27**|**Preserving Deep Representations In One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework**|Ryan Lucas et.al.|[2411.18376](http://arxiv.org/abs/2411.18376)|null|
 |**2024-11-27**|**Training Noise Token Pruning**|Mingxing Rao et.al.|[2411.18092](http://arxiv.org/abs/2411.18092)|**[link](https://github.com/mx-ethan-rao/tnt)**|
 |**2024-11-26**|**BadScan: An Architectural Backdoor Attack on Visual State Space Models**|Om Suhas Deshmukh et.al.|[2411.17283](http://arxiv.org/abs/2411.17283)|null|
-|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226](http://arxiv.org/abs/2411.17226)|null|
+|**2024-11-26**|**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**|Ruoxi Zhu et.al.|[2411.17226](http://arxiv.org/abs/2411.17226)|**[link](https://github.com/taco-group/mwformer)**|
 |**2024-11-26**|**SCASeg: Strip Cross-Attention for Efficient Semantic Segmentation**|Guoan Xu et.al.|[2411.17061](http://arxiv.org/abs/2411.17061)|null|
 |**2024-11-25**|**CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers**|Hamid Kamangir et.al.|[2411.16989](http://arxiv.org/abs/2411.16989)|null|
 |**2024-11-25**|**Fully Automatic Deep Learning Pipeline for Whole Slide Image Quality Assessment**|Falah Jabar et.al.|[2411.16885](http://arxiv.org/abs/2411.16885)|null|
@@ -2193,7 +2193,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
+|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940](http://arxiv.org/abs/2411.16940)|null|
 |**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
