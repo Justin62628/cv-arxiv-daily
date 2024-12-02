@@ -244,12 +244,12 @@
 |**2024-11-25**|**Abnormality-Driven Representation Learning for Radiology Imaging**|Marta Ligero et.al.|[2411.16803](http://arxiv.org/abs/2411.16803)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets**|Adrien Meyer et.al.|[2411.16222](http://arxiv.org/abs/2411.16222)|**[link](https://github.com/camma-public/ultrasam)**|
-|**2024-11-25**|**Can Encrypted Images Still Train Neural Networks? Investigating Image Information and Random Vortex Transformation**|XiaoKai Cao et.al.|[2411.16207](http://arxiv.org/abs/2411.16207)|null|
+|**2024-11-25**|**Can Encrypted Images Still Train Neural Networks? Investigating Image Information and Random Vortex Transformation**|XiaoKai Cao et.al.|[2411.16207](http://arxiv.org/abs/2411.16207)|**[link](https://github.com/caoxiaokai/random_vortex_transformation)**|
 |**2024-11-25**|**Soft-TransFormers for Continual Learning**|Haeyong Kang et.al.|[2411.16073](http://arxiv.org/abs/2411.16073)|**[link](https://github.com/ihaeyong/soft-tf)**|
 |**2024-11-25**|**VICON: Vision In-Context Operator Networks for Multi-Physics Fluid Dynamics Prediction**|Yadi Cao et.al.|[2411.16063](http://arxiv.org/abs/2411.16063)|null|
 |**2024-11-24**|**Making Images from Images: Interleaving Denoising and Transformation**|Shumeet Baluja et.al.|[2411.15925](http://arxiv.org/abs/2411.15925)|null|
-|**2024-11-24**|**Beyond adaptive gradient: Fast-Controlled Minibatch Algorithm for large-scale optimization**|Corrado Coppola et.al.|[2411.15795](http://arxiv.org/abs/2411.15795)|null|
-|**2024-11-23**|**Efficient Online Inference of Vision Transformers by Training-Free Tokenization**|Leonidas Gee et.al.|[2411.15397](http://arxiv.org/abs/2411.15397)|null|
+|**2024-11-24**|**Beyond adaptive gradient: Fast-Controlled Minibatch Algorithm for large-scale optimization**|Corrado Coppola et.al.|[2411.15795](http://arxiv.org/abs/2411.15795)|**[link](https://github.com/corradocoppola97/Fast_CMA)**|
+|**2024-11-23**|**Efficient Online Inference of Vision Transformers by Training-Free Tokenization**|Leonidas Gee et.al.|[2411.15397](http://arxiv.org/abs/2411.15397)|**[link](https://github.com/wearepal/visual-word-tokenizer)**|
 |**2024-11-22**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
 |**2024-11-22**|**When Spatial meets Temporal in Action Recognition**|Huilin Chen et.al.|[2411.15284](http://arxiv.org/abs/2411.15284)|null|
 |**2024-11-22**|**Evaluating Vision Transformer Models for Visual Quality Control in Industrial Manufacturing**|Miriam Alber et.al.|[2411.14953](http://arxiv.org/abs/2411.14953)|**[link](https://github.com/visiontransformerad/vit-ad)**|
@@ -500,7 +500,7 @@
 |**2024-08-29**|**Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector**|Deepak Dagar et.al.|[2408.16892](http://arxiv.org/abs/2408.16892)|null|
 |**2024-08-29**|**Comparative Analysis of Transfer Learning Models for Breast Cancer Classification**|Sania Eskandari et.al.|[2408.16859](http://arxiv.org/abs/2408.16859)|null|
 |**2024-08-29**|**PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-Identification**|Lei Tan et.al.|[2408.16684](http://arxiv.org/abs/2408.16684)|null|
-|**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
+|**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|**[link](https://github.com/vimslab/sodawidenetplusplus)**|
 |**2024-08-29**|**Weakly Supervised Object Detection for Automatic Tooth-marked Tongue Recognition**|Yongcun Zhang et.al.|[2408.16451](http://arxiv.org/abs/2408.16451)|**[link](https://github.com/yc-zh/wsvm)**|
 |**2024-08-30**|**LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models**|Jingyi Wang et.al.|[2408.16224](http://arxiv.org/abs/2408.16224)|null|
 |**2024-08-28**|**ChartEye: A Deep Learning Framework for Chart Information Extraction**|Osama Mustafa et.al.|[2408.16123](http://arxiv.org/abs/2408.16123)|null|
@@ -1516,7 +1516,7 @@
 |**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
 |**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2024-10-31**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
-|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|**[link](https://github.com/apple/ml-act)**|
 |**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/abs/2410.22979)|null|
 |**2024-10-28**|**Unpacking SDXL Turbo: Interpreting Text-to-Image Models with Sparse Autoencoders**|Viacheslav Surkov et.al.|[2410.22366](http://arxiv.org/abs/2410.22366)|**[link](https://github.com/surkovv/sdxl-unbox)**|
 |**2024-10-30**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|**[link](https://github.com/csguoh/intlora)**|
@@ -1743,7 +1743,7 @@
 |**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|**[link](https://github.com/rezashkv/diffusion_pruning)**|
 |**2024-06-21**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|**[link](https://github.com/rishab-partha/Vid3D)**|
-|**2024-06-16**|**ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models**|Kaifeng Gao et.al.|[2406.10981](http://arxiv.org/abs/2406.10981)|null|
+|**2024-06-16**|**ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models**|Kaifeng Gao et.al.|[2406.10981](http://arxiv.org/abs/2406.10981)|**[link](https://github.com/dawn-lx/causal-videogen)**|
 |**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210](http://arxiv.org/abs/2406.10210)|null|
 |**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
 |**2024-06-14**|**Group and Shuffle: Efficient Structured Orthogonal Parametrization**|Mikhail Gorbunov et.al.|[2406.10019](http://arxiv.org/abs/2406.10019)|null|
@@ -2602,7 +2602,7 @@
 |**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970](http://arxiv.org/abs/2404.12970)|null|
 |**2024-04-22**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547](http://arxiv.org/abs/2404.12547)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385](http://arxiv.org/abs/2404.12385)|null|
-|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897](http://arxiv.org/abs/2404.11897)|**[link](https://github.com/gjgjgjfff/AG-NeRF)**|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419](http://arxiv.org/abs/2404.11419)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625](http://arxiv.org/abs/2404.10625)|null|
@@ -2753,7 +2753,7 @@
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058](http://arxiv.org/abs/2403.01058)|null|
 |**2024-03-01**|**DISORF: A Distributed Online NeRF Training and Rendering Framework for Mobile Robots**|Chunlin Li et.al.|[2403.00228](http://arxiv.org/abs/2403.00228)|**[link](https://github.com/Xiaorui-Huang/DISORF)**|
-|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|null|
+|**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196](http://arxiv.org/abs/2402.18196)|**[link](https://github.com/yu-jingrui/NToP)**|
 |**2024-02-26**|**Neural Radiance Fields in Medical Imaging: Challenges and Next Steps**|Xin Wang et.al.|[2402.17797](http://arxiv.org/abs/2402.17797)|null|
 |**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
