@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Learning to Translate Noise for Robust Image Denoising**|Inju Ha et.al.|[2412.04727](http://arxiv.org/abs/2412.04727)|null|
 |**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
 |**2024-12-04**|**Assessing the performance of CT image denoisers using Laguerre-Gauss Channelized Hotelling Observer for lesion detection**|Prabhat Kc et.al.|[2412.02920](http://arxiv.org/abs/2412.02920)|null|
 |**2024-12-03**|**Randomized algorithms for Kroncecker tensor decomposition and applications**|Salman Ahmadi-Asl et.al.|[2412.02597](http://arxiv.org/abs/2412.02597)|null|
@@ -239,6 +240,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
+|**2024-12-06**|**Power Plant Detection for Energy Estimation using GIS with Remote Sensing, CNN & Vision Transformers**|Blessing Austin-Gabriel et.al.|[2412.04986](http://arxiv.org/abs/2412.04986)|null|
+|**2024-12-06**|**Slicing Vision Transformer for Flexible Inference**|Yitian Zhang et.al.|[2412.04786](http://arxiv.org/abs/2412.04786)|null|
+|**2024-12-06**|**Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer**|Xueluan Gong et.al.|[2412.04776](http://arxiv.org/abs/2412.04776)|null|
+|**2024-12-06**|**PCTreeS: 3D Point Cloud Tree Species Classification Using Airborne LiDAR Images**|Hongjin Lin et.al.|[2412.04714](http://arxiv.org/abs/2412.04714)|null|
+|**2024-12-06**|**Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens**|Jaihyun Lew et.al.|[2412.04680](http://arxiv.org/abs/2412.04680)|null|
+|**2024-12-05**|**MetaFormer: High-fidelity Metalens Imaging via Aberration Correcting Transformers**|Byeonghyeon Lee et.al.|[2412.04591](http://arxiv.org/abs/2412.04591)|null|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
 |**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
@@ -1478,6 +1486,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275](http://arxiv.org/abs/2412.05275)|null|
+|**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263](http://arxiv.org/abs/2412.05263)|null|
+|**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|null|
+|**2024-12-06**|**Unsupervised Segmentation by Diffusing, Walking and Cutting**|Daniela Ivanova et.al.|[2412.04678](http://arxiv.org/abs/2412.04678)|null|
 |**2024-12-05**|**4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**|Chaoyang Wang et.al.|[2412.04462](http://arxiv.org/abs/2412.04462)|null|
 |**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
 |**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
@@ -2251,6 +2263,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
+|**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
