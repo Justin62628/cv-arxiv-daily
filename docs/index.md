@@ -36,6 +36,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**A CT Image Denoising Method Based on Projection Domain Feature**|Mengyu Sun et.al.|[2412.06135](http://arxiv.org/abs/2412.06135)|null|
+|**2024-12-08**|**Adversarial Transferability in Deep Denoising Models: Theoretical Insights and Robustness Enhancement via Out-of-Distribution Typical Set Sampling**|Jie Ning et.al.|[2412.05943](http://arxiv.org/abs/2412.05943)|null|
+|**2024-12-07**|**A Comparative Study of Image Denoising Algorithms**|Muhammad Umair Danish et.al.|[2412.05490](http://arxiv.org/abs/2412.05490)|null|
 |**2024-12-06**|**Learning to Translate Noise for Robust Image Denoising**|Inju Ha et.al.|[2412.04727](http://arxiv.org/abs/2412.04727)|null|
 |**2024-12-04**|**Imagine360: Immersive 360 Video Generation from Perspective Anchor**|Jing Tan et.al.|[2412.03552](http://arxiv.org/abs/2412.03552)|null|
 |**2024-12-04**|**Assessing the performance of CT image denoisers using Laguerre-Gauss Channelized Hotelling Observer for lesion detection**|Prabhat Kc et.al.|[2412.02920](http://arxiv.org/abs/2412.02920)|null|
@@ -229,6 +232,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Vision transformer based Deep Learning of Topological indicators in Majorana Nanowires**|Jacob R. Taylor et.al.|[2412.06768](http://arxiv.org/abs/2412.06768)|null|
+|**2024-12-09**|**Knowledge Transfer and Domain Adaptation for Fine-Grained Remote Sensing Image Segmentation**|Shun Zhang et.al.|[2412.06664](http://arxiv.org/abs/2412.06664)|null|
+|**2024-12-09**|**Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers**|Johanna Vielhaben et.al.|[2412.06639](http://arxiv.org/abs/2412.06639)|**[link](https://github.com/jvielhaben/nlmcd-align)**|
+|**2024-12-09**|**Bridging the Divide: Reconsidering Softmax and Linear Attention**|Dongchen Han et.al.|[2412.06590](http://arxiv.org/abs/2412.06590)|**[link](https://github.com/leaplabthu/inline)**|
+|**2024-12-09**|**Table2Image: Interpretable Tabular data Classification with Realistic Image Transformations**|Seungeun Lee et.al.|[2412.06265](http://arxiv.org/abs/2412.06265)|**[link](https://github.com/duneag2/table2image)**|
+|**2024-12-09**|**An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers**|Xueluan Gong et.al.|[2412.06149](http://arxiv.org/abs/2412.06149)|null|
+|**2024-12-08**|**Are foundation models for computer vision good conformal predictors?**|Leo Fillioux et.al.|[2412.06082](http://arxiv.org/abs/2412.06082)|null|
+|**2024-12-08**|**Vision Transformer-based Semantic Communications With Importance-Aware Quantization**|Joohyuk Park et.al.|[2412.06038](http://arxiv.org/abs/2412.06038)|null|
+|**2024-12-08**|**Enhancing Content Representation for AR Image Quality Assessment Using Knowledge Distillation**|Aymen Sekhri et.al.|[2412.06003](http://arxiv.org/abs/2412.06003)|null|
+|**2024-12-08**|**Paddy Disease Detection and Classification Using Computer Vision Techniques: A Mobile Application to Detect Paddy Disease**|Bimarsha Khanal et.al.|[2412.05996](http://arxiv.org/abs/2412.05996)|null|
 |**2024-12-06**|**Sparse autoencoders reveal selective remapping of visual concepts during adaptation**|Hyesu Lim et.al.|[2412.05276](http://arxiv.org/abs/2412.05276)|**[link](https://github.com/dynamical-inference/patchsae)**|
 |**2024-12-06**|**Power Plant Detection for Energy Estimation using GIS with Remote Sensing, CNN & Vision Transformers**|Blessing Austin-Gabriel et.al.|[2412.04986](http://arxiv.org/abs/2412.04986)|null|
 |**2024-12-06**|**Slicing Vision Transformer for Flexible Inference**|Yitian Zhang et.al.|[2412.04786](http://arxiv.org/abs/2412.04786)|null|
@@ -1473,6 +1486,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
+|**2024-12-08**|**Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**|Zhenghong Zhou et.al.|[2412.06029](http://arxiv.org/abs/2412.06029)|null|
+|**2024-12-08**|**Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation**|Hyeonho Jeong et.al.|[2412.06016](http://arxiv.org/abs/2412.06016)|null|
+|**2024-12-08**|**Accelerating Video Diffusion Models via Distribution Matching**|Yuanzhi Zhu et.al.|[2412.05899](http://arxiv.org/abs/2412.05899)|null|
+|**2024-12-07**|**Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent**|Ziyuan Qin et.al.|[2412.05722](http://arxiv.org/abs/2412.05722)|null|
+|**2024-12-06**|**Serendipitous decametre detection of ultra steep spectrum radio emission in Abell 655**|C. Groeneveld et.al.|[2412.05360](http://arxiv.org/abs/2412.05360)|null|
+|**2024-12-06**|**MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance**|Hidir Yesiltepe et.al.|[2412.05355](http://arxiv.org/abs/2412.05355)|null|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275](http://arxiv.org/abs/2412.05275)|null|
 |**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263](http://arxiv.org/abs/2412.05263)|null|
 |**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|null|
@@ -2248,6 +2268,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
+|**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
