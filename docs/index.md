@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -2294,7 +2294,7 @@ layout: default
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
-|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
 |**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695](http://arxiv.org/abs/2412.05695)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
