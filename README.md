@@ -46,13 +46,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
+|**2024-12-21**|**Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising**|Tong Li et.al.|[2412.16460](http://arxiv.org/abs/2412.16460)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
 |**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156](http://arxiv.org/abs/2412.13156)|null|
 |**2024-12-17**|**Linear Convergence of Resolvent Splitting with Minimal Lifting and its Application to a Primal-Dual Algorithm**|Farhana A. Simi et.al.|[2412.12607](http://arxiv.org/abs/2412.12607)|null|
 |**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049](http://arxiv.org/abs/2412.12049)|null|
 |**2024-12-16**|**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**|Zikang Chen et.al.|[2412.11820](http://arxiv.org/abs/2412.11820)|**[link](https://github.com/zkccz/stbn)**|
-|**2024-12-16**|**Probability-Informed Machine Learning**|Mohsen Rashki et.al.|[2412.11526](http://arxiv.org/abs/2412.11526)|null|
+|**2024-12-23**|**Probability-Informed Machine Learning**|Mohsen Rashki et.al.|[2412.11526](http://arxiv.org/abs/2412.11526)|null|
 |**2024-12-15**|**OTLRM: Orthogonal Learning-based Low-Rank Metric for Multi-Dimensional Inverse Problems**|Xiangming Wang et.al.|[2412.11165](http://arxiv.org/abs/2412.11165)|**[link](https://github.com/xianggkl/otlrm)**|
 |**2024-12-14**|**LAN: Learning to Adapt Noise for Image Denoising**|Changjin Kim et.al.|[2412.10651](http://arxiv.org/abs/2412.10651)|**[link](https://github.com/chjinny/LAN)**|
 |**2024-12-13**|**FM2S: Self-Supervised Fluorescence Microscopy Denoising With Single Noisy Image**|Jizhihui Liu et.al.|[2412.10031](http://arxiv.org/abs/2412.10031)|**[link](https://github.com/danielement321/fm2s)**|
@@ -258,6 +260,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
+|**2024-12-23**|**A Room to Roam: Reset Prediction Based on Physical Object Placement for Redirected Walking**|Sulim Chun et.al.|[2412.17375](http://arxiv.org/abs/2412.17375)|null|
+|**2024-12-21**|**V"Mean"ba: Visual State Space Models only need 1 hidden dimension**|Tien-Yu Chi et.al.|[2412.16602](http://arxiv.org/abs/2412.16602)|null|
+|**2024-12-21**|**Semantics Prompting Data-Free Quantization for Low-Bit Vision Transformers**|Yunshan Zhong et.al.|[2412.16553](http://arxiv.org/abs/2412.16553)|null|
+|**2024-12-21**|**ImagePiece: Content-aware Re-tokenization for Efficient Image Recognition**|Seungdong Yoa et.al.|[2412.16491](http://arxiv.org/abs/2412.16491)|null|
+|**2024-12-21**|**Sensitive Image Classification by Vision Transformers**|Hanxian He et.al.|[2412.16446](http://arxiv.org/abs/2412.16446)|null|
+|**2024-12-21**|**Object Detection Approaches to Identifying Hand Images with High Forensic Values**|Thanh Thi Nguyen et.al.|[2412.16431](http://arxiv.org/abs/2412.16431)|null|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
 |**2024-12-19**|**Uncertainty-Guided Cross Attention Ensemble Mean Teacher for Semi-supervised Medical Image Segmentation**|Meghana Karri et.al.|[2412.15380](http://arxiv.org/abs/2412.15380)|null|
 |**2024-12-19**|**Jet: A Modern Transformer-Based Normalizing Flow**|Alexander Kolesnikov et.al.|[2412.15129](http://arxiv.org/abs/2412.15129)|null|
@@ -1556,9 +1565,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-22**|**Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation**|Luoxu Jin et.al.|[2412.17042](http://arxiv.org/abs/2412.17042)|null|
+|**2024-12-22**|**PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask**|Jeongho Kim et.al.|[2412.16978](http://arxiv.org/abs/2412.16978)|**[link](https://github.com/rlawjdghek/promptdresser)**|
+|**2024-12-20**|**PromptLA: Towards Integrity Verification of Black-box Text-to-Image Diffusion Models**|Zhuomeng Zhang et.al.|[2412.16257](http://arxiv.org/abs/2412.16257)|null|
 |**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050](http://arxiv.org/abs/2412.16050)|null|
 |**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/abs/2412.15798)|null|
-|**2024-12-20**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
+|**2024-12-23**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
 |**2024-12-20**|**DefFiller: Mask-Conditioned Diffusion for Salient Steel Surface Defect Generation**|Yichun Tai et.al.|[2412.15570](http://arxiv.org/abs/2412.15570)|**[link](https://github.com/cc-t/deffiller)**|
 |**2024-12-20**|**ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model**|Qi Zang et.al.|[2412.15541](http://arxiv.org/abs/2412.15541)|**[link](https://github.com/dzhaoxd/changediff)**|
 |**2024-12-20**|**GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators**|Hengjia Li et.al.|[2412.15491](http://arxiv.org/abs/2412.15491)|null|
@@ -2390,6 +2402,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
