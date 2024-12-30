@@ -261,6 +261,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**RecConv: Efficient Recursive Convolutions for Multi-Frequency Representations**|Mingshu Zhao et.al.|[2412.19628](http://arxiv.org/abs/2412.19628)|**[link](https://github.com/suous/recnext)**|
+|**2024-12-27**|**Attribution for Enhanced Explanation with Transferable Adversarial eXploration**|Zhiyu Zhu et.al.|[2412.19523](http://arxiv.org/abs/2412.19523)|null|
+|**2024-12-26**|**Dual Channel Multi-Attention in ViT for Biometric Authentication using Forehead Subcutaneous Vein Pattern and Periocular Pattern**|Arun K. Sharma et.al.|[2412.19160](http://arxiv.org/abs/2412.19160)|null|
+|**2024-12-26**|**SpectralKD: Understanding and Optimizing Vision Transformer Distillation through Spectral Analysis**|Huiyuan Tian et.al.|[2412.19055](http://arxiv.org/abs/2412.19055)|null|
+|**2024-12-25**|**MiTREE: Multi-input Transformer Ecoregion Encoder for Species Distribution Modelling**|Theresa Chen et.al.|[2412.18995](http://arxiv.org/abs/2412.18995)|null|
+|**2024-12-25**|**MTCAE-DFER: Multi-Task Cascaded Autoencoder for Dynamic Facial Expression Recognition**|Peihao Xiang et.al.|[2412.18988](http://arxiv.org/abs/2412.18988)|null|
+|**2024-12-25**|**Unified Local and Global Attention Interaction Modeling for Vision Transformers**|Tan Nguyen et.al.|[2412.18778](http://arxiv.org/abs/2412.18778)|null|
+|**2024-12-25**|**ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction**|Apoorv Thapliyal et.al.|[2412.18775](http://arxiv.org/abs/2412.18775)|null|
 |**2024-12-25**|**VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis**|Shicheng Yin et.al.|[2412.18178](http://arxiv.org/abs/2412.18178)|**[link](https://github.com/yangliu9208/visiongru)**|
 |**2024-12-24**|**AutoSculpt: A Pattern-based Model Auto-pruning Framework Using Reinforcement Learning and Graph Learning**|Lixian Jing et.al.|[2412.18091](http://arxiv.org/abs/2412.18091)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
@@ -1568,6 +1576,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-25**|**DebiasDiff: Debiasing Text-to-image Diffusion Models with Self-discovering Latent Attribute Directions**|Yilei Jiang et.al.|[2412.18810](http://arxiv.org/abs/2412.18810)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
 |**2024-12-24**|**DepthLab: From Partial to Complete**|Zhiheng Liu et.al.|[2412.18153](http://arxiv.org/abs/2412.18153)|null|
@@ -2408,6 +2418,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
+|**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
+|**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
+|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
+|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
 |**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
 |**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
