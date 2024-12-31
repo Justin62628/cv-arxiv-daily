@@ -250,6 +250,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-29**|**MATEY: multiscale adaptive foundation models for spatiotemporal physical systems**|Pei Zhang et.al.|[2412.20601](http://arxiv.org/abs/2412.20601)|null|
+|**2024-12-29**|**Segmentation of Muscularis Propria in Colon Histopathology Images Using Vision Transformers for Hirschsprung's Disease**|Youssef Megahed et.al.|[2412.20571](http://arxiv.org/abs/2412.20571)|null|
+|**2024-12-29**|**Motion Transfer-Driven intra-class data augmentation for Finger Vein Recognition**|Xiu-Feng Huang et.al.|[2412.20327](http://arxiv.org/abs/2412.20327)|**[link](https://github.com/kevinhuangxf/fingerveinrecognition)**|
+|**2024-12-28**|**Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection**|Yaning Zhang et.al.|[2412.20156](http://arxiv.org/abs/2412.20156)|null|
+|**2024-12-28**|**Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking**|You Wu et.al.|[2412.20002](http://arxiv.org/abs/2412.20002)|null|
+|**2024-12-28**|**SegKAN: High-Resolution Medical Image Segmentation with Long-Distance Dependencies**|Shengbo Tan et.al.|[2412.19990](http://arxiv.org/abs/2412.19990)|null|
 |**2024-12-27**|**RecConv: Efficient Recursive Convolutions for Multi-Frequency Representations**|Mingshu Zhao et.al.|[2412.19628](http://arxiv.org/abs/2412.19628)|**[link](https://github.com/suous/recnext)**|
 |**2024-12-27**|**Attribution for Enhanced Explanation with Transferable Adversarial eXploration**|Zhiyu Zhu et.al.|[2412.19523](http://arxiv.org/abs/2412.19523)|null|
 |**2024-12-26**|**Dual Channel Multi-Attention in ViT for Biometric Authentication using Forehead Subcutaneous Vein Pattern and Periocular Pattern**|Arun K. Sharma et.al.|[2412.19160](http://arxiv.org/abs/2412.19160)|null|
@@ -1563,7 +1569,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800](http://arxiv.org/abs/2412.20800)|**[link](https://github.com/fenfenfenfan/VMix)**|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|null|
+|**2024-12-29**|**DPBridge: Latent Diffusion Bridge for Dense Prediction**|Haorui Ji et.al.|[2412.20506](http://arxiv.org/abs/2412.20506)|null|
+|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422](http://arxiv.org/abs/2412.20422)|null|
+|**2024-12-29**|**FairDiffusion: Enhancing Equity in Latent Diffusion Models via Fair Bayesian Perturbation**|Yan Luo et.al.|[2412.20374](http://arxiv.org/abs/2412.20374)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdiffusion)**|
+|**2024-12-27**|**Data-Free Group-Wise Fully Quantized Winograd Convolution via Learnable Scales**|Shuokai Pan et.al.|[2412.19867](http://arxiv.org/abs/2412.19867)|null|
+|**2024-12-30**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
 |**2024-12-25**|**DebiasDiff: Debiasing Text-to-image Diffusion Models with Self-discovering Latent Attribute Directions**|Yilei Jiang et.al.|[2412.18810](http://arxiv.org/abs/2412.18810)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
@@ -2403,6 +2415,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-29**|**Bringing Objects to Life: 4D generation from 3D objects**|Ohad Rahamim et.al.|[2412.20422](http://arxiv.org/abs/2412.20422)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
 |**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
