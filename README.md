@@ -266,7 +266,7 @@
 |**2024-12-29**|**Motion Transfer-Driven intra-class data augmentation for Finger Vein Recognition**|Xiu-Feng Huang et.al.|[2412.20327](http://arxiv.org/abs/2412.20327)|**[link](https://github.com/kevinhuangxf/fingerveinrecognition)**|
 |**2024-12-28**|**Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection**|Yaning Zhang et.al.|[2412.20156](http://arxiv.org/abs/2412.20156)|null|
 |**2024-12-28**|**Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking**|You Wu et.al.|[2412.20002](http://arxiv.org/abs/2412.20002)|**[link](https://github.com/wuyou3474/AVTrack)**|
-|**2024-12-28**|**SegKAN: High-Resolution Medical Image Segmentation with Long-Distance Dependencies**|Shengbo Tan et.al.|[2412.19990](http://arxiv.org/abs/2412.19990)|**[link](https://github.com/goblin327/segkan)**|
+|**2025-01-02**|**SegKAN: High-Resolution Medical Image Segmentation with Long-Distance Dependencies**|Shengbo Tan et.al.|[2412.19990](http://arxiv.org/abs/2412.19990)|**[link](https://github.com/goblin327/segkan)**|
 |**2024-12-27**|**RecConv: Efficient Recursive Convolutions for Multi-Frequency Representations**|Mingshu Zhao et.al.|[2412.19628](http://arxiv.org/abs/2412.19628)|**[link](https://github.com/suous/recnext)**|
 |**2024-12-27**|**Attribution for Enhanced Explanation with Transferable Adversarial eXploration**|Zhiyu Zhu et.al.|[2412.19523](http://arxiv.org/abs/2412.19523)|null|
 |**2024-12-26**|**Dual Channel Multi-Attention in ViT for Biometric Authentication using Forehead Subcutaneous Vein Pattern and Periocular Pattern**|Arun K. Sharma et.al.|[2412.19160](http://arxiv.org/abs/2412.19160)|null|
