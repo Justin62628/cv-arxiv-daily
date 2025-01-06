@@ -466,7 +466,7 @@
 |**2024-10-29**|**Multi-step feature fusion for natural disaster damage assessment on satellite images**|Mateusz Żarski et.al.|[2410.21901](http://arxiv.org/abs/2410.21901)|**[link](https://github.com/matzar01/eq_vis)**|
 |**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256](http://arxiv.org/abs/2410.21256)|null|
 |**2024-10-28**|**Explainability in AI Based Applications: A Framework for Comparing Different Techniques**|Arne Grobrugge et.al.|[2410.20873](http://arxiv.org/abs/2410.20873)|null|
-|**2024-10-28**|**ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives**|Wenyang Liu et.al.|[2410.20855](http://arxiv.org/abs/2410.20855)|null|
+|**2024-10-28**|**ByteNet: Rethinking Multimedia File Fragment Classification through Visual Perspectives**|Wenyang Liu et.al.|[2410.20855](http://arxiv.org/abs/2410.20855)|**[link](https://github.com/wenyang001/byte2image)**|
 |**2024-10-28**|**SparseTem: Boosting the Efficiency of CNN-Based Video Encoders by Exploiting Temporal Continuity**|Kunyun Wang et.al.|[2410.20790](http://arxiv.org/abs/2410.20790)|null|
 |**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722](http://arxiv.org/abs/2410.20722)|**[link](https://github.com/Henrymachiyu/ProtoViT)**|
 |**2024-10-27**|**PViT: Prior-augmented Vision Transformer for Out-of-distribution Detection**|Tianhao Zhang et.al.|[2410.20631](http://arxiv.org/abs/2410.20631)|null|
@@ -1430,7 +1430,7 @@
 |**2023-12-07**|**An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything**|Israt Zarin Era et.al.|[2312.04063](http://arxiv.org/abs/2312.04063)|null|
 |**2023-12-06**|**A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement**|Risab Biswas et.al.|[2312.03946](http://arxiv.org/abs/2312.03946)|**[link](https://github.com/RisabBiswas/T2T-BinFormer)**|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|**[link](https://github.com/gongzix/lite-mind)**|
-|**2023-12-06**|**DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization**|Risab Biswas et.al.|[2312.03568](http://arxiv.org/abs/2312.03568)|null|
+|**2023-12-06**|**DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization**|Risab Biswas et.al.|[2312.03568](http://arxiv.org/abs/2312.03568)|**[link](https://github.com/risabbiswas/docbinformer)**|
 |**2023-12-06**|**When an Image is Worth 1,024 x 1,024 Words: A Case Study in Computational Pathology**|Wenhui Wang et.al.|[2312.03558](http://arxiv.org/abs/2312.03558)|null|
 |**2023-12-05**|**Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset**|Mohammad Saber Hashemi et.al.|[2312.03133](http://arxiv.org/abs/2312.03133)|null|
 |**2023-12-05**|**Are Vision Transformers More Data Hungry Than Newborn Visual Systems?**|Lalit Pandey et.al.|[2312.02843](http://arxiv.org/abs/2312.02843)|**[link](https://github.com/buildingamind/vit-cot)**|
