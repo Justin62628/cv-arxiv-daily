@@ -264,6 +264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Towards Hard and Soft Shadow Removal via Dual-Branch Separation Network and Vision Transformer**|Jiajia Liang et.al.|[2501.01864](http://arxiv.org/abs/2501.01864)|null|
+|**2025-01-02**|**SAFER: Sharpness Aware layer-selective Finetuning for Enhanced Robustness in vision transformers**|Bhavna Gopal et.al.|[2501.01529](http://arxiv.org/abs/2501.01529)|null|
+|**2024-12-31**|**Geometry Matters: Benchmarking Scientific ML Approaches for Flow Prediction around Complex Geometries**|Ali Rabeh et.al.|[2501.01453](http://arxiv.org/abs/2501.01453)|null|
 |**2025-01-02**|**An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec**|Uzma Mushtaque et.al.|[2501.01242](http://arxiv.org/abs/2501.01242)|null|
 |**2025-01-01**|**Multiscaled Multi-Head Attention-based Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2501.00935](http://arxiv.org/abs/2501.00935)|null|
 |**2024-12-31**|**A Study on Context Length and Efficient Transformers for Biomedical Image Analysis**|Sarah M. Hooper et.al.|[2501.00619](http://arxiv.org/abs/2501.00619)|null|
@@ -1591,6 +1594,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Ingredients: Blending Custom Photos with Video Diffusion Transformers**|Zhengcong Fei et.al.|[2501.01790](http://arxiv.org/abs/2501.01790)|null|
+|**2025-01-03**|**ACE: Anti-Editing Concept Erasure in Text-to-Image Models**|Zihao Wang et.al.|[2501.01633](http://arxiv.org/abs/2501.01633)|null|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
 |**2025-01-03**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235](http://arxiv.org/abs/2501.01235)|**[link](https://github.com/wangzhiyaoo/svfr)**|
 |**2025-01-01**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944](http://arxiv.org/abs/2501.00944)|null|
