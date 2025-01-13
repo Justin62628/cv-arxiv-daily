@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -253,8 +253,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|null|
-|**2025-01-09**|**CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models**|Fabian Hörst et.al.|[2501.05269](http://arxiv.org/abs/2501.05269)|null|
+|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|**[link](https://github.com/pcdurham/see_ice)**|
+|**2025-01-09**|**CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models**|Fabian Hörst et.al.|[2501.05269](http://arxiv.org/abs/2501.05269)|**[link](https://github.com/tio-ikim/cellvit-plus-plus)**|
 |**2025-01-08**|**Leveraging Registers in Vision Transformers for Robust Adaptation**|Srikar Yellapragada et.al.|[2501.04784](http://arxiv.org/abs/2501.04784)|null|
 |**2025-01-07**|**LM-Net: A Light-weight and Multi-scale Network for Medical Image Segmentation**|Zhenkun Lu et.al.|[2501.03838](http://arxiv.org/abs/2501.03838)|**[link](https://github.com/Asunatan/LM-Net)**|
 |**2025-01-07**|**Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights**|Sy-Tuyen Ho et.al.|[2501.03782](http://arxiv.org/abs/2501.03782)|null|
