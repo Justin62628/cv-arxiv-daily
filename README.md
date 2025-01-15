@@ -47,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901](http://arxiv.org/abs/2501.07901)|null|
 |**2025-01-10**|**LLVD: LSTM-based Explicit Motion Modeling in Latent Space for Blind Video Denoising**|Loay Rashid et.al.|[2501.05744](http://arxiv.org/abs/2501.05744)|null|
 |**2025-01-08**|**Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion**|Yongjia Ma et.al.|[2501.05484](http://arxiv.org/abs/2501.05484)|null|
 |**2025-01-02**|**InDeed: Interpretable image deep decomposition with guaranteed generalizability**|Sihan Wang et.al.|[2501.01127](http://arxiv.org/abs/2501.01127)|null|
@@ -266,6 +267,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Efficient Deep Learning-based Forward Solvers for Brain Tumor Growth Models**|Zeineb Haouari et.al.|[2501.08226](http://arxiv.org/abs/2501.08226)|null|
+|**2025-01-14**|**An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer**|Zhengke Li et.al.|[2501.07825](http://arxiv.org/abs/2501.07825)|null|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities**|Jialin Wu et.al.|[2501.07044](http://arxiv.org/abs/2501.07044)|null|
 |**2025-01-13**|**UNetVL: Enhancing 3D Medical Image Segmentation with Chebyshev KAN Powered Vision-LSTM**|Xuhui Guo et.al.|[2501.07017](http://arxiv.org/abs/2501.07017)|null|
@@ -1621,6 +1624,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333](http://arxiv.org/abs/2501.08333)|null|
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
+|**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
+|**2025-01-14**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295](http://arxiv.org/abs/2501.08295)|null|
+|**2025-01-14**|**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors**|Yabo Zhang et.al.|[2501.08225](http://arxiv.org/abs/2501.08225)|**[link](https://github.com/ybybzhang/framepainter)**|
+|**2025-01-13**|**BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations**|Weixi Feng et.al.|[2501.07647](http://arxiv.org/abs/2501.07647)|null|
 |**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563](http://arxiv.org/abs/2501.07563)|null|
 |**2025-01-13**|**PrecipDiff: Leveraging image diffusion models to enhance satellite-based precipitation observations**|Ting-Yu Dai et.al.|[2501.07447](http://arxiv.org/abs/2501.07447)|null|
 |**2025-01-11**|**Personalized Preference Fine-tuning of Diffusion Models**|Meihua Dang et.al.|[2501.06655](http://arxiv.org/abs/2501.06655)|null|
@@ -2491,6 +2500,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
