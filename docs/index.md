@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1620,7 +1620,7 @@ layout: default
 |**2025-01-15**|**FlexiClip: Locality-Preserving Free-Form Character Animation**|Anant Khandelwal et.al.|[2501.08676](http://arxiv.org/abs/2501.08676)|null|
 |**2025-01-14**|**Vchitect-2.0: Parallel Transformer for Scaling Up Video Diffusion Models**|Weichen Fan et.al.|[2501.08453](http://arxiv.org/abs/2501.08453)|null|
 |**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333](http://arxiv.org/abs/2501.08333)|null|
-|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
+|**2025-01-16**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
 |**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
 |**2025-01-14**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295](http://arxiv.org/abs/2501.08295)|null|
 |**2025-01-14**|**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors**|Yabo Zhang et.al.|[2501.08225](http://arxiv.org/abs/2501.08225)|**[link](https://github.com/ybybzhang/framepainter)**|
