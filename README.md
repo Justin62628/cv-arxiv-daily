@@ -268,6 +268,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Provably Safeguarding a Classifier from OOD and Adversarial Samples: an Extreme Value Theory Approach**|Nicolas Atienza et.al.|[2501.10202](http://arxiv.org/abs/2501.10202)|null|
+|**2025-01-16**|**Generalized Single-Image-Based Morphing Attack Detection Using Deep Representations from Vision Transformer**|Haoyu Zhang et.al.|[2501.09817](http://arxiv.org/abs/2501.09817)|null|
+|**2025-01-16**|**Galaxy Morphological Classification with Zernike Moments and Machine Learning Approaches**|Hamed Ghaderi et.al.|[2501.09816](http://arxiv.org/abs/2501.09816)|null|
+|**2025-01-16**|**SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation**|Wanqi Yin et.al.|[2501.09782](http://arxiv.org/abs/2501.09782)|**[link](https://github.com/wqyin/smplest-x)**|
 |**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755](http://arxiv.org/abs/2501.09755)|null|
 |**2025-01-16**|**Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**|Arpita Chowdhury et.al.|[2501.09333](http://arxiv.org/abs/2501.09333)|null|
 |**2025-01-16**|**Leveraging Scale-aware Representations for improved Concept-Representation Alignment in ViTs**|Sanchit Sinha et.al.|[2501.09221](http://arxiv.org/abs/2501.09221)|null|
@@ -1633,6 +1637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|null|
 |**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194](http://arxiv.org/abs/2501.09194)|null|
 |**2025-01-14**|**Do generative video models learn physical principles from watching videos?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|null|
 |**2025-01-15**|**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion**|Jingyuan Chen et.al.|[2501.09019](http://arxiv.org/abs/2501.09019)|null|
@@ -2515,6 +2520,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
