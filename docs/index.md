@@ -259,6 +259,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**SIM: Surface-based fMRI Analysis for Inter-Subject Multimodal Decoding from Movie-Watching Experiments**|Simon Dahan et.al.|[2501.16471](http://arxiv.org/abs/2501.16471)|**[link](https://github.com/metrics-lab/sim)**|
+|**2025-01-27**|**Cross-Domain Semantic Segmentation with Large Language Model-Assisted Descriptor Generation**|Philip Hughes et.al.|[2501.16467](http://arxiv.org/abs/2501.16467)|null|
 |**2025-01-27**|**PDC-ViT : Source Camera Identification using Pixel Difference Convolution and Vision Transformer**|Omar Elharrouss et.al.|[2501.16227](http://arxiv.org/abs/2501.16227)|null|
 |**2025-01-27**|**The Linear Attention Resurrection in Vision Transformer**|Chuanyang Zheng et.al.|[2501.16182](http://arxiv.org/abs/2501.16182)|null|
 |**2025-01-27**|**Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI**|Taymaz Akan et.al.|[2501.15733](http://arxiv.org/abs/2501.15733)|null|
@@ -1651,6 +1653,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
+|**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714](http://arxiv.org/abs/2501.16714)|null|
+|**2025-01-27**|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|Tianyi Xie et.al.|[2501.16550](http://arxiv.org/abs/2501.16550)|null|
 |**2025-01-27**|**BAG: Body-Aligned 3D Wearable Asset Generation**|Zhongjin Luo et.al.|[2501.16177](http://arxiv.org/abs/2501.16177)|null|
 |**2025-01-27**|**Improving Tropical Cyclone Forecasting With Video Diffusion Models**|Zhibo Ren et.al.|[2501.16003](http://arxiv.org/abs/2501.16003)|**[link](https://github.com/ren-creater/forecast-video-diffmodels)**|
 |**2025-01-26**|**CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary**|Jiahang Tu et.al.|[2501.15562](http://arxiv.org/abs/2501.15562)|null|
@@ -2542,7 +2547,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
+|**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
