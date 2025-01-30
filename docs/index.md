@@ -259,6 +259,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Watch Your STEPP: Semantic Traversability Estimation using Pose Projected Features**|Sebastian Ægidius et.al.|[2501.17594](http://arxiv.org/abs/2501.17594)|null|
+|**2025-01-28**|**ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification**|Mohammadreza Saraei et.al.|[2501.17260](http://arxiv.org/abs/2501.17260)|null|
 |**2025-01-27**|**SIM: Surface-based fMRI Analysis for Inter-Subject Multimodal Decoding from Movie-Watching Experiments**|Simon Dahan et.al.|[2501.16471](http://arxiv.org/abs/2501.16471)|**[link](https://github.com/metrics-lab/sim)**|
 |**2025-01-27**|**Cross-Domain Semantic Segmentation with Large Language Model-Assisted Descriptor Generation**|Philip Hughes et.al.|[2501.16467](http://arxiv.org/abs/2501.16467)|null|
 |**2025-01-27**|**PDC-ViT : Source Camera Identification using Pixel Difference Convolution and Vision Transformer**|Omar Elharrouss et.al.|[2501.16227](http://arxiv.org/abs/2501.16227)|null|
@@ -1653,6 +1655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
 |**2025-01-28**|**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models**|Huijie Liu et.al.|[2501.16714](http://arxiv.org/abs/2501.16714)|null|
 |**2025-01-27**|**PhysAnimator: Physics-Guided Generative Cartoon Animation**|Tianyi Xie et.al.|[2501.16550](http://arxiv.org/abs/2501.16550)|null|
