@@ -305,7 +305,7 @@
 |**2025-01-17**|**Enhancing the Reliability in Machine Learning for Gravitational Wave Parameter Estimation with Attention-Based Models**|Hibiki Iwanaga et.al.|[2501.10486](http://arxiv.org/abs/2501.10486)|null|
 |**2025-01-17**|**Provably Safeguarding a Classifier from OOD and Adversarial Samples: an Extreme Value Theory Approach**|Nicolas Atienza et.al.|[2501.10202](http://arxiv.org/abs/2501.10202)|null|
 |**2025-01-16**|**Generalized Single-Image-Based Morphing Attack Detection Using Deep Representations from Vision Transformer**|Haoyu Zhang et.al.|[2501.09817](http://arxiv.org/abs/2501.09817)|null|
-|**2025-01-16**|**Galaxy Morphological Classification with Zernike Moments and Machine Learning Approaches**|Hamed Ghaderi et.al.|[2501.09816](http://arxiv.org/abs/2501.09816)|null|
+|**2025-01-16**|**Galaxy Morphological Classification with Zernike Moments and Machine Learning Approaches**|Hamed Ghaderi et.al.|[2501.09816](http://arxiv.org/abs/2501.09816)|**[link](https://github.com/hmddev1/machine_learning_for_morphological_galaxy_classification)**|
 |**2025-01-16**|**SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation**|Wanqi Yin et.al.|[2501.09782](http://arxiv.org/abs/2501.09782)|**[link](https://github.com/wqyin/smplest-x)**|
 |**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755](http://arxiv.org/abs/2501.09755)|null|
 |**2025-01-16**|**Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**|Arpita Chowdhury et.al.|[2501.09333](http://arxiv.org/abs/2501.09333)|null|
@@ -1231,7 +1231,7 @@
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430](http://arxiv.org/abs/2403.13430)|**[link](https://github.com/vitae-transformer/mtp)**|
 |**2024-03-20**|**vid-TLDR: Training Free Token merging for Light-weight Video Transformer**|Joonmyung Choi et.al.|[2403.13347](http://arxiv.org/abs/2403.13347)|**[link](https://github.com/mlvlab/vid-tldr)**|
 |**2024-03-20**|**Rotary Position Embedding for Vision Transformer**|Byeongho Heo et.al.|[2403.13298](http://arxiv.org/abs/2403.13298)|**[link](https://github.com/naver-ai/rope-vit)**|
-|**2024-03-19**|**ADAPT to Robustify Prompt Tuning Vision Transformers**|Masih Eskandar et.al.|[2403.13196](http://arxiv.org/abs/2403.13196)|null|
+|**2024-03-19**|**ADAPT to Robustify Prompt Tuning Vision Transformers**|Masih Eskandar et.al.|[2403.13196](http://arxiv.org/abs/2403.13196)|**[link](https://github.com/Gnomy17/robust_prompt)**|
 |**2024-03-19**|**Improved EATFormer: A Vision Transformer for Medical Image Classification**|Yulong Shisu et.al.|[2403.13167](http://arxiv.org/abs/2403.13167)|null|
 |**2024-03-19**|**ViTGaze: Gaze Following with Interaction Features in Vision Transformers**|Yuehao Song et.al.|[2403.12778](http://arxiv.org/abs/2403.12778)|**[link](https://github.com/hustvl/vitgaze)**|
 |**2024-03-19**|**Compound Expression Recognition via Multi Model Ensemble**|Jun Yu et.al.|[2403.12572](http://arxiv.org/abs/2403.12572)|null|
@@ -1653,7 +1653,7 @@
 |**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956](http://arxiv.org/abs/2310.17956)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
 |**2023-10-27**|**Generalizing to Unseen Domains in Diabetic Retinopathy Classification**|Chamuditha Jayanga Galappaththige et.al.|[2310.17255](http://arxiv.org/abs/2310.17255)|**[link](https://github.com/chumsy0725/spsd-vit)**|
 |**2023-10-26**|**Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**|Fengyuan Shi et.al.|[2310.17177](http://arxiv.org/abs/2310.17177)|null|
-|**2023-10-25**|**netFound: Foundation Model for Network Security**|Satyandra Guthula et.al.|[2310.17025](http://arxiv.org/abs/2310.17025)|null|
+|**2023-10-25**|**netFound: Foundation Model for Network Security**|Satyandra Guthula et.al.|[2310.17025](http://arxiv.org/abs/2310.17025)|**[link](https://github.com/SNL-UCSB/netFound)**|
 |**2023-10-27**|**MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory**|Yinan Liang et.al.|[2310.16898](http://arxiv.org/abs/2310.16898)|**[link](https://github.com/liangyn22/mcuformer)**|
 |**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836](http://arxiv.org/abs/2310.16836)|**[link](https://github.com/nbasyl/llm-fp4)**|
 |**2023-10-25**|**ConvNets Match Vision Transformers at Scale**|Samuel L. Smith et.al.|[2310.16764](http://arxiv.org/abs/2310.16764)|null|
@@ -1688,7 +1688,7 @@
 |**2025-01-22**|**Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models**|Wang Pang et.al.|[2501.12604](http://arxiv.org/abs/2501.12604)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
 |**2025-01-21**|**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space**|Daniel Garibi et.al.|[2501.12224](http://arxiv.org/abs/2501.12224)|null|
-|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
+|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|**[link](https://github.com/SparklingH/BloomScene)**|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|**[link](https://github.com/lixiaowen-xw/diffueraser)**|
 |**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194](http://arxiv.org/abs/2501.09194)|null|
 |**2025-01-14**|**Do generative video models learn physical principles from watching videos?**|Saman Motamed et.al.|[2501.09038](http://arxiv.org/abs/2501.09038)|**[link](https://github.com/google-deepmind/physics-IQ-benchmark)**|
@@ -3295,7 +3295,7 @@
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
 |**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
-|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|**[link](https://github.com/USTC3DV/MERFStudio)**|
 |**2023-12-29**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
