@@ -47,6 +47,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**Sparse Measurement Medical CT Reconstruction using Multi-Fused Block Matching Denoising Priors**|Maliha Hossain et.al.|[2502.01832](http://arxiv.org/abs/2502.01832)|null|
+|**2025-02-01**|**Patch Triplet Similarity Purification for Guided Real-World Low-Dose CT Image Denoising**|Junhao Long et.al.|[2502.00253](http://arxiv.org/abs/2502.00253)|null|
 |**2025-01-31**|**Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Boostrapping**|Pu Yang et.al.|[2501.18962](http://arxiv.org/abs/2501.18962)|null|
 |**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
 |**2025-01-24**|**Sparse Mixture-of-Experts for Non-Uniform Noise Reduction in MRI Images**|Zeyun Deng et.al.|[2501.14198](http://arxiv.org/abs/2501.14198)|null|
@@ -272,6 +274,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**The Skin Game: Revolutionizing Standards for AI Dermatology Model Comparison**|Łukasz Miętkiewicz et.al.|[2502.02500](http://arxiv.org/abs/2502.02500)|null|
+|**2025-02-04**|**Mind the Gap: Evaluating Patch Embeddings from General-Purpose and Histopathology Foundation Models for Cell Segmentation and Classification**|Valentina Vadori et.al.|[2502.02471](http://arxiv.org/abs/2502.02471)|null|
+|**2025-02-04**|**UniGaze: Towards Universal Gaze Estimation via Large-scale Pre-Training**|Jiawei Qin et.al.|[2502.02307](http://arxiv.org/abs/2502.02307)|null|
+|**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
+|**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842](http://arxiv.org/abs/2502.01842)|null|
+|**2025-02-03**|**Geoinformatics-Guided Machine Learning for Power Plant Classification**|Blessing Austin-Gabriel et.al.|[2502.01039](http://arxiv.org/abs/2502.01039)|null|
+|**2025-02-02**|**Cross multiscale vision transformer for deep fake detection**|Akhshan P et.al.|[2502.00833](http://arxiv.org/abs/2502.00833)|null|
+|**2025-02-02**|**Privacy Preserving Properties of Vision Classifiers**|Pirzada Suhail et.al.|[2502.00760](http://arxiv.org/abs/2502.00760)|null|
+|**2025-02-01**|**Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing**|Saarthak Kapse et.al.|[2502.00594](http://arxiv.org/abs/2502.00594)|null|
 |**2025-01-31**|**ContextFormer: Redefining Efficiency in Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2501.19255](http://arxiv.org/abs/2501.19255)|null|
 |**2025-01-28**|**Machine learning of microstructure--property relationships in materials with robust features from foundational vision transformers**|Sheila E. Whitman et.al.|[2501.18637](http://arxiv.org/abs/2501.18637)|**[link](https://github.com/materials-informatics-az/micropropvit)**|
 |**2025-01-30**|**Learning Priors of Human Motion With Vision Transformers**|Placido Falqueto et.al.|[2501.18543](http://arxiv.org/abs/2501.18543)|null|
@@ -1675,6 +1687,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**VILP: Imitation Learning with Latent Video Planning**|Zhengtong Xu et.al.|[2502.01784](http://arxiv.org/abs/2502.01784)|null|
+|**2025-02-03**|**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**|Haocheng Xi et.al.|[2502.01776](http://arxiv.org/abs/2502.01776)|null|
+|**2025-02-02**|**Strengthening Generative Robot Policies through Predictive World Modeling**|Han Qi et.al.|[2502.00622](http://arxiv.org/abs/2502.00622)|null|
+|**2025-02-01**|**CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**|Xinle Cheng et.al.|[2502.00433](http://arxiv.org/abs/2502.00433)|null|
 |**2025-01-31**|**Consistent Video Colorization via Palette Guidance**|Han Wang et.al.|[2501.19331](http://arxiv.org/abs/2501.19331)|null|
 |**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
 |**2025-01-31**|**OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation**|Yuchen Lin et.al.|[2501.18982](http://arxiv.org/abs/2501.18982)|null|
@@ -2579,6 +2595,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
+|**2025-02-03**|**FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control**|Diego Gomez et.al.|[2502.01405](http://arxiv.org/abs/2502.01405)|null|
 |**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
