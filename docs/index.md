@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1708,7 +1708,7 @@ layout: default
 |**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She et.al.|[2502.06527](http://arxiv.org/abs/2502.06527)|null|
 |**2025-02-10**|**Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile**|Hangliang Ding et.al.|[2502.06155](http://arxiv.org/abs/2502.06155)|null|
 |**2025-02-09**|**Dual Caption Preference Optimization for Diffusion Models**|Amir Saeidi et.al.|[2502.06023](http://arxiv.org/abs/2502.06023)|null|
-|**2025-02-09**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
+|**2025-02-11**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-06**|**Fast Video Generation with Sliding Tile Attention**|Peiyuan Zhang et.al.|[2502.04507](http://arxiv.org/abs/2502.04507)|null|
 |**2025-02-06**|**Augmented Conditioning Is Enough For Effective Training Image Generation**|Jiahui Chen et.al.|[2502.04475](http://arxiv.org/abs/2502.04475)|null|
 |**2025-02-06**|**Iterative Importance Fine-tuning of Diffusion Models**|Alexander Denker et.al.|[2502.04468](http://arxiv.org/abs/2502.04468)|null|
