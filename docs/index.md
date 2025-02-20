@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Denoising Designs-inherited Search Framework for Image Denoising**|Zheyu Zhang et.al.|[2502.13359](http://arxiv.org/abs/2502.13359)|null|
 |**2025-02-18**|**Is Noise Conditioning Necessary for Denoising Generative Models?**|Qiao Sun et.al.|[2502.13129](http://arxiv.org/abs/2502.13129)|null|
 |**2025-02-18**|**Revisiting the Generalization Problem of Low-level Vision Models Through the Lens of Image Deraining**|Jinfan Hu et.al.|[2502.12600](http://arxiv.org/abs/2502.12600)|null|
 |**2025-02-16**|**Exploiting network optimization stability for enhanced PET image denoising using deep image prior**|Fumio Hashimoto et.al.|[2502.11259](http://arxiv.org/abs/2502.11259)|null|
@@ -271,6 +272,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Qwen2.5-VL Technical Report**|Shuai Bai et.al.|[2502.13923](http://arxiv.org/abs/2502.13923)|null|
+|**2025-02-19**|**Medical Image Classification with KAN-Integrated Transformers and Dilated Neighborhood Attention**|Omid Nejati Manzari et.al.|[2502.13693](http://arxiv.org/abs/2502.13693)|**[link](https://github.com/Omid-Nejati/MedViTV2)**|
+|**2025-02-19**|**MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis**|Wei Dai et.al.|[2502.13524](http://arxiv.org/abs/2502.13524)|**[link](https://github.com/anthonyweidai/MobileViM_3D)**|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677](http://arxiv.org/abs/2502.12677)|null|
 |**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
 |**2025-02-18**|**GVTNet: Graph Vision Transformer For Face Super-Resolution**|Chao Yang et.al.|[2502.12570](http://arxiv.org/abs/2502.12570)|null|
@@ -1738,6 +1742,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching**|Yen-Siang Wu et.al.|[2502.13234](http://arxiv.org/abs/2502.13234)|null|
 |**2025-02-18**|**Personalized Image Generation with Deep Generative Models: A Decade Survey**|Yuxiang Wei et.al.|[2502.13081](http://arxiv.org/abs/2502.13081)|null|
 |**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752](http://arxiv.org/abs/2502.12752)|null|
 |**2025-02-18**|**Comprehensive Assessment and Analysis for NSFW Content Erasure in Text-to-Image Diffusion Models**|Die Chen et.al.|[2502.12527](http://arxiv.org/abs/2502.12527)|null|
@@ -2679,6 +2684,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335](http://arxiv.org/abs/2502.13335)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196](http://arxiv.org/abs/2502.13196)|null|
 |**2025-02-18**|**ROI-NeRFs: Hi-Fi Visualization of Objects of Interest within a Scene by NeRFs Composition**|Quoc-Anh Bui et.al.|[2502.12673](http://arxiv.org/abs/2502.12673)|null|
 |**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|null|
 |**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801](http://arxiv.org/abs/2502.11801)|null|
