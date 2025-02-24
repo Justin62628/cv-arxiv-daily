@@ -65,7 +65,7 @@ layout: default
 |**2024-12-21**|**Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising**|Tong Li et.al.|[2412.16460](http://arxiv.org/abs/2412.16460)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
-|**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156](http://arxiv.org/abs/2412.13156)|null|
+|**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156](http://arxiv.org/abs/2412.13156)|**[link](https://github.com/ymp5078/semantic-stacking)**|
 |**2024-12-17**|**Linear Convergence of Resolvent Splitting with Minimal Lifting and its Application to a Primal-Dual Algorithm**|Farhana A. Simi et.al.|[2412.12607](http://arxiv.org/abs/2412.12607)|null|
 |**2024-12-16**|**Bilevel Learning with Inexact Stochastic Gradients**|Mohammad Sadegh Salehi et.al.|[2412.12049](http://arxiv.org/abs/2412.12049)|null|
 |**2024-12-16**|**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**|Zikang Chen et.al.|[2412.11820](http://arxiv.org/abs/2412.11820)|**[link](https://github.com/zkccz/stbn)**|
@@ -484,7 +484,7 @@ layout: default
 |**2024-12-12**|**Advancing Attribution-Based Neural Network Explainability through Relative Absolute Magnitude Layer-Wise Relevance Propagation and Multi-Component Evaluation**|Davor Vukadin et.al.|[2412.09311](http://arxiv.org/abs/2412.09311)|**[link](https://github.com/davor10105/relative-absolute-magnitude-propagation)**|
 |**2024-12-12**|**Selective Visual Prompting in Vision Mamba**|Yifeng Yao et.al.|[2412.08947](http://arxiv.org/abs/2412.08947)|**[link](https://github.com/zhoujiahuan1991/aaai2025-svp)**|
 |**2024-12-15**|**Sensing for Space Safety and Sustainability: A Deep Learning Approach with Vision Transformers**|Wenxuan Zhang et.al.|[2412.08913](http://arxiv.org/abs/2412.08913)|null|
-|**2024-12-11**|**SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation**|Tapas Kumar Dutta et.al.|[2412.08482](http://arxiv.org/abs/2412.08482)|null|
+|**2024-12-11**|**SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation**|Tapas Kumar Dutta et.al.|[2412.08482](http://arxiv.org/abs/2412.08482)|**[link](https://github.com/TapasKumarDutta1/SAM_Mamba_2025)**|
 |**2024-12-11**|**A Review of Intelligent Device Fault Diagnosis Technologies Based on Machine Vision**|Guiran Liu et.al.|[2412.08148](http://arxiv.org/abs/2412.08148)|null|
 |**2024-12-10**|**AmCLR: Unified Augmented Learning for Cross-Modal Representations**|Ajay Jagannath et.al.|[2412.07979](http://arxiv.org/abs/2412.07979)|**[link](https://github.com/aaupadhy/AmCLR)**|
 |**2024-12-10**|**Comparative Analysis of Deep Learning Approaches for Harmful Brain Activity Detection Using EEG**|Shivraj Singh Bhatti et.al.|[2412.07878](http://arxiv.org/abs/2412.07878)|null|
@@ -511,7 +511,7 @@ layout: default
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
 |**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
 |**2024-12-05**|**Automated LaTeX Code Generation from Handwritten Math Expressions Using Vision Transformer**|Jayaprakash Sundararaj et.al.|[2412.03853](http://arxiv.org/abs/2412.03853)|null|
-|**2024-12-04**|**Beyond [cls]: Exploring the true potential of Masked Image Modeling representations**|Marcin Przewięźlikowski et.al.|[2412.03215](http://arxiv.org/abs/2412.03215)|null|
+|**2024-12-04**|**Beyond [cls]: Exploring the true potential of Masked Image Modeling representations**|Marcin Przewięźlikowski et.al.|[2412.03215](http://arxiv.org/abs/2412.03215)|**[link](https://github.com/gmum/beyond_cls)**|
 |**2024-12-04**|**Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization**|Maxime Fontana et.al.|[2412.03179](http://arxiv.org/abs/2412.03179)|null|
 |**2024-12-04**|**MRNet: Multifaceted Resilient Networks for Medical Image-to-Image Translation**|Hyojeong Lee et.al.|[2412.03039](http://arxiv.org/abs/2412.03039)|null|
 |**2024-12-04**|**FCL-ViT: Task-Aware Attention Tuning for Continual Learning**|Anestis Kaimakamidis et.al.|[2412.02509](http://arxiv.org/abs/2412.02509)|null|
@@ -679,7 +679,7 @@ layout: default
 |**2024-10-11**|**BA-Net: Bridge Attention in Deep Neural Networks**|Ronghui Zhang et.al.|[2410.07860](http://arxiv.org/abs/2410.07860)|null|
 |**2024-10-10**|**Causal Image Modeling for Efficient Visual Understanding**|Feng Wang et.al.|[2410.07599](http://arxiv.org/abs/2410.07599)|**[link](https://github.com/wangf3014/Adventurer)**|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614](http://arxiv.org/abs/2410.06614)|**[link](https://github.com/csiro-robotics/Pair-VPR)**|
-|**2024-10-08**|**Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects**|Wenhao Li et.al.|[2410.06405](http://arxiv.org/abs/2410.06405)|null|
+|**2024-10-08**|**Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects**|Wenhao Li et.al.|[2410.06405](http://arxiv.org/abs/2410.06405)|**[link](https://github.com/khalil-research/ViTARC)**|
 |**2024-10-08**|**UnSeGArmaNet: Unsupervised Image Segmentation using Graph Neural Networks with Convolutional ARMA Filters**|Kovvuri Sai Gopal Reddy et.al.|[2410.06114](http://arxiv.org/abs/2410.06114)|**[link](https://github.com/ksgr5566/unsegarmanet)**|
 |**2024-10-08**|**FLOPS: Forward Learning with OPtimal Sampling**|Tao Ren et.al.|[2410.05966](http://arxiv.org/abs/2410.05966)|null|
 |**2024-10-08**|**IncSAR: A Dual Fusion Incremental Learning Framework for SAR Target Recognition**|George Karantaidis et.al.|[2410.05820](http://arxiv.org/abs/2410.05820)|**[link](https://github.com/geokarant/incsar)**|
@@ -1757,8 +1757,8 @@ layout: default
 |**2025-02-17**|**MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow**|Hanzhuo Huang et.al.|[2502.11697](http://arxiv.org/abs/2502.11697)|null|
 |**2025-02-17**|**Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation**|Zexi Jia et.al.|[2502.11532](http://arxiv.org/abs/2502.11532)|null|
 |**2025-02-17**|**SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**|Junxian Ma et.al.|[2502.11515](http://arxiv.org/abs/2502.11515)|null|
-|**2025-02-17**|**Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation**|Taeyoung Yun et.al.|[2502.11477](http://arxiv.org/abs/2502.11477)|null|
-|**2025-02-15**|**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**|Di Qiu et.al.|[2502.10841](http://arxiv.org/abs/2502.10841)|null|
+|**2025-02-17**|**Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation**|Taeyoung Yun et.al.|[2502.11477](http://arxiv.org/abs/2502.11477)|**[link](https://github.com/dbsxodud-11/PAG)**|
+|**2025-02-15**|**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**|Di Qiu et.al.|[2502.10841](http://arxiv.org/abs/2502.10841)|**[link](https://github.com/SkyworkAI/SkyReels-A1)**|
 |**2025-02-14**|**Generating on Generated: An Approach Towards Self-Evolving Diffusion Models**|Xulu Zhang et.al.|[2502.09963](http://arxiv.org/abs/2502.09963)|null|
 |**2025-02-13**|**StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models**|Zichong Chen et.al.|[2502.09064](http://arxiv.org/abs/2502.09064)|null|
 |**2025-02-13**|**Dynamic watermarks in images generated by diffusion models**|Yunzhuo Chen et.al.|[2502.08927](http://arxiv.org/abs/2502.08927)|null|
@@ -3024,7 +3024,7 @@ layout: default
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|**[link](https://github.com/xwx0924/SurgicalGaussian)**|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
