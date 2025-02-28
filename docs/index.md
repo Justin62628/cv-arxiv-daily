@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1769,7 +1769,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
 |**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|null|
-|**2025-02-24**|**On the Vulnerability of Concept Erasure in Diffusion Models**|Lucas Beerens et.al.|[2502.17537](http://arxiv.org/abs/2502.17537)|null|
+|**2025-02-24**|**On the Vulnerability of Concept Erasure in Diffusion Models**|Lucas Beerens et.al.|[2502.17537](http://arxiv.org/abs/2502.17537)|**[link](https://github.com/lucasbeerens/record)**|
 |**2025-02-25**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**Multi-Dimensional Quality Assessment for Text-to-3D Assets: Dataset and Model**|Kang Fu et.al.|[2502.16915](http://arxiv.org/abs/2502.16915)|null|
 |**2025-02-22**|**Concept Corrector: Erase concepts on the fly for text-to-image diffusion models**|Zheling Meng et.al.|[2502.16368](http://arxiv.org/abs/2502.16368)|null|
