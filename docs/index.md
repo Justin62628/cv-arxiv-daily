@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -278,7 +278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**Regional climate projections using a deep learning--based model-ranking and downscaling framework: Application to European climate zones**|Parthiban Loganathan et.al.|[2502.20132](http://arxiv.org/abs/2502.20132)|null|
+|**2025-02-28**|**Regional climate projections using a deep-learning-based model-ranking and downscaling framework: Application to European climate zones**|Parthiban Loganathan et.al.|[2502.20132](http://arxiv.org/abs/2502.20132)|null|
 |**2025-02-27**|**Revisit the Stability of Vanilla Federated Learning Under Diverse Conditions**|Youngjoon Lee et.al.|[2502.19849](http://arxiv.org/abs/2502.19849)|null|
 |**2025-02-26**|**GONet: A Generalizable Deep Learning Model for Glaucoma Detection**|Or Abramovich et.al.|[2502.19514](http://arxiv.org/abs/2502.19514)|null|
 |**2025-02-26**|**Brain-inspired analogical mixture prototypes for few-shot class-incremental learning**|Wanyi Li et.al.|[2502.18923](http://arxiv.org/abs/2502.18923)|null|
