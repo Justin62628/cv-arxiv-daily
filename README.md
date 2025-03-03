@@ -302,12 +302,12 @@
 |**2025-02-24**|**Enhancing Image Matting in Real-World Scenes with Mask-Guided Iterative Refinement**|Rui Liu et.al.|[2502.17093](http://arxiv.org/abs/2502.17093)|null|
 |**2025-02-24**|**ENACT-Heart -- ENsemble-based Assessment Using CNN and Transformer on Heart Sounds**|Jiho Han et.al.|[2502.16914](http://arxiv.org/abs/2502.16914)|null|
 |**2025-02-24**|**A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition**|Dewan Tauhid Rahman et.al.|[2502.16762](http://arxiv.org/abs/2502.16762)|null|
-|**2025-02-23**|**Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations**|Laurin Lux et.al.|[2502.16697](http://arxiv.org/abs/2502.16697)|null|
+|**2025-02-23**|**Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations**|Laurin Lux et.al.|[2502.16697](http://arxiv.org/abs/2502.16697)|**[link](https://github.com/luxtu/OCTA-graph)**|
 |**2025-02-25**|**VPNeXt -- Rethinking Dense Decoding for Plain Vision Transformer**|Xikai Tang et.al.|[2502.16654](http://arxiv.org/abs/2502.16654)|null|
-|**2025-02-23**|**Diagnosing COVID-19 Severity from Chest X-Ray Images Using ViT and CNN Architectures**|Luis Lara et.al.|[2502.16622](http://arxiv.org/abs/2502.16622)|null|
+|**2025-02-23**|**Diagnosing COVID-19 Severity from Chest X-Ray Images Using ViT and CNN Architectures**|Luis Lara et.al.|[2502.16622](http://arxiv.org/abs/2502.16622)|**[link](https://github.com/stwhitfield/covid-severity)**|
 |**2025-02-23**|**Entropy-Lens: The Information Signature of Transformer Computations**|Riccardo Ali et.al.|[2502.16570](http://arxiv.org/abs/2502.16570)|null|
 |**2025-02-22**|**Vision Transformer Accelerator ASIC for Real-Time, Low-Power Sleep Staging**|Tristan Robitaille et.al.|[2502.16334](http://arxiv.org/abs/2502.16334)|null|
-|**2025-02-21**|**Mantis: Lightweight Calibrated Foundation Model for User-Friendly Time Series Classification**|Vasilii Feofanov et.al.|[2502.15637](http://arxiv.org/abs/2502.15637)|null|
+|**2025-02-21**|**Mantis: Lightweight Calibrated Foundation Model for User-Friendly Time Series Classification**|Vasilii Feofanov et.al.|[2502.15637](http://arxiv.org/abs/2502.15637)|**[link](https://github.com/vfeofanov/mantis)**|
 |**2025-02-20**|**Simpler Fast Vision Transformers with a Jumbo CLS Token**|Anthony Fuller et.al.|[2502.15021](http://arxiv.org/abs/2502.15021)|null|
 |**2025-02-18**|**Towards an automated workflow in materials science for combining multi-modal simulative and experimental information using data mining and large language models**|Balduin Katzer et.al.|[2502.14904](http://arxiv.org/abs/2502.14904)|null|
 |**2025-02-21**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
@@ -347,7 +347,7 @@
 |**2025-02-11**|**ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models**|Ehsan Zeraatkar et.al.|[2502.06741](http://arxiv.org/abs/2502.06741)|null|
 |**2025-02-10**|**Multi-Scale Transformer Architecture for Accurate Medical Image Classification**|Jiacheng Hu et.al.|[2502.06243](http://arxiv.org/abs/2502.06243)|null|
 |**2025-02-10**|**Fully Exploiting Vision Foundation Model's Profound Prior Knowledge for Generalizable RGB-Depth Driving Scene Parsing**|Sicen Guo et.al.|[2502.06219](http://arxiv.org/abs/2502.06219)|null|
-|**2025-02-09**|**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**|Krishna Sri Ipsit Mantri et.al.|[2502.06029](http://arxiv.org/abs/2502.06029)|null|
+|**2025-02-09**|**DiTASK: Multi-Task Fine-Tuning with Diffeomorphic Transformations**|Krishna Sri Ipsit Mantri et.al.|[2502.06029](http://arxiv.org/abs/2502.06029)|**[link](https://github.com/ipsitmantri/DiTASK)**|
 |**2025-02-09**|**MicroViT: A Vision Transformer with Low Complexity Self Attention for Edge Device**|Novendra Setyawan et.al.|[2502.05800](http://arxiv.org/abs/2502.05800)|null|
 |**2025-02-09**|**Exploring Visual Embedding Spaces Induced by Vision Transformers for Online Auto Parts Marketplaces**|Cameron Armijo et.al.|[2502.05756](http://arxiv.org/abs/2502.05756)|null|
 |**2025-02-08**|**AI-Driven Electronic Health Records System for Enhancing Patient Data Management and Diagnostic Support in Egypt**|Arwa Alorbany et.al.|[2502.05603](http://arxiv.org/abs/2502.05603)|null|
@@ -851,7 +851,7 @@
 |**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
 |**2024-08-25**|**Flexible game-playing AI with AlphaViT: adapting to multiple games and board sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|**[link](https://github.com/kazuhisafujita/alphavit)**|
 |**2024-08-25**|**3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification**|Haizhao Jing et.al.|[2408.13728](http://arxiv.org/abs/2408.13728)|**[link](https://github.com/wanggynpuer/3d-rcnet)**|
-|**2024-08-24**|**Enhanced Astronomical Source Classification with Integration of Attention Mechanisms and Vision Transformers**|Srinadh Reddy Bhavanam et.al.|[2408.13634](http://arxiv.org/abs/2408.13634)|null|
+|**2024-08-24**|**Enhanced Astronomical Source Classification with Integration of Attention Mechanisms and Vision Transformers**|Srinadh Reddy Bhavanam et.al.|[2408.13634](http://arxiv.org/abs/2408.13634)|**[link](https://github.com/srinadh99/Astronomical-Source-Separation-using-Machine-Learning)**|
 |**2024-08-24**|**Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models**|Sakhinana Sagar Srinivas et.al.|[2408.13621](http://arxiv.org/abs/2408.13621)|null|
 |**2024-08-24**|**PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model**|Hao Yang et.al.|[2408.13574](http://arxiv.org/abs/2408.13574)|**[link](https://github.com/yxltya/pointdgmamba)**|
 |**2024-08-23**|**EAViT: External Attention Vision Transformer for Audio Classification**|Aquib Iqbal et.al.|[2408.13201](http://arxiv.org/abs/2408.13201)|null|
@@ -906,7 +906,7 @@
 |**2024-08-08**|**UHNet: An Ultra-Lightweight and High-Speed Edge Detection Network**|Fuzhang Li et.al.|[2408.04258](http://arxiv.org/abs/2408.04258)|null|
 |**2024-08-08**|**M2EF-NNs: Multimodal Multi-instance Evidence Fusion Neural Networks for Cancer Survival Prediction**|Hui Luo et.al.|[2408.04170](http://arxiv.org/abs/2408.04170)|null|
 |**2024-08-09**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
-|**2024-08-07**|**Global-Local Progressive Integration Network for Blind Image Quality Assessment**|Xiaoqi Wang et.al.|[2408.03885](http://arxiv.org/abs/2408.03885)|null|
+|**2024-08-07**|**Global-Local Progressive Integration Network for Blind Image Quality Assessment**|Xiaoqi Wang et.al.|[2408.03885](http://arxiv.org/abs/2408.03885)|**[link](https://github.com/xiaoqiwang/glintiqa)**|
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
 |**2024-08-06**|**Advancing EEG-Based Gaze Prediction Using Depthwise Separable Convolution and Enhanced Pre-Processing**|Matthew L Key et.al.|[2408.03480](http://arxiv.org/abs/2408.03480)|**[link](https://github.com/GWU-CS/EEG-DCViT)**|
 |**2024-08-06**|**Effect of Kernel Size on CNN-Vision-Transformer-Based Gaze Prediction Using Electroencephalography Data**|Chuhui Qiu et.al.|[2408.03478](http://arxiv.org/abs/2408.03478)|**[link](https://github.com/amch-q/csci6907project)**|
@@ -1785,7 +1785,7 @@
 |---|---|---|---|---|
 |**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
 |**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
-|**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|null|
+|**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|**[link](https://github.com/MingtaoGuo/relightable-portrait-animation)**|
 |**2025-02-26**|**TransVDM: Motion-Constrained Video Diffusion Model for Transparent Video Synthesis**|Menghao Li et.al.|[2502.19454](http://arxiv.org/abs/2502.19454)|null|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
 |**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|**[link](https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation)**|
@@ -1802,7 +1802,7 @@
 |**2025-02-19**|**DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models**|Daewon Chae et.al.|[2502.14070](http://arxiv.org/abs/2502.14070)|null|
 |**2025-02-19**|**Im2SurfTex: Surface Texture Generation via Neural Backprojection of Multi-View Images**|Yiangos Georgiou et.al.|[2502.14006](http://arxiv.org/abs/2502.14006)|null|
 |**2025-02-19**|**SigStyle: Signature Style Transfer via Personalized Text-to-Image Models**|Ye Wang et.al.|[2502.13997](http://arxiv.org/abs/2502.13997)|null|
-|**2025-02-19**|**FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**|Yunpeng Zhang et.al.|[2502.13995](http://arxiv.org/abs/2502.13995)|null|
+|**2025-02-19**|**FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**|Yunpeng Zhang et.al.|[2502.13995](http://arxiv.org/abs/2502.13995)|**[link](https://github.com/Fantasy-AMAP/fantasy-id)**|
 |**2025-02-18**|**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching**|Yen-Siang Wu et.al.|[2502.13234](http://arxiv.org/abs/2502.13234)|null|
 |**2025-02-18**|**Personalized Image Generation with Deep Generative Models: A Decade Survey**|Yuxiang Wei et.al.|[2502.13081](http://arxiv.org/abs/2502.13081)|**[link](https://github.com/csyxwei/awesome-personalized-image-generation)**|
 |**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752](http://arxiv.org/abs/2502.12752)|null|
@@ -1813,7 +1813,7 @@
 |**2025-02-17**|**Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation**|Taeyoung Yun et.al.|[2502.11477](http://arxiv.org/abs/2502.11477)|**[link](https://github.com/dbsxodud-11/PAG)**|
 |**2025-02-15**|**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**|Di Qiu et.al.|[2502.10841](http://arxiv.org/abs/2502.10841)|**[link](https://github.com/SkyworkAI/SkyReels-A1)**|
 |**2025-02-14**|**Generating on Generated: An Approach Towards Self-Evolving Diffusion Models**|Xulu Zhang et.al.|[2502.09963](http://arxiv.org/abs/2502.09963)|null|
-|**2025-02-13**|**StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models**|Zichong Chen et.al.|[2502.09064](http://arxiv.org/abs/2502.09064)|null|
+|**2025-02-13**|**StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models**|Zichong Chen et.al.|[2502.09064](http://arxiv.org/abs/2502.09064)|**[link](https://github.com/zichongc/StyleBlend)**|
 |**2025-02-13**|**Dynamic watermarks in images generated by diffusion models**|Yunzhuo Chen et.al.|[2502.08927](http://arxiv.org/abs/2502.08927)|null|
 |**2025-02-13**|**Diffusion Models Through a Global Lens: Are They Culturally Inclusive?**|Zahra Bayramli et.al.|[2502.08914](http://arxiv.org/abs/2502.08914)|null|
 |**2025-02-12**|**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation**|Qinghe Wang et.al.|[2502.08639](http://arxiv.org/abs/2502.08639)|null|
