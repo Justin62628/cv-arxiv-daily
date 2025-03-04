@@ -52,7 +52,7 @@
 |**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
 |**2025-02-28**|**A Stochastic Newton-type Method for Non-smooth Optimization**|Pinta Titus et.al.|[2502.21078](http://arxiv.org/abs/2502.21078)|null|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194](http://arxiv.org/abs/2502.19194)|null|
-|**2025-02-24**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826](http://arxiv.org/abs/2502.16826)|null|
+|**2025-03-03**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826](http://arxiv.org/abs/2502.16826)|null|
 |**2025-02-24**|**Astronomical image denoising by self-supervised deep learning and restoration processes**|Tie Liu et.al.|[2502.16807](http://arxiv.org/abs/2502.16807)|null|
 |**2025-02-23**|**Deep unrolling for learning optimal spatially varying regularisation parameters for Total Generalised Variation**|Thanh Trung Vu et.al.|[2502.16532](http://arxiv.org/abs/2502.16532)|null|
 |**2025-02-19**|**A Data-Driven Paradigm-Based Image Denoising and Mosaicking Approach for High-Resolution Acoustic Camera**|Xiaoteng Zhou et.al.|[2502.14002](http://arxiv.org/abs/2502.14002)|null|
@@ -1793,7 +1793,7 @@
 |**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
 |**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|**[link](https://github.com/yisuitt/mobius)**|
 |**2025-02-27**|**High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model**|Mingtao Guo et.al.|[2502.19894](http://arxiv.org/abs/2502.19894)|**[link](https://github.com/MingtaoGuo/relightable-portrait-animation)**|
-|**2025-02-26**|**TransVDM: Motion-Constrained Video Diffusion Model for Transparent Video Synthesis**|Menghao Li et.al.|[2502.19454](http://arxiv.org/abs/2502.19454)|null|
+|**2025-03-03**|**TransVDM: Motion-Constrained Video Diffusion Model for Transparent Video Synthesis**|Menghao Li et.al.|[2502.19454](http://arxiv.org/abs/2502.19454)|null|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
 |**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|null|
 |**2025-02-24**|**On the Vulnerability of Concept Erasure in Diffusion Models**|Lucas Beerens et.al.|[2502.17537](http://arxiv.org/abs/2502.17537)|**[link](https://github.com/lucasbeerens/record)**|
