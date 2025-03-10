@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -283,7 +283,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-06**|**ViT-VS: On the Applicability of Pretrained Vision Transformer Features for Generalizable Visual Servoing**|Alessandro Scherl et.al.|[2503.04545](http://arxiv.org/abs/2503.04545)|null|
-|**2025-03-06**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|null|
+|**2025-03-07**|**GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI**|Cecilia Diana-Albelda et.al.|[2503.04325](http://arxiv.org/abs/2503.04325)|null|
 |**2025-03-06**|**Simple Self Organizing Map with Visual Transformer**|Alan Luo et.al.|[2503.04121](http://arxiv.org/abs/2503.04121)|null|
 |**2025-03-05**|**COARSE: Collaborative Pseudo-Labeling with Coarse Real Labels for Off-Road Semantic Segmentation**|Aurelio Noca et.al.|[2503.03947](http://arxiv.org/abs/2503.03947)|null|
 |**2025-03-06**|**DTU-Net: A Multi-Scale Dilated Transformer Network for Nonlinear Hyperspectral Unmixing**|ChenTong Wang et.al.|[2503.03465](http://arxiv.org/abs/2503.03465)|null|
