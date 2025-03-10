@@ -301,7 +301,7 @@ layout: default
 |**2025-02-28**|**Anatomically-guided masked autoencoder pre-training for aneurysm detection**|Alberto Mario Ceballos-Arroyo et.al.|[2502.21244](http://arxiv.org/abs/2502.21244)|null|
 |**2025-02-28**|**Fast 3D point clouds retrieval for Large-scale 3D Place Recognition**|Chahine-Nicolas Zede et.al.|[2502.21067](http://arxiv.org/abs/2502.21067)|null|
 |**2025-02-28**|**Real-Time Aerial Fire Detection on Resource-Constrained Devices Using Knowledge Distillation**|Sabina Jangirova et.al.|[2502.20979](http://arxiv.org/abs/2502.20979)|null|
-|**2025-02-28**|**Oscillation-Reduced MXFP4 Training for Vision Transformers**|Yuxiang Chen et.al.|[2502.20853](http://arxiv.org/abs/2502.20853)|null|
+|**2025-02-28**|**Oscillation-Reduced MXFP4 Training for Vision Transformers**|Yuxiang Chen et.al.|[2502.20853](http://arxiv.org/abs/2502.20853)|**[link](https://github.com/thu-ml/tetrajet-mxfp4training)**|
 |**2025-02-27**|**An Integrated Deep Learning Framework Leveraging NASNet and Vision Transformer with MixProcessing for Accurate and Precise Diagnosis of Lung Diseases**|Sajjad Saleem et.al.|[2502.20570](http://arxiv.org/abs/2502.20570)|null|
 |**2025-02-28**|**Regional climate projections using a deep-learning-based model-ranking and downscaling framework: Application to European climate zones**|Parthiban Loganathan et.al.|[2502.20132](http://arxiv.org/abs/2502.20132)|null|
 |**2025-02-27**|**Revisit the Stability of Vanilla Federated Learning Under Diverse Conditions**|Youngjoon Lee et.al.|[2502.19849](http://arxiv.org/abs/2502.19849)|null|
