@@ -40,6 +40,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Denoising via Repainting: an image denoising method using layer wise medical image repainting**|Arghya Pal et.al.|[2503.08094](http://arxiv.org/abs/2503.08094)|null|
+|**2025-03-10**|**Whiteness-based bilevel estimation of weighted TV parameter maps for image denoising**|Monica Pragliola et.al.|[2503.07814](http://arxiv.org/abs/2503.07814)|null|
 |**2025-03-10**|**Two-stage Deep Denoising with Self-guided Noise Attention for Multimodal Medical Images**|S M A Sharif et.al.|[2503.06827](http://arxiv.org/abs/2503.06827)|null|
 |**2025-03-07**|**Development and Enhancement of Text-to-Image Diffusion Models**|Rajdeep Roshan Sahu et.al.|[2503.05149](http://arxiv.org/abs/2503.05149)|null|
 |**2025-03-02**|**Geodesic Diffusion Models for Medical Image-to-Image Generation**|Teng Zhang et.al.|[2503.00745](http://arxiv.org/abs/2503.00745)|null|
@@ -284,6 +286,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**|Mehdi Hosseini Chagahi et.al.|[2503.08609](http://arxiv.org/abs/2503.08609)|null|
+|**2025-03-11**|**Enhancing Sentiment Analysis through Multimodal Fusion: A BERT-DINOv2 Approach**|Taoxu Zhao et.al.|[2503.07943](http://arxiv.org/abs/2503.07943)|null|
+|**2025-03-10**|**Learning and Evaluating Hierarchical Feature Representations**|Depanshu Sani et.al.|[2503.07853](http://arxiv.org/abs/2503.07853)|null|
 |**2025-03-10**|**Distilling Knowledge into Quantum Vision Transformers for Biomedical Image Classification**|Thomas Boucher et.al.|[2503.07294](http://arxiv.org/abs/2503.07294)|null|
 |**2025-03-10**|**A Deep Learning Architecture for Land Cover Mapping Using Spatio-Temporal Sentinel-1 Features**|Luigi Russo et.al.|[2503.07230](http://arxiv.org/abs/2503.07230)|null|
 |**2025-03-10**|**Improving cognitive diagnostics in pathology: a deep learning approach for augmenting perceptional understanding of histopathology images**|Xiaoqian Hu et.al.|[2503.06894](http://arxiv.org/abs/2503.06894)|null|
@@ -1808,7 +1813,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|null|
+|**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/abs/2503.08605)|null|
+|**2025-03-11**|**NullFace: Training-Free Localized Face Anonymization**|Han-Wei Kung et.al.|[2503.08478](http://arxiv.org/abs/2503.08478)|null|
+|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
+|**2025-03-11**|**AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models**|Kwan Yun et.al.|[2503.08417](http://arxiv.org/abs/2503.08417)|**[link](https://github.com/kwanyun/AnyMoLe)**|
+|**2025-03-11**|**OminiControl2: Efficient Conditioning for Diffusion Transformers**|Zhenxiong Tan et.al.|[2503.08280](http://arxiv.org/abs/2503.08280)|null|
+|**2025-03-11**|**Seeing Beyond Haze: Generative Nighttime Image Dehazing**|Beibei Lin et.al.|[2503.08073](http://arxiv.org/abs/2503.08073)|null|
+|**2025-03-10**|**PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference Time by Leveraging Sparsity**|Kwanyoung Kim et.al.|[2503.07677](http://arxiv.org/abs/2503.07677)|null|
+|**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|**[link](https://github.com/ddgoodgood/trce)**|
 |**2025-03-10**|**SOYO: A Tuning-Free Approach for Video Style Morphing via Style-Adaptive Interpolation in Diffusion Models**|Haoyu Zheng et.al.|[2503.06998](http://arxiv.org/abs/2503.06998)|null|
 |**2025-03-10**|**Text-to-Image Diffusion Models Cannot Count, and Prompt Refinement Cannot Help**|Yuefan Cao et.al.|[2503.06884](http://arxiv.org/abs/2503.06884)|null|
 |**2025-03-09**|**Learning Few-Step Diffusion Models by Trajectory Distribution Matching**|Yihong Luo et.al.|[2503.06674](http://arxiv.org/abs/2503.06674)|null|
@@ -2790,6 +2802,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
+|**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952](http://arxiv.org/abs/2503.07952)|null|
+|**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828](http://arxiv.org/abs/2503.07828)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
 |**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161](http://arxiv.org/abs/2503.06161)|null|
 |**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118](http://arxiv.org/abs/2503.06118)|null|
