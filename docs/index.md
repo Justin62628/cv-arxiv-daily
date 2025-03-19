@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -292,7 +292,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-17**|**U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord**|Qi Zhang et.al.|[2503.13400](http://arxiv.org/abs/2503.13400)|null|
 |**2025-03-17**|**An interpretable approach to automating the assessment of biofouling in video footage**|Evelyn J. Mannix et.al.|[2503.12875](http://arxiv.org/abs/2503.12875)|null|
-|**2025-03-17**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843](http://arxiv.org/abs/2503.12843)|null|
+|**2025-03-18**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843](http://arxiv.org/abs/2503.12843)|null|
 |**2025-03-16**|**Scaling Semantic Categories: Investigating the Impact on Vision Transformer Labeling Performance**|Anthony Lamelas et.al.|[2503.12617](http://arxiv.org/abs/2503.12617)|null|
 |**2025-03-16**|**Fourier-Based 3D Multistage Transformer for Aberration Correction in Multicellular Specimens**|Thayer Alshaabi et.al.|[2503.12593](http://arxiv.org/abs/2503.12593)|null|
 |**2025-03-15**|**Meta-operators for all-optical image processing**|Linzhi Yu et.al.|[2503.12252](http://arxiv.org/abs/2503.12252)|null|
