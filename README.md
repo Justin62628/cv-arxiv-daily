@@ -49,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010](http://arxiv.org/abs/2503.16010)|null|
+|**2025-03-20**|**Estimation of Piecewise Continuous Regression Function in Finite Dimension using Oblique Regression Tree with Applications in Image Denoising**|Subhasish Basak et.al.|[2503.16007](http://arxiv.org/abs/2503.16007)|null|
+|**2025-03-20**|**DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables**|Sidi Yang et.al.|[2503.15931](http://arxiv.org/abs/2503.15931)|null|
 |**2025-03-18**|**The Field Equations of Penalized non-Parametric Regression**|Sven Pappert et.al.|[2503.14763](http://arxiv.org/abs/2503.14763)|null|
 |**2025-03-18**|**A Simple Combination of Diffusion Models for Better Quality Trade-Offs in Image Denoising**|Jonas Dornbusch et.al.|[2503.14654](http://arxiv.org/abs/2503.14654)|null|
 |**2025-03-17**|**Anatomically and Metabolically Informed Diffusion for Unified Denoising and Segmentation in Low-Count PET Imaging**|Menghua Xia et.al.|[2503.13257](http://arxiv.org/abs/2503.13257)|null|
@@ -303,6 +306,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Hyperspectral Imaging for Identifying Foreign Objects on Pork Belly**|Gabriela Ghimpeteanu et.al.|[2503.16086](http://arxiv.org/abs/2503.16086)|null|
 |**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|null|
 |**2025-03-19**|**Sig2text, a Vision-language model for Non-cooperative Radar Signal Parsing**|Hancong Feng KaiLI Jiang Bin tang et.al.|[2503.15213](http://arxiv.org/abs/2503.15213)|null|
 |**2025-03-19**|**Bridging the Gap: Fusing CNNs and Transformers to Decode the Elegance of Handwritten Arabic Script**|Chaouki Boufenar et.al.|[2503.15023](http://arxiv.org/abs/2503.15023)|null|
@@ -1867,6 +1871,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
+|**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
+|**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
+|**2025-03-20**|**Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation**|Tiange Xiang et.al.|[2503.15877](http://arxiv.org/abs/2503.15877)|null|
+|**2025-03-20**|**Zero-1-to-A: Zero-Shot One Image to Animatable Head Avatars Using Video Diffusion**|Zhou Zhenglin et.al.|[2503.15851](http://arxiv.org/abs/2503.15851)|null|
 |**2025-03-19**|**Visual Persona: Foundation Model for Full-Body Human Customization**|Jisu Nam et.al.|[2503.15406](http://arxiv.org/abs/2503.15406)|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images**|Euclid Collaboration et.al.|[2503.15321](http://arxiv.org/abs/2503.15321)|null|
 |**2025-03-19**|**Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization**|Feifei Li et.al.|[2503.15197](http://arxiv.org/abs/2503.15197)|null|
@@ -2895,6 +2909,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
