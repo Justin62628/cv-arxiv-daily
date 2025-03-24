@@ -42,7 +42,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-20**|**Patch-based learning of adaptive Total Variation parameter maps for blind image denoising**|Claudio Fantasia et.al.|[2503.16010](http://arxiv.org/abs/2503.16010)|null|
 |**2025-03-20**|**Estimation of Piecewise Continuous Regression Function in Finite Dimension using Oblique Regression Tree with Applications in Image Denoising**|Subhasish Basak et.al.|[2503.16007](http://arxiv.org/abs/2503.16007)|null|
-|**2025-03-20**|**DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables**|Sidi Yang et.al.|[2503.15931](http://arxiv.org/abs/2503.15931)|null|
+|**2025-03-20**|**DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables**|Sidi Yang et.al.|[2503.15931](http://arxiv.org/abs/2503.15931)|**[link](https://github.com/stephen0808/dnlut)**|
 |**2025-03-18**|**The Field Equations of Penalized non-Parametric Regression**|Sven Pappert et.al.|[2503.14763](http://arxiv.org/abs/2503.14763)|null|
 |**2025-03-18**|**A Simple Combination of Diffusion Models for Better Quality Trade-Offs in Image Denoising**|Jonas Dornbusch et.al.|[2503.14654](http://arxiv.org/abs/2503.14654)|null|
 |**2025-03-17**|**Anatomically and Metabolically Informed Diffusion for Unified Denoising and Segmentation in Low-Count PET Imaging**|Menghua Xia et.al.|[2503.13257](http://arxiv.org/abs/2503.13257)|null|
@@ -295,9 +295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Vision Transformer Based Semantic Communications for Next Generation Wireless Networks**|Muhammad Ahmed Mohsin et.al.|[2503.17275](http://arxiv.org/abs/2503.17275)|null|
+|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|null|
+|**2025-03-20**|**MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification**|Moshiur Rahman Tonmoy et.al.|[2503.16628](http://arxiv.org/abs/2503.16628)|null|
 |**2025-03-20**|**Hyperspectral Imaging for Identifying Foreign Objects on Pork Belly**|Gabriela Ghimpeteanu et.al.|[2503.16086](http://arxiv.org/abs/2503.16086)|null|
-|**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|null|
-|**2025-03-19**|**Sig2text, a Vision-language model for Non-cooperative Radar Signal Parsing**|Hancong Feng KaiLI Jiang Bin tang et.al.|[2503.15213](http://arxiv.org/abs/2503.15213)|null|
+|**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|**[link](https://github.com/ryc-98/fpr)**|
+|**2025-03-19**|**Sig2text, a Vision-language model for Non-cooperative Radar Signal Parsing**|Hancong Feng KaiLI Jiang Bin tang et.al.|[2503.15213](http://arxiv.org/abs/2503.15213)|**[link](https://github.com/na-choneko/sig2text)**|
 |**2025-03-19**|**Bridging the Gap: Fusing CNNs and Transformers to Decode the Elegance of Handwritten Arabic Script**|Chaouki Boufenar et.al.|[2503.15023](http://arxiv.org/abs/2503.15023)|null|
 |**2025-03-19**|**A Novel Channel Boosted Residual CNN-Transformer with Regional-Boundary Learning for Breast Cancer Detection**|Aamir Mehmood et.al.|[2503.15008](http://arxiv.org/abs/2503.15008)|null|
 |**2025-03-18**|**LipShiFT: A Certifiably Robust Shift-based Vision Transformer**|Rohan Menon et.al.|[2503.14751](http://arxiv.org/abs/2503.14751)|null|
@@ -1858,12 +1861,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
+|**2025-03-21**|**Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer**|Qingyu Shi et.al.|[2503.17350](http://arxiv.org/abs/2503.17350)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-20**|**TriTex: Learning Texture from a Single Mesh via Triplane Semantic Features**|Dana Cohen-Bar et.al.|[2503.16630](http://arxiv.org/abs/2503.16630)|null|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|**[link](https://github.com/seungjucha/verbdiff)**|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
 |**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
 |**2025-03-21**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
-|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|**[link](https://github.com/huage001/urae)**|
 |**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-20**|**Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation**|Tiange Xiang et.al.|[2503.15877](http://arxiv.org/abs/2503.15877)|null|
@@ -2894,9 +2900,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
+|**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
+|**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
-|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
