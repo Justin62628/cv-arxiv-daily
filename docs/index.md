@@ -1891,7 +1891,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781](http://arxiv.org/abs/2503.21781)|null|
-|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|null|
+|**2025-03-27**|**Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data**|Zhiyuan Ma et.al.|[2503.21694](http://arxiv.org/abs/2503.21694)|**[link](https://github.com/theericma/triplaneturbo)**|
 |**2025-03-27**|**GenFusion: Closing the Loop between Reconstruction and Generation via Videos**|Sibo Wu et.al.|[2503.21219](http://arxiv.org/abs/2503.21219)|null|
 |**2025-03-27**|**Can Video Diffusion Model Reconstruct 4D Geometry?**|Jinjie Mai et.al.|[2503.21082](http://arxiv.org/abs/2503.21082)|null|
 |**2025-03-26**|**Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency**|Tianqi Liu et.al.|[2503.20785](http://arxiv.org/abs/2503.20785)|**[link](https://github.com/tqtqliu/free4d)**|
