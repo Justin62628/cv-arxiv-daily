@@ -161,7 +161,7 @@
 |**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943](http://arxiv.org/abs/2409.08943)|null|
-|**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067](http://arxiv.org/abs/2409.07067)|null|
+|**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067](http://arxiv.org/abs/2409.07067)|**[link](https://github.com/shenduke/saffn)**|
 |**2024-09-10**|**Constructing an Interpretable Deep Denoiser by Unrolling Graph Laplacian Regularizer**|Seyed Alireza Hosseini et.al.|[2409.06676](http://arxiv.org/abs/2409.06676)|null|
 |**2024-09-10**|**A Practical Gated Recurrent Transformer Network Incorporating Multiple Fusions for Video Denoising**|Kai Guo et.al.|[2409.06603](http://arxiv.org/abs/2409.06603)|null|
 |**2024-09-08**|**Physics-augmented Deep Learning with Adversarial Domain Adaptation: Applications to STM Image Denoising**|Jianxin Xie et.al.|[2409.05118](http://arxiv.org/abs/2409.05118)|null|
@@ -326,17 +326,17 @@
 |**2025-03-24**|**Your ViT is Secretly an Image Segmentation Model**|Tommie Kerssies et.al.|[2503.19108](http://arxiv.org/abs/2503.19108)|null|
 |**2025-03-24**|**Improving Food Image Recognition with Noisy Vision Transformer**|Tonmoy Ghosh et.al.|[2503.18997](http://arxiv.org/abs/2503.18997)|null|
 |**2025-03-24**|**Efficient and Accurate Scene Text Recognition with Cascaded-Transformers**|Savas Ozkan et.al.|[2503.18883](http://arxiv.org/abs/2503.18883)|null|
-|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
+|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|**[link](https://github.com/skmalviya/ai_gen_image_defactify)**|
 |**2025-03-24**|**Mechanistic Interpretability of Fine-Tuned Vision Transformers on Distorted Images: Decoding Attention Head Behavior for Transparent and Trustworthy AI**|Nooshin Bahador et.al.|[2503.18762](http://arxiv.org/abs/2503.18762)|null|
 |**2025-03-24**|**SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**|Wenrui Cai et.al.|[2503.18338](http://arxiv.org/abs/2503.18338)|null|
 |**2025-03-24**|**Image-to-Text for Medical Reports Using Adaptive Co-Attention and Triple-LSTM Module**|Yishen Liu et.al.|[2503.18297](http://arxiv.org/abs/2503.18297)|null|
 |**2025-03-23**|**PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images**|Yang Luo et.al.|[2503.17970](http://arxiv.org/abs/2503.17970)|**[link](https://github.com/AIGeeksGroup/PathoHR)**|
 |**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
 |**2025-03-22**|**Serial Low-rank Adaptation of Vision Transformer**|Houqiang Zhong et.al.|[2503.17750](http://arxiv.org/abs/2503.17750)|null|
-|**2025-03-22**|**EMPLACE: Self-Supervised Urban Scene Change Detection**|Tim Alpherts et.al.|[2503.17716](http://arxiv.org/abs/2503.17716)|null|
+|**2025-03-22**|**EMPLACE: Self-Supervised Urban Scene Change Detection**|Tim Alpherts et.al.|[2503.17716](http://arxiv.org/abs/2503.17716)|**[link](https://github.com/timalph/emplace)**|
 |**2025-03-22**|**Visual Variational Autoencoder Prompt Tuning**|Xi Xiao et.al.|[2503.17650](http://arxiv.org/abs/2503.17650)|null|
 |**2025-03-21**|**Vision Transformer Based Semantic Communications for Next Generation Wireless Networks**|Muhammad Ahmed Mohsin et.al.|[2503.17275](http://arxiv.org/abs/2503.17275)|null|
-|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|null|
+|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|**[link](https://github.com/valeoai/halton-maskgit)**|
 |**2025-03-20**|**MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification**|Moshiur Rahman Tonmoy et.al.|[2503.16628](http://arxiv.org/abs/2503.16628)|null|
 |**2025-03-20**|**Hyperspectral Imaging for Identifying Foreign Objects on Pork Belly**|Gabriela Ghimpeteanu et.al.|[2503.16086](http://arxiv.org/abs/2503.16086)|null|
 |**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|**[link](https://github.com/ryc-98/fpr)**|
@@ -662,7 +662,7 @@
 |**2024-12-06**|**Slicing Vision Transformer for Flexible Inference**|Yitian Zhang et.al.|[2412.04786](http://arxiv.org/abs/2412.04786)|**[link](https://github.com/BeSpontaneous/Scala-pytorch)**|
 |**2024-12-06**|**Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer**|Xueluan Gong et.al.|[2412.04776](http://arxiv.org/abs/2412.04776)|null|
 |**2024-12-06**|**PCTreeS: 3D Point Cloud Tree Species Classification Using Airborne LiDAR Images**|Hongjin Lin et.al.|[2412.04714](http://arxiv.org/abs/2412.04714)|null|
-|**2024-12-06**|**Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens**|Jaihyun Lew et.al.|[2412.04680](http://arxiv.org/abs/2412.04680)|null|
+|**2024-12-06**|**Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens**|Jaihyun Lew et.al.|[2412.04680](http://arxiv.org/abs/2412.04680)|**[link](https://github.com/jangsoohyuk/SuiT)**|
 |**2024-12-05**|**MetaFormer: High-fidelity Metalens Imaging via Aberration Correcting Transformers**|Byeonghyeon Lee et.al.|[2412.04591](http://arxiv.org/abs/2412.04591)|null|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
@@ -1072,7 +1072,7 @@
 |**2024-07-23**|**Exploring The Neural Burden In Pruned Models: An Insight Inspired By Neuroscience**|Zeyu Wang et.al.|[2407.16716](http://arxiv.org/abs/2407.16716)|null|
 |**2024-07-23**|**HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis**|Fangqin Zhou et.al.|[2407.16269](http://arxiv.org/abs/2407.16269)|**[link](https://github.com/zhoufangqin/hytas)**|
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
-|**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|null|
+|**2024-07-21**|**Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization**|Jiajun Hu et.al.|[2407.15085](http://arxiv.org/abs/2407.15085)|**[link](https://github.com/JudgingH/PEGO)**|
 |**2024-07-20**|**FairViT: Fair Vision Transformer via Adaptive Masking**|Bowei Tian et.al.|[2407.14799](http://arxiv.org/abs/2407.14799)|**[link](https://github.com/abdd68/Fair-Vision-Transformer)**|
 |**2024-07-20**|**Enhancing Skin Disease Classification Leveraging Transformer-based Deep Learning Architectures and Explainable AI**|Jayanth Mohan et.al.|[2407.14757](http://arxiv.org/abs/2407.14757)|null|
 |**2024-07-18**|**DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention**|Xiaoya Tang et.al.|[2407.13920](http://arxiv.org/abs/2407.13920)|null|
@@ -1428,7 +1428,7 @@
 |**2024-03-28**|**Patch Spatio-Temporal Relation Prediction for Video Anomaly Detection**|Hao Shen et.al.|[2403.19111](http://arxiv.org/abs/2403.19111)|null|
 |**2024-03-28**|**Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach**|Wei Dong et.al.|[2403.19067](http://arxiv.org/abs/2403.19067)|**[link](https://github.com/zstarn70/rlrr)**|
 |**2024-03-27**|**Illicit object detection in X-ray images using Vision Transformers**|Jorgen Cani et.al.|[2403.19043](http://arxiv.org/abs/2403.19043)|null|
-|**2024-03-27**|**Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning**|Huiyi Wang et.al.|[2403.18886](http://arxiv.org/abs/2403.18886)|null|
+|**2024-03-27**|**Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning**|Huiyi Wang et.al.|[2403.18886](http://arxiv.org/abs/2403.18886)|**[link](https://github.com/huiyiwang01/sema-cl)**|
 |**2024-03-27**|**Dense Vision Transformer Compression with Few Samples**|Hanxiao Zhang et.al.|[2403.18708](http://arxiv.org/abs/2403.18708)|null|
 |**2024-03-27**|**MisGUIDE : Defense Against Data-Free Deep Learning Model Extraction**|Mahendra Gurve et.al.|[2403.18580](http://arxiv.org/abs/2403.18580)|null|
 |**2024-03-28**|**ViTAR: Vision Transformer with Any Resolution**|Qihang Fan et.al.|[2403.18361](http://arxiv.org/abs/2403.18361)|null|
@@ -1474,7 +1474,7 @@
 |**2024-03-15**|**On the low-shot transferability of [V]-Mamba**|Diganta Misra et.al.|[2403.10696](http://arxiv.org/abs/2403.10696)|null|
 |**2024-03-15**|**InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning**|Zhe Huang et.al.|[2403.10658](http://arxiv.org/abs/2403.10658)|**[link](https://github.com/Shawey94/ICML2024-InterLUDE)**|
 |**2024-03-15**|**Process-and-Forward: Deep Joint Source-Channel Coding Over Cooperative Relay Networks**|Chenghong Bian et.al.|[2403.10613](http://arxiv.org/abs/2403.10613)|null|
-|**2024-03-15**|**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**|Haoyang Liu et.al.|[2403.10476](http://arxiv.org/abs/2403.10476)|null|
+|**2024-03-15**|**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**|Haoyang Liu et.al.|[2403.10476](http://arxiv.org/abs/2403.10476)|**[link](https://github.com/liu-hy/ns-vit)**|
 |**2024-03-15**|**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**|Pingping Zhang et.al.|[2403.10254](http://arxiv.org/abs/2403.10254)|**[link](https://github.com/924973292/editor)**|
 |**2024-03-15**|**Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers**|Sanghyeok Lee et.al.|[2403.10030](http://arxiv.org/abs/2403.10030)|**[link](https://github.com/mlvlab/mctf)**|
 |**2024-03-15**|**ViTCN: Vision Transformer Contrastive Network For Reasoning**|Bo Song et.al.|[2403.09962](http://arxiv.org/abs/2403.09962)|null|
@@ -1917,21 +1917,21 @@
 |**2025-03-25**|**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset**|Haiyu Zhang et.al.|[2503.19462](http://arxiv.org/abs/2503.19462)|null|
 |**2025-03-25**|**Towards Robust Time-of-Flight Depth Denoising with Confidence-Aware Diffusion Model**|Changyong He et.al.|[2503.19448](http://arxiv.org/abs/2503.19448)|null|
 |**2025-03-25**|**DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**|Hyeongjin Nam et.al.|[2503.19373](http://arxiv.org/abs/2503.19373)|null|
-|**2025-03-26**|**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models**|Yufei Cai et.al.|[2503.19369](http://arxiv.org/abs/2503.19369)|null|
+|**2025-03-26**|**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models**|Yufei Cai et.al.|[2503.19369](http://arxiv.org/abs/2503.19369)|**[link](https://github.com/prototypenx/efficientmt)**|
 |**2025-03-25**|**Long-Context Autoregressive Video Modeling with Next-Frame Prediction**|Yuchao Gu et.al.|[2503.19325](http://arxiv.org/abs/2503.19325)|null|
 |**2025-03-25**|**Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing**|Ruiyi Wang et.al.|[2503.19262](http://arxiv.org/abs/2503.19262)|null|
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950](http://arxiv.org/abs/2503.18950)|null|
 |**2025-03-25**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|
 |**2025-03-24**|**Adapting Video Diffusion Models for Time-Lapse Microscopy**|Alexander Holmberg et.al.|[2503.18583](http://arxiv.org/abs/2503.18583)|null|
-|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|**[link](https://github.com/amd-aig-aima/amd-hummingbird-t2v)**|
 |**2025-03-24**|**PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes**|Xinhua Xu et.al.|[2503.18393](http://arxiv.org/abs/2503.18393)|null|
 |**2025-03-24**|**DiffusedWrinkles: A Diffusion-Based Model for Data-Driven Garment Animation**|Raquel Vidaurre et.al.|[2503.18370](http://arxiv.org/abs/2503.18370)|null|
-|**2025-03-24**|**Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models**|Jinjin Zhang et.al.|[2503.18352](http://arxiv.org/abs/2503.18352)|null|
+|**2025-03-24**|**Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models**|Jinjin Zhang et.al.|[2503.18352](http://arxiv.org/abs/2503.18352)|**[link](https://github.com/zhang0jhon/diffusion-4k)**|
 |**2025-03-23**|**LongDiff: Training-Free Long Video Generation in One Go**|Zhuoling Li et.al.|[2503.18150](http://arxiv.org/abs/2503.18150)|null|
 |**2025-03-23**|**An Image-like Diffusion Method for Human-Object Interaction Detection**|Xiaofei Hui et.al.|[2503.18134](http://arxiv.org/abs/2503.18134)|null|
 |**2025-03-23**|**OmnimatteZero: Training-free Real-time Omnimatte with Pre-trained Video Diffusion Models**|Dvir Samuel et.al.|[2503.18033](http://arxiv.org/abs/2503.18033)|null|
 |**2025-03-21**|**Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer**|Qingyu Shi et.al.|[2503.17350](http://arxiv.org/abs/2503.17350)|null|
-|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|**[link](https://github.com/PaddlePaddle/PaddleMIX)**|
 |**2025-03-20**|**TriTex: Learning Texture from a Single Mesh via Triplane Semantic Features**|Dana Cohen-Bar et.al.|[2503.16630](http://arxiv.org/abs/2503.16630)|null|
 |**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|**[link](https://github.com/seungjucha/verbdiff)**|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
@@ -1942,7 +1942,7 @@
 |**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-20**|**Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation**|Tiange Xiang et.al.|[2503.15877](http://arxiv.org/abs/2503.15877)|null|
-|**2025-03-20**|**Zero-1-to-A: Zero-Shot One Image to Animatable Head Avatars Using Video Diffusion**|Zhou Zhenglin et.al.|[2503.15851](http://arxiv.org/abs/2503.15851)|null|
+|**2025-03-20**|**Zero-1-to-A: Zero-Shot One Image to Animatable Head Avatars Using Video Diffusion**|Zhou Zhenglin et.al.|[2503.15851](http://arxiv.org/abs/2503.15851)|**[link](https://github.com/zhenglinzhou/zero-1-to-a)**|
 |**2025-03-19**|**Visual Persona: Foundation Model for Full-Body Human Customization**|Jisu Nam et.al.|[2503.15406](http://arxiv.org/abs/2503.15406)|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images**|Euclid Collaboration et.al.|[2503.15321](http://arxiv.org/abs/2503.15321)|null|
 |**2025-03-19**|**Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization**|Feifei Li et.al.|[2503.15197](http://arxiv.org/abs/2503.15197)|null|
@@ -1964,7 +1964,7 @@
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
 |**2025-03-14**|**Cross-Modal Learning for Music-to-Music-Video Description Generation**|Zhuoyuan Mao et.al.|[2503.11190](http://arxiv.org/abs/2503.11190)|null|
 |**2025-03-14**|**Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction**|Haonan Wang et.al.|[2503.11167](http://arxiv.org/abs/2503.11167)|null|
-|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|null|
+|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|**[link](https://github.com/hongbin98/drivegen)**|
 |**2025-03-14**|**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models**|Hongyang Wei et.al.|[2503.11073](http://arxiv.org/abs/2503.11073)|**[link](https://github.com/nonwhy/pure)**|
 |**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|**[link](https://github.com/sincostanx/lusd)**|
 |**2025-03-14**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
@@ -2983,10 +2983,10 @@
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
 |**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
-|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
-|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|**[link](https://github.com/sandergielisse/mwt)**|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|**[link](https://github.com/cancaries/SceneCrafter)**|
 |**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
-|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491](http://arxiv.org/abs/2503.17491)|null|
+|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491](http://arxiv.org/abs/2503.17491)|**[link](https://github.com/rvp-group/Splat-LOAM)**|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
@@ -3077,7 +3077,7 @@
 |**2025-01-17**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
 |**2025-01-10**|**UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping**|Yanjie Li et.al.|[2501.05783](http://arxiv.org/abs/2501.05783)|null|
-|**2025-01-13**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
+|**2025-01-13**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|**[link](https://github.com/rendervous/cloudy_project)**|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|**[link](https://github.com/vc-bonn/nerfs-are-mirror-detectors)**|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-14**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
