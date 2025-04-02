@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -304,7 +304,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**DANTE-AD: Dual-Vision Attention Network for Long-Term Audio Description**|Adrienne Deganutti et.al.|[2503.24096](http://arxiv.org/abs/2503.24096)|null|
 |**2025-03-31**|**From Colors to Classes: Emergence of Concepts in Vision Transformers**|Teresa Dorszewski et.al.|[2503.24071](http://arxiv.org/abs/2503.24071)|**[link](https://github.com/teresa-sc/concepts_in_vits)**|
-|**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
 |**2025-03-31**|**Conformal uncertainty quantification to evaluate predictive fairness of foundation AI model for skin lesion classes across patient demographics**|Swarnava Bhattacharyya et.al.|[2503.23819](http://arxiv.org/abs/2503.23819)|null|
 |**2025-03-30**|**Reinforcement Learning-based Token Pruning in Vision Transformers: A Markov Game Approach**|Chenglong Lu et.al.|[2503.23459](http://arxiv.org/abs/2503.23459)|**[link](https://github.com/daashuai/rl4evit)**|
 |**2025-03-30**|**Efficient Token Compression for Vision Transformer with Spatial Information Preserved**|Junzhu Mao et.al.|[2503.23455](http://arxiv.org/abs/2503.23455)|**[link](https://github.com/nust-machine-intelligence-laboratory/prune_and_merge)**|
@@ -1905,7 +1905,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
-|**2025-03-31**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
+|**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-30**|**Language-Guided Trajectory Traversal in Disentangled Stable Diffusion Latent Space for Factorized Medical Image Generation**|Zahra TehraniNasab et.al.|[2503.23623](http://arxiv.org/abs/2503.23623)|null|
 |**2025-03-30**|**Diffusion Meets Few-shot Class Incremental Learning**|Junsu Kim et.al.|[2503.23402](http://arxiv.org/abs/2503.23402)|null|
 |**2025-03-30**|**JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization**|Kai Liu et.al.|[2503.23377](http://arxiv.org/abs/2503.23377)|null|
@@ -2984,7 +2984,7 @@ layout: default
 |**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
 |**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886](http://arxiv.org/abs/2503.21886)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
-|**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
+|**2025-04-01**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
 |**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
 |**2025-03-25**|**CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis**|Youngkyoon Jang et.al.|[2503.20998](http://arxiv.org/abs/2503.20998)|null|
