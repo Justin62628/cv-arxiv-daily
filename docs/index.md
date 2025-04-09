@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -308,7 +308,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**Solving the fully nonlinear Monge-Ampère equation using the Legendre-Kolmogorov-Arnold Network method**|Bingcheng Hu et.al.|[2504.05022](http://arxiv.org/abs/2504.05022)|null|
 |**2025-04-07**|**Prior2Former -- Evidential Modeling of Mask Transformers for Assumption-Free Open-World Panoptic Segmentation**|Sebastian Schmidt et.al.|[2504.04841](http://arxiv.org/abs/2504.04841)|null|
-|**2025-04-07**|**Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging**|Ahmad Hussein et.al.|[2504.04749](http://arxiv.org/abs/2504.04749)|null|
+|**2025-04-08**|**Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging**|Ahmad Hussein et.al.|[2504.04749](http://arxiv.org/abs/2504.04749)|null|
 |**2025-04-05**|**Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images**|Hamza Riaz et.al.|[2504.04225](http://arxiv.org/abs/2504.04225)|null|
 |**2025-04-05**|**The Effects of Grouped Structural Global Pruning of Vision Transformers on Domain Generalisation**|Hamza Riaz et.al.|[2504.04196](http://arxiv.org/abs/2504.04196)|null|
 |**2025-04-05**|**Scaling Federated Learning Solutions with Kubernetes for Synthesizing Histopathology Images**|Andrei-Alexandru Preda et.al.|[2504.04130](http://arxiv.org/abs/2504.04130)|null|
