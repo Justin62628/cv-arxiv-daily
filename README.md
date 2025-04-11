@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**|Jiayin Zhao et.al.|[2504.07853](http://arxiv.org/abs/2504.07853)|null|
 |**2025-04-04**|**Classic Video Denoising in a Machine Learning World: Robust, Fast, and Controllable**|Xin Jin et.al.|[2504.03136](http://arxiv.org/abs/2504.03136)|null|
 |**2025-03-31**|**DiffDenoise: Self-Supervised Medical Image Denoising with Conditional Diffusion Models**|Basar Demir et.al.|[2504.00264](http://arxiv.org/abs/2504.00264)|null|
 |**2025-03-31**|**Can Diffusion Models Disentangle? A Theoretical Perspective**|Liming Wang et.al.|[2504.00220](http://arxiv.org/abs/2504.00220)|null|
@@ -317,6 +318,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
+|**2025-04-10**|**Exploring a Patch-Wise Approach for Privacy-Preserving Fake ID Detection**|Javier Muñoz-Haro et.al.|[2504.07761](http://arxiv.org/abs/2504.07761)|null|
+|**2025-04-10**|**Deep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather**|Philine L. Bommer et.al.|[2504.07625](http://arxiv.org/abs/2504.07625)|null|
+|**2025-04-10**|**Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases**|Andrés Bell-Navas et.al.|[2504.07606](http://arxiv.org/abs/2504.07606)|null|
+|**2025-04-10**|**Novel Pooling-based VGG-Lite for Pneumonia and Covid-19 Detection from Imbalanced Chest X-Ray Datasets**|Santanu Roy et.al.|[2504.07468](http://arxiv.org/abs/2504.07468)|null|
 |**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
 |**2025-04-09**|**EDIT: Enhancing Vision Transformers by Mitigating Attention Sink through an Encoder-Decoder Architecture**|Wenfeng Feng et.al.|[2504.06738](http://arxiv.org/abs/2504.06738)|null|
 |**2025-04-09**|**Crafting Query-Aware Selective Attention for Single Image Super-Resolution**|Junyoung Kim et.al.|[2504.06634](http://arxiv.org/abs/2504.06634)|null|
@@ -1956,6 +1962,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
+|**2025-04-10**|**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**|Bingliang Zhang et.al.|[2504.07549](http://arxiv.org/abs/2504.07549)|null|
 |**2025-04-10**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
 |**2025-04-09**|**Probability Density Geodesics in Image Diffusion Latent Space**|Qingtao Yu et.al.|[2504.06675](http://arxiv.org/abs/2504.06675)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
