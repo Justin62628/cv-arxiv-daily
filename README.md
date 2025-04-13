@@ -1968,7 +1968,7 @@
 |**2025-04-10**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
 |**2025-04-09**|**Probability Density Geodesics in Image Diffusion Latent Space**|Qingtao Yu et.al.|[2504.06675](http://arxiv.org/abs/2504.06675)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
-|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-07**|**Studying Image Diffusion Features for Zero-Shot Video Object Segmentation**|Thanos Delatolas et.al.|[2504.05468](http://arxiv.org/abs/2504.05468)|null|
 |**2025-04-07**|**FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis**|Mengchao Wang et.al.|[2504.04842](http://arxiv.org/abs/2504.04842)|null|
 |**2025-04-05**|**Multi-identity Human Image Animation with Structural Video Diffusion**|Zhenzhi Wang et.al.|[2504.04126](http://arxiv.org/abs/2504.04126)|null|
