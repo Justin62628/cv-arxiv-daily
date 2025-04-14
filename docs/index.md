@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -48,7 +48,7 @@ layout: default
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
 |**2025-03-28**|**Score-Based Turbo Message Passing for Plug-and-Play Compressive Image Recovery**|Chang Cai et.al.|[2503.22140](http://arxiv.org/abs/2503.22140)|null|
-|**2025-03-26**|**Riemannian Optimization on Relaxed Indicator Matrix Manifold**|Jinghui Yuan et.al.|[2503.20505](http://arxiv.org/abs/2503.20505)|**[link](https://github.com/Yuan-Jinghui/Riemannian-Optimization-on-Relaxed-Indicator-Matrix-Manifold)**|
+|**2025-04-11**|**Riemannian Optimization on Relaxed Indicator Matrix Manifold**|Jinghui Yuan et.al.|[2503.20505](http://arxiv.org/abs/2503.20505)|**[link](https://github.com/Yuan-Jinghui/Riemannian-Optimization-on-Relaxed-Indicator-Matrix-Manifold)**|
 |**2025-03-24**|**Dig2DIG: Dig into Diffusion Information Gains for Image Fusion**|Bing Cao et.al.|[2503.18627](http://arxiv.org/abs/2503.18627)|null|
 |**2025-03-23**|**Deep Learning Assisted Denoising of Experimental Micrographs**|Owais Ahmad et.al.|[2503.17945](http://arxiv.org/abs/2503.17945)|null|
 |**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
@@ -307,7 +307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
+|**2025-04-11**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
 |**2025-04-10**|**Exploring a Patch-Wise Approach for Privacy-Preserving Fake ID Detection**|Javier Muñoz-Haro et.al.|[2504.07761](http://arxiv.org/abs/2504.07761)|null|
 |**2025-04-10**|**Deep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather**|Philine L. Bommer et.al.|[2504.07625](http://arxiv.org/abs/2504.07625)|null|
 |**2025-04-10**|**Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases**|Andrés Bell-Navas et.al.|[2504.07606](http://arxiv.org/abs/2504.07606)|null|

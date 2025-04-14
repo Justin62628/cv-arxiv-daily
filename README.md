@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2022-05-31**|**SAR Despeckling Using Overcomplete Convolutional Networks**|Malsha V. Perera et.al.|[2205.15906](http://arxiv.org/abs/2205.15906)|**[link](https://github.com/malshav/sar_overcomplete)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355](http://arxiv.org/abs/2201.09355)|**[link](https://github.com/malshav/sar_transformer)**|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Denoise
 
@@ -57,7 +57,7 @@
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389](http://arxiv.org/abs/2503.24389)|**[link](https://github.com/lwxfight/snn-underwater)**|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
 |**2025-03-28**|**Score-Based Turbo Message Passing for Plug-and-Play Compressive Image Recovery**|Chang Cai et.al.|[2503.22140](http://arxiv.org/abs/2503.22140)|null|
-|**2025-03-26**|**Riemannian Optimization on Relaxed Indicator Matrix Manifold**|Jinghui Yuan et.al.|[2503.20505](http://arxiv.org/abs/2503.20505)|**[link](https://github.com/Yuan-Jinghui/Riemannian-Optimization-on-Relaxed-Indicator-Matrix-Manifold)**|
+|**2025-04-11**|**Riemannian Optimization on Relaxed Indicator Matrix Manifold**|Jinghui Yuan et.al.|[2503.20505](http://arxiv.org/abs/2503.20505)|**[link](https://github.com/Yuan-Jinghui/Riemannian-Optimization-on-Relaxed-Indicator-Matrix-Manifold)**|
 |**2025-03-24**|**Dig2DIG: Dig into Diffusion Information Gains for Image Fusion**|Bing Cao et.al.|[2503.18627](http://arxiv.org/abs/2503.18627)|null|
 |**2025-03-23**|**Deep Learning Assisted Denoising of Experimental Micrographs**|Owais Ahmad et.al.|[2503.17945](http://arxiv.org/abs/2503.17945)|null|
 |**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
@@ -312,13 +312,13 @@
 |**2023-10-13**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664](http://arxiv.org/abs/2310.05664)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-10**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
+|**2025-04-11**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
 |**2025-04-10**|**Exploring a Patch-Wise Approach for Privacy-Preserving Fake ID Detection**|Javier Muñoz-Haro et.al.|[2504.07761](http://arxiv.org/abs/2504.07761)|null|
 |**2025-04-10**|**Deep Learning Meets Teleconnections: Improving S2S Predictions for European Winter Weather**|Philine L. Bommer et.al.|[2504.07625](http://arxiv.org/abs/2504.07625)|null|
 |**2025-04-10**|**Heart Failure Prediction using Modal Decomposition and Masked Autoencoders for Scarce Echocardiography Databases**|Andrés Bell-Navas et.al.|[2504.07606](http://arxiv.org/abs/2504.07606)|null|
@@ -1956,7 +1956,7 @@
 |**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063](http://arxiv.org/abs/2310.14063)|null|
 |**2023-10-21**|**Ophthalmic Biomarker Detection Using Ensembled Vision Transformers -- Winning Solution to IEEE SPS VIP Cup 2023**|H. A. Z. Sameen Shahgir et.al.|[2310.14005](http://arxiv.org/abs/2310.14005)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3058,7 +3058,7 @@
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## NeRF
 
@@ -4085,7 +4085,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
