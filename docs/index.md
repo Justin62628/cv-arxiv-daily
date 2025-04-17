@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -316,7 +316,7 @@ layout: default
 |**2025-04-15**|**AFiRe: Anatomy-Driven Self-Supervised Learning for Fine-Grained Representation in Radiographic Images**|Yihang Liu et.al.|[2504.10972](http://arxiv.org/abs/2504.10972)|null|
 |**2025-04-15**|**Embedding Radiomics into Vision Transformers for Multimodal Medical Image Classification**|Zhenyu Yang et.al.|[2504.10916](http://arxiv.org/abs/2504.10916)|null|
 |**2025-04-15**|**The Sword of Damocles in ViTs: Computational Redundancy Amplifies Adversarial Transferability**|Jiani Liu et.al.|[2504.10804](http://arxiv.org/abs/2504.10804)|null|
-|**2025-04-14**|**Self-Controlled Dynamic Expansion Model for Continual Learning**|Runqing Wu et.al.|[2504.10561](http://arxiv.org/abs/2504.10561)|null|
+|**2025-04-16**|**Self-Controlled Dynamic Expansion Model for Continual Learning**|Runqing Wu et.al.|[2504.10561](http://arxiv.org/abs/2504.10561)|null|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
 |**2025-04-14**|**Integrating Vision and Location with Transformers: A Multimodal Deep Learning Framework for Medical Wound Analysis**|Ramin Mousa et.al.|[2504.10452](http://arxiv.org/abs/2504.10452)|null|
 |**2025-04-14**|**A Model Zoo of Vision Transformers**|Damian Falk et.al.|[2504.10231](http://arxiv.org/abs/2504.10231)|null|
@@ -1986,7 +1986,7 @@ layout: default
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
 |**2025-04-14**|**H3AE: High Compression, High Speed, and High Quality AutoEncoder for Video Diffusion Models**|Yushu Wu et.al.|[2504.10567](http://arxiv.org/abs/2504.10567)|null|
 |**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
-|**2025-04-15**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
+|**2025-04-16**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
 |**2025-04-14**|**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise**|Chao Liu et.al.|[2504.09789](http://arxiv.org/abs/2504.09789)|null|
 |**2025-04-13**|**KeyVID: Keyframe-Aware Video Diffusion for Audio-Synchronized Visual Animation**|Xingrui Wang et.al.|[2504.09656](http://arxiv.org/abs/2504.09656)|null|
 |**2025-04-13**|**CamMimic: Zero-Shot Image To Camera Motion Personalized Video Generation Using Diffusion Models**|Pooja Guhan et.al.|[2504.09472](http://arxiv.org/abs/2504.09472)|null|
