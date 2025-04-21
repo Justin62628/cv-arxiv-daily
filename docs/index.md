@@ -40,6 +40,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Euler-Lagrange equations for variable-growth total variation**|Wojciech Górny et.al.|[2504.13559](http://arxiv.org/abs/2504.13559)|null|
+|**2025-04-18**|**Filter2Noise: Interpretable Self-Supervised Single-Image Denoising for Low-Dose CT with Attention-Guided Bilateral Filtering**|Yipeng Sun et.al.|[2504.13519](http://arxiv.org/abs/2504.13519)|**[link](https://github.com/sypsyp97/Filter2Noise)**|
 |**2025-04-16**|**The Tenth NTIRE 2025 Image Denoising Challenge Report**|Lei Sun et.al.|[2504.12276](http://arxiv.org/abs/2504.12276)|null|
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
 |**2025-04-15**|**Efficient and Robust Remote Sensing Image Denoising Using Randomized Approximation of Geodesics' Gramian on the Manifold Underlying the Patch Space**|Kelum Gajamannage et.al.|[2504.10820](http://arxiv.org/abs/2504.10820)|null|
@@ -312,6 +314,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791](http://arxiv.org/abs/2504.13791)|null|
+|**2025-04-18**|**Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization**|Aman Agarwal et.al.|[2504.13776](http://arxiv.org/abs/2504.13776)|null|
+|**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763](http://arxiv.org/abs/2504.13763)|null|
+|**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638](http://arxiv.org/abs/2504.13638)|null|
+|**2025-04-18**|**LoRA-Based Continual Learning with Constraints on Critical Parameter Changes**|Shimou Ling et.al.|[2504.13407](http://arxiv.org/abs/2504.13407)|null|
+|**2025-04-18**|**CytoFM: The first cytology foundation model**|Vedrana Ivezić et.al.|[2504.13402](http://arxiv.org/abs/2504.13402)|null|
+|**2025-04-18**|**A Deep Learning-Based Supervised Transfer Learning Framework for DOA Estimation with Array Imperfections**|Bo Zhou et.al.|[2504.13394](http://arxiv.org/abs/2504.13394)|null|
+|**2025-04-17**|**Putting the Segment Anything Model to the Test with 3D Knee MRI -- A Comparison with State-of-the-Art Performance**|Oliver Mills et.al.|[2504.13340](http://arxiv.org/abs/2504.13340)|null|
+|**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
 |**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|**[link](https://github.com/aplesner/Human-aligned-compression-for-robust-models)**|
 |**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249](http://arxiv.org/abs/2504.12249)|null|
 |**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
@@ -1983,6 +1994,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763](http://arxiv.org/abs/2504.13763)|null|
+|**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
 |**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072](http://arxiv.org/abs/2504.13072)|null|
 |**2025-04-17**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|**[link](https://github.com/lllyasviel/framepack)**|
 |**2025-04-17**|**Understanding Attention Mechanism in Video Diffusion Models**|Bingyan Liu et.al.|[2504.12027](http://arxiv.org/abs/2504.12027)|null|
@@ -3105,6 +3118,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-16**|**BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction**|Wenhua Wu et.al.|[2504.13207](http://arxiv.org/abs/2504.13207)|null|
 |**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
