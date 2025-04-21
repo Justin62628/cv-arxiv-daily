@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -1990,7 +1990,7 @@ layout: default
 |**2025-04-16**|**PCDiff: Proactive Control for Ownership Protection in Diffusion Models with Watermark Compatibility**|Keke Gai et.al.|[2504.11774](http://arxiv.org/abs/2504.11774)|null|
 |**2025-04-16**|**EgoExo-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos**|Jilan Xu et.al.|[2504.11732](http://arxiv.org/abs/2504.11732)|null|
 |**2025-04-15**|**NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**|Yanrui Bin et.al.|[2504.11427](http://arxiv.org/abs/2504.11427)|null|
-|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
+|**2025-04-17**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
 |**2025-04-15**|**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**|Xiang Wang et.al.|[2504.11289](http://arxiv.org/abs/2504.11289)|**[link](https://github.com/ali-vilab/unianimate-dit)**|
 |**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143](http://arxiv.org/abs/2504.11143)|null|
 |**2025-04-15**|**PT-Mark: Invisible Watermarking for Text-to-image Diffusion Models via Semantic-aware Pivotal Tuning**|Yaopeng Wang et.al.|[2504.10853](http://arxiv.org/abs/2504.10853)|null|
