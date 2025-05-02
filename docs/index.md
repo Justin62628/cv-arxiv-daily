@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -40,7 +40,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
+|**2025-05-01**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
 |**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
 |**2025-04-24**|**I-INR: Iterative Implicit Neural Representations**|Ali Haider et.al.|[2504.17364](http://arxiv.org/abs/2504.17364)|null|
 |**2025-04-18**|**Euler-Lagrange equations for variable-growth total variation**|Wojciech Górny et.al.|[2504.13559](http://arxiv.org/abs/2504.13559)|null|
@@ -323,7 +323,7 @@ layout: default
 |**2025-04-30**|**MagicCraft: Natural Language-Driven Generation of Dynamic and Interactive 3D Objects for Commercial Metaverse Platforms**|Ryutaro Kurai et.al.|[2504.21332](http://arxiv.org/abs/2504.21332)|null|
 |**2025-04-29**|**Modeling and Performance Analysis for Semantic Communications Based on Empirical Results**|Shuai Ma et.al.|[2504.21055](http://arxiv.org/abs/2504.21055)|null|
 |**2025-04-29**|**Advance Fake Video Detection via Vision Transformers**|Joy Battocchio et.al.|[2504.20669](http://arxiv.org/abs/2504.20669)|null|
-|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
+|**2025-05-01**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
 |**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
 |**2025-04-28**|**Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video**|Sonia Joseph et.al.|[2504.19475](http://arxiv.org/abs/2504.19475)|null|
@@ -3181,7 +3181,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819](http://arxiv.org/abs/2504.19819)|null|
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345](http://arxiv.org/abs/2504.19345)|null|
