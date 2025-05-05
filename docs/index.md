@@ -537,7 +537,7 @@ layout: default
 |**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
 |**2025-03-04**|**Developing a PET/CT Foundation Model for Cross-Modal Anatomical and Functional Imaging**|Yujin Oh et.al.|[2503.02824](http://arxiv.org/abs/2503.02824)|null|
 |**2025-03-04**|**TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**|Oliver Grainge et.al.|[2503.02511](http://arxiv.org/abs/2503.02511)|null|
-|**2025-03-04**|**Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation**|Dengke Zhang et.al.|[2503.02459](http://arxiv.org/abs/2503.02459)|null|
+|**2025-03-04**|**Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation**|Dengke Zhang et.al.|[2503.02459](http://arxiv.org/abs/2503.02459)|**[link](https://github.com/zdk258/TokenSwap)**|
 |**2025-03-05**|**BHViT: Binarized Hybrid Vision Transformer**|Tian Gao et.al.|[2503.02394](http://arxiv.org/abs/2503.02394)|**[link](https://github.com/IMRL/BHViT)**|
 |**2025-03-04**|**Low-Level Matters: An Efficient Hybrid Architecture for Robust Multi-frame Infrared Small Target Detection**|Zhihua Shen et.al.|[2503.02220](http://arxiv.org/abs/2503.02220)|null|
 |**2025-03-03**|**An Efficient Approach to Detecting Lung Nodules Using Swin Transformer**|Saeed Shakuri et.al.|[2503.01592](http://arxiv.org/abs/2503.01592)|null|
@@ -2085,7 +2085,7 @@ layout: default
 |**2025-04-11**|**MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**|Daeun Kim et.al.|[2504.08398](http://arxiv.org/abs/2504.08398)|null|
 |**2025-04-11**|**Generative AI for Film Creation: A Survey of Recent Advances**|Ruihan Zhang et.al.|[2504.08296](http://arxiv.org/abs/2504.08296)|null|
 |**2025-04-11**|**TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation**|Ruineng Li et.al.|[2504.08181](http://arxiv.org/abs/2504.08181)|null|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
 |**2025-04-10**|**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors**|Bingliang Zhang et.al.|[2504.07549](http://arxiv.org/abs/2504.07549)|**[link](https://github.com/zhangbingliang2019/STeP)**|
 |**2025-04-10**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
@@ -3194,7 +3194,7 @@ layout: default
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345](http://arxiv.org/abs/2504.19345)|null|
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
-|**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|null|
+|**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|**[link](https://github.com/Aswhalefall/VISTA)**|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
 |**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
