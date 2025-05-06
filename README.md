@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Multi-View Learning with Context-Guided Receptance for Image Denoising**|Binghong Chen et.al.|[2505.02705](http://arxiv.org/abs/2505.02705)|null|
 |**2025-05-02**|**Edge-preserving Image Denoising via Multi-scale Adaptive Statistical Independence Testing**|Ruyu Yan et.al.|[2505.01032](http://arxiv.org/abs/2505.01032)|null|
 |**2025-04-30**|**Noise Modeling in One Hour: Minimizing Preparation Efforts for Self-supervised Low-Light RAW Image Denoising**|Feiran Li et.al.|[2505.00045](http://arxiv.org/abs/2505.00045)|null|
 |**2025-05-01**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
@@ -330,6 +331,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Deep learning of personalized priors from past MRI scans enables fast, quality-enhanced point-of-care MRI with low-cost systems**|Tal Oved et.al.|[2505.02470](http://arxiv.org/abs/2505.02470)|null|
+|**2025-05-05**|**Token Coordinated Prompt Attention is Needed for Visual Prompting**|Zichen Liu et.al.|[2505.02406](http://arxiv.org/abs/2505.02406)|null|
+|**2025-05-05**|**Sharpness-Aware Minimization with Z-Score Gradient Filtering for Neural Networks**|Juyoung Yun et.al.|[2505.02369](http://arxiv.org/abs/2505.02369)|null|
+|**2025-05-04**|**Robust AI-Generated Face Detection with Imbalanced Data**|Yamini Sri Krubha et.al.|[2505.02182](http://arxiv.org/abs/2505.02182)|null|
+|**2025-05-04**|**Local Herb Identification Using Transfer Learning: A CNN-Powered Mobile Application for Nepalese Flora**|Prajwal Thapa et.al.|[2505.02147](http://arxiv.org/abs/2505.02147)|null|
+|**2025-05-04**|**Always Skip Attention**|Yiping Ji et.al.|[2505.01996](http://arxiv.org/abs/2505.01996)|null|
+|**2025-05-03**|**Toward Onboard AI-Enabled Solutions to Space Object Detection for Space Sustainability**|Wenxuan Zhang et.al.|[2505.01650](http://arxiv.org/abs/2505.01650)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-01**|**DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking**|Xuzhao Li et.al.|[2505.00752](http://arxiv.org/abs/2505.00752)|null|
 |**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
@@ -2057,6 +2065,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824](http://arxiv.org/abs/2505.02824)|null|
 |**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406](http://arxiv.org/abs/2505.01406)|null|
 |**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|null|
 |**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104](http://arxiv.org/abs/2505.01104)|null|
@@ -3206,6 +3215,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
+|**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|null|
+|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
+|**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
 |**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
