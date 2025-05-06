@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -321,9 +321,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-01**|**DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking**|Xuzhao Li et.al.|[2505.00752](http://arxiv.org/abs/2505.00752)|null|
-|**2025-05-01**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
+|**2025-05-03**|**Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook**|Muyi Bao et.al.|[2505.00630](http://arxiv.org/abs/2505.00630)|null|
 |**2025-05-01**|**Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction**|Simon Giebenhain et.al.|[2505.00615](http://arxiv.org/abs/2505.00615)|null|
-|**2025-04-29**|**MCMComm: Hardware-Software Co-Optimization for End-to-End Communication in Multi-Chip-Modules**|Ritik Raj et.al.|[2505.00041](http://arxiv.org/abs/2505.00041)|null|
+|**2025-05-02**|**MCMComm: Hardware-Software Co-Optimization for End-to-End Communication in Multi-Chip-Modules**|Ritik Raj et.al.|[2505.00041](http://arxiv.org/abs/2505.00041)|null|
 |**2025-04-30**|**Vision Transformers in Precision Agriculture: A Comprehensive Survey**|Saber Mehdipour et.al.|[2504.21706](http://arxiv.org/abs/2504.21706)|null|
 |**2025-04-30**|**SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks**|Uzair Shah et.al.|[2504.21544](http://arxiv.org/abs/2504.21544)|null|
 |**2025-04-30**|**Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability**|Khoa Tuan Nguyen et.al.|[2504.21340](http://arxiv.org/abs/2504.21340)|null|
@@ -3200,7 +3200,7 @@ layout: default
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819](http://arxiv.org/abs/2504.19819)|null|
 |**2025-04-27**|**Beyond Physical Reach: Comparing Head- and Cane-Mounted Cameras for Last-Mile Navigation by Blind Users**|Apurv Varshney et.al.|[2504.19345](http://arxiv.org/abs/2504.19345)|null|
 |**2025-04-29**|**IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**|Yuan Li et.al.|[2504.19165](http://arxiv.org/abs/2504.19165)|null|
-|**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
+|**2025-05-05**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|**[link](https://github.com/Aswhalefall/VISTA)**|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
 |**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
