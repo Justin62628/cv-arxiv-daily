@@ -320,6 +320,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Design principles of deep translationally-symmetric neural quantum states for frustrated magnets**|Rajah P. Nutakki et.al.|[2505.03466](http://arxiv.org/abs/2505.03466)|null|
+|**2025-05-06**|**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor**|Wei-Ting Chen et.al.|[2505.03261](http://arxiv.org/abs/2505.03261)|null|
+|**2025-05-06**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113](http://arxiv.org/abs/2505.03113)|null|
 |**2025-05-05**|**Deep learning of personalized priors from past MRI scans enables fast, quality-enhanced point-of-care MRI with low-cost systems**|Tal Oved et.al.|[2505.02470](http://arxiv.org/abs/2505.02470)|null|
 |**2025-05-05**|**Token Coordinated Prompt Attention is Needed for Visual Prompting**|Zichen Liu et.al.|[2505.02406](http://arxiv.org/abs/2505.02406)|null|
 |**2025-05-06**|**Sharpness-Aware Minimization with Z-Score Gradient Filtering for Neural Networks**|Juyoung Yun et.al.|[2505.02369](http://arxiv.org/abs/2505.02369)|null|
