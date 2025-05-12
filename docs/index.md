@@ -40,6 +40,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Towards order of magnitude X-ray dose reduction in breast cancer imaging using phase contrast and deep denoising**|Ashkan Pakzad et.al.|[2505.05812](http://arxiv.org/abs/2505.05812)|**[link](https://github.com/quell-devs/quell)**|
+|**2025-04-23**|**ECGDeDRDNet: A deep learning-based method for Electrocardiogram noise removal using a double recurrent dense network**|Sainan xiao et.al.|[2505.05477](http://arxiv.org/abs/2505.05477)|null|
 |**2025-05-05**|**Multi-View Learning with Context-Guided Receptance for Image Denoising**|Binghong Chen et.al.|[2505.02705](http://arxiv.org/abs/2505.02705)|**[link](https://github.com/seeker98/crwkv)**|
 |**2025-05-02**|**Edge-preserving Image Denoising via Multi-scale Adaptive Statistical Independence Testing**|Ruyu Yan et.al.|[2505.01032](http://arxiv.org/abs/2505.01032)|null|
 |**2025-04-30**|**Noise Modeling in One Hour: Minimizing Preparation Efforts for Self-supervised Low-Light RAW Image Denoising**|Feiran Li et.al.|[2505.00045](http://arxiv.org/abs/2505.00045)|**[link](https://github.com/sonyresearch/raw_image_denoising)**|
@@ -320,6 +322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
 |**2025-05-08**|**Benchmarking Ophthalmology Foundation Models for Clinically Significant Age Macular Degeneration Detection**|Benjamin A. Cohen et.al.|[2505.05291](http://arxiv.org/abs/2505.05291)|null|
 |**2025-05-07**|**ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling**|Xiao Wang et.al.|[2505.04802](http://arxiv.org/abs/2505.04802)|null|
 |**2025-05-07**|**Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer**|Sainath Dey et.al.|[2505.04740](http://arxiv.org/abs/2505.04740)|null|
@@ -2065,6 +2068,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-05**|**Learning 3D Persistent Embodied World Models**|Siyuan Zhou et.al.|[2505.05495](http://arxiv.org/abs/2505.05495)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-04**|**Language translation, and change of accent for speech-to-speech task using diffusion model**|Abhishek Mishra et.al.|[2505.04639](http://arxiv.org/abs/2505.04639)|null|
 |**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
