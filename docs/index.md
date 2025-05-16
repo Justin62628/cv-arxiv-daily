@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -325,7 +325,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536](http://arxiv.org/abs/2505.09536)|null|
 |**2025-05-14**|**A 2D Semantic-Aware Position Encoding for Vision Transformers**|Xi Chen et.al.|[2505.09466](http://arxiv.org/abs/2505.09466)|null|
-|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252](http://arxiv.org/abs/2505.09252)|null|
+|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252](http://arxiv.org/abs/2505.09252)|**[link](https://github.com/mileswyn/ich_mllms_validation)**|
 |**2025-05-13**|**Real-time Capable Learning-based Visual Tool Pose Correction via Differentiable Simulation**|Shuyuan Yang et.al.|[2505.08875](http://arxiv.org/abs/2505.08875)|null|
 |**2025-05-13**|**Ultrasound Report Generation with Multimodal Large Language Models for Standardized Texts**|Peixuan Ge et.al.|[2505.08838](http://arxiv.org/abs/2505.08838)|null|
 |**2025-05-13**|**TiMo: Spatiotemporal Foundation Model for Satellite Image Time Series**|Xiaolei Qin et.al.|[2505.08723](http://arxiv.org/abs/2505.08723)|**[link](https://github.com/mililab/timo)**|
@@ -2090,7 +2090,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-14**|**Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**|Yutong Hu et.al.|[2505.09430](http://arxiv.org/abs/2505.09430)|**[link](https://github.com/utomm/mini-diffuse-actor)**|
-|**2025-05-14**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
+|**2025-05-15**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
 |**2025-05-10**|**Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models**|Zizhao Hu et.al.|[2505.08803](http://arxiv.org/abs/2505.08803)|null|
 |**2025-05-13**|**ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image**|Yizhi Wang et.al.|[2505.08239](http://arxiv.org/abs/2505.08239)|null|
 |**2025-05-09**|**Computationally Efficient Diffusion Models in Medical Imaging: A Comprehensive Review**|Abdullah et.al.|[2505.07866](http://arxiv.org/abs/2505.07866)|null|
