@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -324,7 +324,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
-|**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|null|
+|**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|**[link](https://github.com/shanzard/nrcd)**|
 |**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536](http://arxiv.org/abs/2505.09536)|null|
 |**2025-05-14**|**A 2D Semantic-Aware Position Encoding for Vision Transformers**|Xi Chen et.al.|[2505.09466](http://arxiv.org/abs/2505.09466)|null|
 |**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252](http://arxiv.org/abs/2505.09252)|**[link](https://github.com/mileswyn/ich_mllms_validation)**|
@@ -2093,8 +2093,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
-|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|null|
-|**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|null|
+|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
+|**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|**[link](https://github.com/agibottech/ewmbench)**|
 |**2025-05-14**|**Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**|Yutong Hu et.al.|[2505.09430](http://arxiv.org/abs/2505.09430)|**[link](https://github.com/utomm/mini-diffuse-actor)**|
 |**2025-05-15**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
 |**2025-05-10**|**Multi-modal Synthetic Data Training and Model Collapse: Insights from VLMs and Diffusion Models**|Zizhao Hu et.al.|[2505.08803](http://arxiv.org/abs/2505.08803)|null|
