@@ -350,8 +350,8 @@ layout: default
 |**2025-05-08**|**Benchmarking Ophthalmology Foundation Models for Clinically Significant Age Macular Degeneration Detection**|Benjamin A. Cohen et.al.|[2505.05291](http://arxiv.org/abs/2505.05291)|null|
 |**2025-05-07**|**ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling**|Xiao Wang et.al.|[2505.04802](http://arxiv.org/abs/2505.04802)|null|
 |**2025-05-07**|**Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer**|Sainath Dey et.al.|[2505.04740](http://arxiv.org/abs/2505.04740)|null|
-|**2025-05-07**|**Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma**|Lucas Sancéré et.al.|[2505.04672](http://arxiv.org/abs/2505.04672)|null|
-|**2025-05-07**|**EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2505.04657](http://arxiv.org/abs/2505.04657)|null|
+|**2025-05-07**|**Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma**|Lucas Sancéré et.al.|[2505.04672](http://arxiv.org/abs/2505.04672)|**[link](https://github.com/bozeklab/Histo-Miner)**|
+|**2025-05-07**|**EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2505.04657](http://arxiv.org/abs/2505.04657)|**[link](https://github.com/w-shuoyan/evenhancer)**|
 |**2025-05-06**|**Rethinking Boundary Detection in Deep Learning-Based Medical Image Segmentation**|Yi Lin et.al.|[2505.04652](http://arxiv.org/abs/2505.04652)|**[link](https://github.com/xiaofang007/cto)**|
 |**2025-05-07**|**Spectral and Temporal Denoising for Differentially Private Optimization**|Hyeju Shin et.al.|[2505.04468](http://arxiv.org/abs/2505.04468)|null|
 |**2025-05-07**|**Balancing Accuracy, Calibration, and Efficiency in Active Learning with Vision Transformers Under Label Noise**|Moseli Mots'oehli et.al.|[2505.04375](http://arxiv.org/abs/2505.04375)|null|
@@ -384,7 +384,7 @@ layout: default
 |**2025-04-28**|**Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video**|Sonia Joseph et.al.|[2504.19475](http://arxiv.org/abs/2504.19475)|null|
 |**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414](http://arxiv.org/abs/2504.19414)|null|
 |**2025-04-27**|**MERA: Multimodal and Multiscale Self-Explanatory Model with Considerably Reduced Annotation for Lung Nodule Diagnosis**|Jiahao Lu et.al.|[2504.19357](http://arxiv.org/abs/2504.19357)|null|
-|**2025-04-27**|**TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks**|Mohammad M Maheri et.al.|[2504.19274](http://arxiv.org/abs/2504.19274)|null|
+|**2025-04-27**|**TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks**|Mohammad M Maheri et.al.|[2504.19274](http://arxiv.org/abs/2504.19274)|**[link](https://github.com/mammadmaheri7/TeleSparseRepo)**|
 |**2025-04-27**|**LM-MCVT: A Lightweight Multi-modal Multi-view Convolutional-Vision Transformer Approach for 3D Object Recognition**|Songsong Xiong et.al.|[2504.19256](http://arxiv.org/abs/2504.19256)|null|
 |**2025-04-26**|**IoT Botnet Detection: Application of Vision Transformer to Classification of Network Flow Traffic**|Hassan Wasswa et.al.|[2504.18781](http://arxiv.org/abs/2504.18781)|null|
 |**2025-04-26**|**PyViT-FUSE: A Foundation Model for Multi-Sensor Earth Observation Data**|Manuel Weber et.al.|[2504.18770](http://arxiv.org/abs/2504.18770)|null|
@@ -1144,7 +1144,7 @@ layout: default
 |**2024-08-30**|**Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer**|Shuai Peng et.al.|[2408.17062](http://arxiv.org/abs/2408.17062)|null|
 |**2024-08-30**|**A Survey of the Self Supervised Learning Mechanisms for Vision Transformers**|Asifullah Khan et.al.|[2408.17059](http://arxiv.org/abs/2408.17059)|null|
 |**2024-08-29**|**Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector**|Deepak Dagar et.al.|[2408.16892](http://arxiv.org/abs/2408.16892)|null|
-|**2024-08-29**|**Comparative Analysis of Transfer Learning Models for Breast Cancer Classification**|Sania Eskandari et.al.|[2408.16859](http://arxiv.org/abs/2408.16859)|null|
+|**2024-08-29**|**Comparative Analysis of Transfer Learning Models for Breast Cancer Classification**|Sania Eskandari et.al.|[2408.16859](http://arxiv.org/abs/2408.16859)|**[link](https://github.com/saniaesk/Breast-Cancer-Classification)**|
 |**2024-08-29**|**PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-Identification**|Lei Tan et.al.|[2408.16684](http://arxiv.org/abs/2408.16684)|null|
 |**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|**[link](https://github.com/vimslab/sodawidenetplusplus)**|
 |**2024-08-29**|**Weakly Supervised Object Detection for Automatic Tooth-marked Tongue Recognition**|Yongcun Zhang et.al.|[2408.16451](http://arxiv.org/abs/2408.16451)|**[link](https://github.com/yc-zh/wsvm)**|
@@ -2117,7 +2117,7 @@ layout: default
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-04-27**|**Keep the General, Inject the Specific: Structured Dialogue Fine-Tuning for Knowledge Injection without Catastrophic Forgetting**|Yijie Hong et.al.|[2505.00029](http://arxiv.org/abs/2505.00029)|null|
 |**2025-04-30**|**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction**|Qihao Liu et.al.|[2504.21855](http://arxiv.org/abs/2504.21855)|null|
-|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|**[link](https://github.com/pku-yuangroup/holotime)**|
 |**2025-04-29**|**Erased but Not Forgotten: How Backdoors Compromise Concept Erasure**|Jonas Henry Grebe et.al.|[2504.21072](http://arxiv.org/abs/2504.21072)|null|
 |**2025-04-29**|**Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models**|Zhongqi Wang et.al.|[2504.20518](http://arxiv.org/abs/2504.20518)|null|
 |**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614](http://arxiv.org/abs/2504.19614)|null|
@@ -2273,7 +2273,7 @@ layout: default
 |**2025-03-11**|**NullFace: Training-Free Localized Face Anonymization**|Han-Wei Kung et.al.|[2503.08478](http://arxiv.org/abs/2503.08478)|**[link](https://github.com/hanweikung/nullface)**|
 |**2025-03-13**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-11**|**AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models**|Kwan Yun et.al.|[2503.08417](http://arxiv.org/abs/2503.08417)|**[link](https://github.com/kwanyun/AnyMoLe)**|
-|**2025-03-11**|**OminiControl2: Efficient Conditioning for Diffusion Transformers**|Zhenxiong Tan et.al.|[2503.08280](http://arxiv.org/abs/2503.08280)|null|
+|**2025-03-11**|**OminiControl2: Efficient Conditioning for Diffusion Transformers**|Zhenxiong Tan et.al.|[2503.08280](http://arxiv.org/abs/2503.08280)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
 |**2025-03-11**|**Seeing Beyond Haze: Generative Nighttime Image Dehazing**|Beibei Lin et.al.|[2503.08073](http://arxiv.org/abs/2503.08073)|null|
 |**2025-03-10**|**PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference Time by Leveraging Sparsity**|Kwanyoung Kim et.al.|[2503.07677](http://arxiv.org/abs/2503.07677)|null|
 |**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|**[link](https://github.com/ddgoodgood/trce)**|
@@ -3275,7 +3275,7 @@ layout: default
 |**2025-05-03**|**Unified Steganography via Implicit Neural Representation**|Qi Song et.al.|[2505.01749](http://arxiv.org/abs/2505.01749)|null|
 |**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
-|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
+|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
