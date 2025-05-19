@@ -323,6 +323,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Dynamic Base model Shift for Delta Compression**|Chenyu Huang et.al.|[2505.11344](http://arxiv.org/abs/2505.11344)|null|
+|**2025-05-16**|**Efficient Attention via Pre-Scoring: Prioritizing Informative Keys in Transformers**|Zhexiang Li et.al.|[2505.11040](http://arxiv.org/abs/2505.11040)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352](http://arxiv.org/abs/2505.10352)|null|
 |**2025-05-15**|**Non-Registration Change Detection: A Novel Change Detection Task and Benchmark Dataset**|Zhe Shan et.al.|[2505.09939](http://arxiv.org/abs/2505.09939)|**[link](https://github.com/shanzard/nrcd)**|
 |**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536](http://arxiv.org/abs/2505.09536)|null|
@@ -2092,6 +2094,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497](http://arxiv.org/abs/2505.11497)|null|
+|**2025-05-16**|**Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models**|Fu-Yun Wang et.al.|[2505.11245](http://arxiv.org/abs/2505.11245)|null|
+|**2025-05-16**|**One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework**|Feiran Li et.al.|[2505.11131](http://arxiv.org/abs/2505.11131)|null|
+|**2025-05-15**|**IMAGE-ALCHEMY: Advancing subject fidelity in personalised text-to-image generation**|Amritanshu Tiwari et.al.|[2505.10743](http://arxiv.org/abs/2505.10743)|null|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
 |**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858](http://arxiv.org/abs/2505.09858)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
 |**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|**[link](https://github.com/agibottech/ewmbench)**|
@@ -3258,6 +3264,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
