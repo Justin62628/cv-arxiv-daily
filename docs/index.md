@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -327,7 +327,7 @@ layout: default
 |**2025-05-19**|**WriteViT: Handwritten Text Generation with Vision Transformer**|Dang Hoai Nam et.al.|[2505.13235](http://arxiv.org/abs/2505.13235)|**[link](https://github.com/hnam-1765/writevit)**|
 |**2025-05-19**|**Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks**|Francesco D'Amico et.al.|[2505.13230](http://arxiv.org/abs/2505.13230)|null|
 |**2025-05-19**|**Learning to Adapt to Position Bias in Vision Transformer Classifiers**|Robert-Jan Bruintjes et.al.|[2505.13137](http://arxiv.org/abs/2505.13137)|**[link](https://github.com/rjbruin/position-shap)**|
-|**2025-05-19**|**Sinusoidal Initialization, Time for a New Start**|Alberto Fernández-Hernández et.al.|[2505.12909](http://arxiv.org/abs/2505.12909)|null|
+|**2025-05-20**|**Sinusoidal Initialization, Time for a New Start**|Alberto Fernández-Hernández et.al.|[2505.12909](http://arxiv.org/abs/2505.12909)|null|
 |**2025-05-18**|**Kornia-rs: A Low-Level 3D Computer Vision Library In Rust**|Edgar Riba et.al.|[2505.12425](http://arxiv.org/abs/2505.12425)|null|
 |**2025-05-17**|**Cross-Model Transfer of Task Vectors via Few-Shot Orthogonal Alignment**|Kazuhiko Kawamoto et.al.|[2505.12021](http://arxiv.org/abs/2505.12021)|**[link](https://github.com/kawakera-lab/crossmodeltransfer)**|
 |**2025-05-17**|**Parameter Efficient Continual Learning with Dynamic Low-Rank Adaptation**|Prashant Shivaram Bhat et.al.|[2505.11998](http://arxiv.org/abs/2505.11998)|null|
