@@ -325,6 +325,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441](http://arxiv.org/abs/2505.15441)|**[link](https://github.com/davnords/octic-vits)**|
+|**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414](http://arxiv.org/abs/2505.15414)|null|
+|**2025-05-21**|**Lossless Token Merging Even Without Fine-Tuning in Vision Transformers**|Jaeyeon Lee et.al.|[2505.15160](http://arxiv.org/abs/2505.15160)|null|
+|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719](http://arxiv.org/abs/2505.14719)|null|
 |**2025-05-20**|**SifterNet: A Generalized and Model-Agnostic Trigger Purification Approach**|Shaoye Luo et.al.|[2505.14531](http://arxiv.org/abs/2505.14531)|null|
 |**2025-05-19**|**WriteViT: Handwritten Text Generation with Vision Transformer**|Dang Hoai Nam et.al.|[2505.13235](http://arxiv.org/abs/2505.13235)|**[link](https://github.com/hnam-1765/writevit)**|
 |**2025-05-19**|**Implicit bias produces neural scaling laws in learning curves, from perceptrons to deep networks**|Francesco D'Amico et.al.|[2505.13230](http://arxiv.org/abs/2505.13230)|**[link](https://github.com/Francill99/deep_norm)**|
@@ -2105,6 +2109,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models**|Die Chen et.al.|[2505.15450](http://arxiv.org/abs/2505.15450)|null|
+|**2025-05-17**|**DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance**|Xuan Shen et.al.|[2505.14708](http://arxiv.org/abs/2505.14708)|null|
 |**2025-05-20**|**Vid2World: Crafting Video Diffusion Models to Interactive World Models**|Siqiao Huang et.al.|[2505.14357](http://arxiv.org/abs/2505.14357)|null|
 |**2025-05-20**|**Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization**|Yuanyuan Chang et.al.|[2505.14254](http://arxiv.org/abs/2505.14254)|**[link](https://github.com/chang-yuanyuan/caso)**|
 |**2025-05-21**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
