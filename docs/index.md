@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -325,7 +325,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-21**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441](http://arxiv.org/abs/2505.15441)|**[link](https://github.com/davnords/octic-vits)**|
+|**2025-05-22**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441](http://arxiv.org/abs/2505.15441)|**[link](https://github.com/davnords/octic-vits)**|
 |**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414](http://arxiv.org/abs/2505.15414)|null|
 |**2025-05-21**|**Lossless Token Merging Even Without Fine-Tuning in Vision Transformers**|Jaeyeon Lee et.al.|[2505.15160](http://arxiv.org/abs/2505.15160)|null|
 |**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719](http://arxiv.org/abs/2505.14719)|null|
