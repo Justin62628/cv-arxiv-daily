@@ -325,6 +325,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993](http://arxiv.org/abs/2505.16993)|null|
+|**2025-05-22**|**AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer**|Jiquan Shan et.al.|[2505.16463](http://arxiv.org/abs/2505.16463)|null|
+|**2025-05-22**|**Fusion of Foundation and Vision Transformer Model Features for Dermatoscopic Image Classification**|Amirreza Mahbod et.al.|[2505.16338](http://arxiv.org/abs/2505.16338)|null|
+|**2025-05-21**|**An Exploratory Approach Towards Investigating and Explaining Vision Transformer and Transfer Learning for Brain Disease Detection**|Shuvashis Sarker et.al.|[2505.16039](http://arxiv.org/abs/2505.16039)|null|
+|**2025-05-21**|**Domain Adaptive Skin Lesion Classification via Conformal Ensemble of Vision Transformers**|Mehran Zoravar et.al.|[2505.15997](http://arxiv.org/abs/2505.15997)|null|
 |**2025-05-22**|**Stronger ViTs With Octic Equivariance**|David Nordström et.al.|[2505.15441](http://arxiv.org/abs/2505.15441)|**[link](https://github.com/davnords/octic-vits)**|
 |**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414](http://arxiv.org/abs/2505.15414)|null|
 |**2025-05-21**|**Lossless Token Merging Even Without Fine-Tuning in Vision Transformers**|Jaeyeon Lee et.al.|[2505.15160](http://arxiv.org/abs/2505.15160)|null|
@@ -2109,6 +2114,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**|Zhehao Huang et.al.|[2505.16875](http://arxiv.org/abs/2505.16875)|null|
+|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|null|
+|**2025-05-22**|**M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion**|Nina Shvetsova et.al.|[2505.16565](http://arxiv.org/abs/2505.16565)|null|
+|**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
+|**2025-05-22**|**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution**|Zheng Chen et.al.|[2505.16239](http://arxiv.org/abs/2505.16239)|null|
 |**2025-05-21**|**Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models**|Die Chen et.al.|[2505.15450](http://arxiv.org/abs/2505.15450)|null|
 |**2025-05-17**|**DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance**|Xuan Shen et.al.|[2505.14708](http://arxiv.org/abs/2505.14708)|null|
 |**2025-05-20**|**Vid2World: Crafting Video Diffusion Models to Interactive World Models**|Siqiao Huang et.al.|[2505.14357](http://arxiv.org/abs/2505.14357)|null|
@@ -3287,6 +3297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
