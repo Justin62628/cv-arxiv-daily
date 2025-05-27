@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -333,7 +333,7 @@ layout: default
 |**2025-05-23**|**Wildfire Detection Using Vision Transformer with the Wildfire Dataset**|Gowtham Raj Vuppari et.al.|[2505.17395](http://arxiv.org/abs/2505.17395)|null|
 |**2025-05-23**|**Are GNNs Worth the Effort for IoT Botnet Detection? A Comparative Study of VAE-GNN vs. ViT-MLP and VAE-MLP Approaches**|Hassan Wasswa et.al.|[2505.17363](http://arxiv.org/abs/2505.17363)|null|
 |**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993](http://arxiv.org/abs/2505.16993)|null|
-|**2025-05-22**|**AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer**|Jiquan Shan et.al.|[2505.16463](http://arxiv.org/abs/2505.16463)|null|
+|**2025-05-25**|**AnchorFormer: Differentiable Anchor Attention for Efficient Vision Transformer**|Jiquan Shan et.al.|[2505.16463](http://arxiv.org/abs/2505.16463)|null|
 |**2025-05-22**|**Fusion of Foundation and Vision Transformer Model Features for Dermatoscopic Image Classification**|Amirreza Mahbod et.al.|[2505.16338](http://arxiv.org/abs/2505.16338)|null|
 |**2025-05-21**|**An Exploratory Approach Towards Investigating and Explaining Vision Transformer and Transfer Learning for Brain Disease Detection**|Shuvashis Sarker et.al.|[2505.16039](http://arxiv.org/abs/2505.16039)|null|
 |**2025-05-21**|**Domain Adaptive Skin Lesion Classification via Conformal Ensemble of Vision Transformers**|Mehran Zoravar et.al.|[2505.15997](http://arxiv.org/abs/2505.15997)|null|
