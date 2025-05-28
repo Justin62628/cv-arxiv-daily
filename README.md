@@ -49,6 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**MotionPro: A Precise Motion Controller for Image-to-Video Generation**|Zhongwei Zhang et.al.|[2505.20287](http://arxiv.org/abs/2505.20287)|null|
 |**2025-05-26**|**Rotation-Equivariant Self-Supervised Method in Image Denoising**|Hanze Liu et.al.|[2505.19618](http://arxiv.org/abs/2505.19618)|null|
 |**2025-05-20**|**Revealing Information from Weak Signal in Electron Energy-Loss Spectroscopy with a Deep Denoiser**|Yifan Wang et.al.|[2505.14032](http://arxiv.org/abs/2505.14032)|null|
 |**2025-05-19**|**Degradation-Aware Feature Perturbation for All-in-One Image Restoration**|Xiangpeng Tian et.al.|[2505.12630](http://arxiv.org/abs/2505.12630)|**[link](https://github.com/txphome/dfpir)**|
@@ -337,6 +338,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501](http://arxiv.org/abs/2505.21501)|null|
+|**2025-05-27**|**Beyond Accuracy: Uncovering the Role of Similarity Perception and its Alignment with Semantics in Supervised Learning**|Katarzyna Filus et.al.|[2505.21338](http://arxiv.org/abs/2505.21338)|null|
+|**2025-05-27**|**In Context Learning with Vision Transformers: Case Study**|Antony Zhao et.al.|[2505.20872](http://arxiv.org/abs/2505.20872)|null|
+|**2025-05-26**|**SeisCoDE: 3D Seismic Interpretation Foundation Model with Contrastive Self-Distillation Learning**|Goodluck Archibong et.al.|[2505.20518](http://arxiv.org/abs/2505.20518)|null|
+|**2025-05-26**|**Electrolyzers-HSI: Close-Range Multi-Scene Hyperspectral Imaging Benchmark Dataset**|Elias Arbash et.al.|[2505.20507](http://arxiv.org/abs/2505.20507)|null|
+|**2025-05-26**|**Video-based Direct Time Series Measurement of Along-Strike Slip on the Coseismic Surface Rupture During the 2025 Mw7.7 Myanmar Earthquake**|Jianhao Gao et.al.|[2505.20494](http://arxiv.org/abs/2505.20494)|null|
+|**2025-05-26**|**BlastOFormer: Attention and Neural Operator Deep Learning Methods for Explosive Blast Prediction**|Reid Graves et.al.|[2505.20454](http://arxiv.org/abs/2505.20454)|null|
 |**2025-05-26**|**Structured Initialization for Vision Transformers**|Jianqiao Zheng et.al.|[2505.19985](http://arxiv.org/abs/2505.19985)|null|
 |**2025-05-26**|**An Explainable Diagnostic Framework for Neurodegenerative Dementias via Reinforcement-Optimized LLM Reasoning**|Andrew Zamai et.al.|[2505.19954](http://arxiv.org/abs/2505.19954)|null|
 |**2025-05-26**|**The Missing Point in Vision Transformers for Universal Image Segmentation**|Sajjad Shahabodini et.al.|[2505.19795](http://arxiv.org/abs/2505.19795)|null|
@@ -2145,6 +2153,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
+|**2025-05-27**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325](http://arxiv.org/abs/2505.21325)|null|
+|**2025-05-27**|**Sci-Fi: Symmetric Constraint for Frame Inbetweening**|Liuhan Chen et.al.|[2505.21205](http://arxiv.org/abs/2505.21205)|null|
+|**2025-05-27**|**Minute-Long Videos with Dual Parallelisms**|Zeqing Wang et.al.|[2505.21070](http://arxiv.org/abs/2505.21070)|null|
+|**2025-05-27**|**ISAC: Training-Free Instance-to-Semantic Attention Control for Improving Multi-Instance Generation**|Sanghyun Jo et.al.|[2505.20935](http://arxiv.org/abs/2505.20935)|null|
+|**2025-05-27**|**Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training**|Bolin Lai et.al.|[2505.20629](http://arxiv.org/abs/2505.20629)|null|
+|**2025-05-26**|**DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data**|Ruqi Wu et.al.|[2505.20460](http://arxiv.org/abs/2505.20460)|null|
+|**2025-05-26**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
+|**2025-05-26**|**AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models**|Muyao Niu et.al.|[2505.20255](http://arxiv.org/abs/2505.20255)|null|
 |**2025-05-26**|**Long-Context State-Space Video World Models**|Ryan Po et.al.|[2505.20171](http://arxiv.org/abs/2505.20171)|null|
 |**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
@@ -3345,6 +3363,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
