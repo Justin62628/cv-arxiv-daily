@@ -40,6 +40,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-24**|**Image denoising as a conditional expectation**|Sajal Chakroborty et.al.|[2505.21546](http://arxiv.org/abs/2505.21546)|null|
+|**2025-05-23**|**CIM-NET: A Video Denoising Deep Neural Network Model Optimized for Computing-in-Memory Architectures**|Shan Gao et.al.|[2505.21522](http://arxiv.org/abs/2505.21522)|null|
 |**2025-05-26**|**MotionPro: A Precise Motion Controller for Image-to-Video Generation**|Zhongwei Zhang et.al.|[2505.20287](http://arxiv.org/abs/2505.20287)|null|
 |**2025-05-26**|**Rotation-Equivariant Self-Supervised Method in Image Denoising**|Hanze Liu et.al.|[2505.19618](http://arxiv.org/abs/2505.19618)|**[link](https://github.com/liuhanze623/adarenet)**|
 |**2025-05-20**|**Revealing Information from Weak Signal in Electron Energy-Loss Spectroscopy with a Deep Denoiser**|Yifan Wang et.al.|[2505.14032](http://arxiv.org/abs/2505.14032)|null|
@@ -327,6 +329,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Distance Transform Guided Mixup for Alzheimer's Detection**|Zobia Batool et.al.|[2505.22434](http://arxiv.org/abs/2505.22434)|null|
+|**2025-05-28**|**S2AFormer: Strip Self-Attention for Efficient Vision Transformer**|Guoan Xu et.al.|[2505.22195](http://arxiv.org/abs/2505.22195)|null|
+|**2025-05-28**|**Refining Datapath for Microscaling ViTs**|Can Xiao et.al.|[2505.22194](http://arxiv.org/abs/2505.22194)|null|
+|**2025-05-28**|**RePaViT: Scalable Vision Transformer Acceleration via Structural Reparameterization on Feedforward Network Layers**|Xuwei Xu et.al.|[2505.21847](http://arxiv.org/abs/2505.21847)|null|
+|**2025-05-27**|**Beyond 1D: Vision Transformers and Multichannel Signal Images for PPG-to-ECG Reconstruction**|Xiaoyan Li et.al.|[2505.21767](http://arxiv.org/abs/2505.21767)|null|
+|**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715](http://arxiv.org/abs/2505.21715)|null|
+|**2025-05-27**|**Geometric Feature Prompting of Image Segmentation Models**|Kenneth Ball et.al.|[2505.21644](http://arxiv.org/abs/2505.21644)|null|
 |**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501](http://arxiv.org/abs/2505.21501)|null|
 |**2025-05-27**|**Beyond Accuracy: Uncovering the Role of Similarity Perception and its Alignment with Semantics in Supervised Learning**|Katarzyna Filus et.al.|[2505.21338](http://arxiv.org/abs/2505.21338)|null|
 |**2025-05-27**|**In Context Learning with Vision Transformers: Case Study**|Antony Zhao et.al.|[2505.20872](http://arxiv.org/abs/2505.20872)|null|
@@ -2140,6 +2149,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**What Makes for Text to 360-degree Panorama Generation with Stable Diffusion?**|Jinhong Ni et.al.|[2505.22129](http://arxiv.org/abs/2505.22129)|null|
+|**2025-05-28**|**Align-DA: Align Score-based Atmospheric Data Assimilation with Multiple Preferences**|Jing-An Sun et.al.|[2505.22008](http://arxiv.org/abs/2505.22008)|null|
+|**2025-05-28**|**One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models**|Senmao Li et.al.|[2505.21960](http://arxiv.org/abs/2505.21960)|null|
+|**2025-05-28**|**EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance**|Zun Wang et.al.|[2505.21876](http://arxiv.org/abs/2505.21876)|null|
+|**2025-05-27**|**Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation**|Ke Zhang et.al.|[2505.21653](http://arxiv.org/abs/2505.21653)|null|
+|**2025-05-27**|**Any-to-Bokeh: One-Step Video Bokeh via Multi-Plane Image Guided Diffusion**|Yang Yang et.al.|[2505.21593](http://arxiv.org/abs/2505.21593)|null|
 |**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
 |**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
 |**2025-05-28**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325](http://arxiv.org/abs/2505.21325)|null|
@@ -3348,6 +3363,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
+|**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
+|**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
