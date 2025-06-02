@@ -364,9 +364,9 @@
 |**2025-05-26**|**Rep3D: Re-parameterize Large 3D Kernels with Low-Rank Receptive Modeling for Medical Imaging**|Ho Hin Lee et.al.|[2505.19603](http://arxiv.org/abs/2505.19603)|null|
 |**2025-05-26**|**Aggregated Structural Representation with Large Language Models for Human-Centric Layout Generation**|Jiongchao Jin et.al.|[2505.19554](http://arxiv.org/abs/2505.19554)|null|
 |**2025-05-25**|**A Smart Healthcare System for Monkeypox Skin Lesion Detection and Tracking**|Huda Alghoraibi et.al.|[2505.19023](http://arxiv.org/abs/2505.19023)|null|
-|**2025-05-27**|**CDPDNet: Integrating Text Guidance with Hybrid Vision Encoders for Medical Image Segmentation**|Jiong Wu et.al.|[2505.18958](http://arxiv.org/abs/2505.18958)|null|
+|**2025-05-27**|**CDPDNet: Integrating Text Guidance with Hybrid Vision Encoders for Medical Image Segmentation**|Jiong Wu et.al.|[2505.18958](http://arxiv.org/abs/2505.18958)|**[link](https://github.com/wujiong-hub/cdpdnet)**|
 |**2025-05-24**|**SW-ViT: A Spatio-Temporal Vision Transformer Network with Post Denoiser for Sequential Multi-Push Ultrasound Shear Wave Elastography**|Ahsan Habib Akash et.al.|[2505.18865](http://arxiv.org/abs/2505.18865)|null|
-|**2025-05-27**|**Geometry Aware Operator Transformer as an Efficient and Accurate Neural Surrogate for PDEs on Arbitrary Domains**|Shizheng Wen et.al.|[2505.18781](http://arxiv.org/abs/2505.18781)|null|
+|**2025-05-27**|**Geometry Aware Operator Transformer as an Efficient and Accurate Neural Surrogate for PDEs on Arbitrary Domains**|Shizheng Wen et.al.|[2505.18781](http://arxiv.org/abs/2505.18781)|**[link](https://github.com/camlab-ethz/gaot)**|
 |**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051](http://arxiv.org/abs/2505.18051)|null|
 |**2025-05-23**|**Stochastic Weight Sharing for Bayesian Neural Networks**|Moule Lin et.al.|[2505.17856](http://arxiv.org/abs/2505.17856)|null|
 |**2025-05-23**|**An Attention Infused Deep Learning System with Grad-CAM Visualization for Early Screening of Glaucoma**|Ramanathan Swaminathan et.al.|[2505.17808](http://arxiv.org/abs/2505.17808)|null|
@@ -452,7 +452,7 @@
 |**2025-05-01**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
 |**2025-04-29**|**Large-scale artificial intelligence with 41 million nanophotonic neurons on a metasurface**|Mingcheng Luo et.al.|[2504.20416](http://arxiv.org/abs/2504.20416)|null|
 |**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
-|**2025-04-28**|**Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video**|Sonia Joseph et.al.|[2504.19475](http://arxiv.org/abs/2504.19475)|null|
+|**2025-04-28**|**Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video**|Sonia Joseph et.al.|[2504.19475](http://arxiv.org/abs/2504.19475)|**[link](https://github.com/prisma-multimodal/vit-prisma)**|
 |**2025-04-28**|**GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability**|Sehyeong Jo et.al.|[2504.19414](http://arxiv.org/abs/2504.19414)|null|
 |**2025-04-27**|**MERA: Multimodal and Multiscale Self-Explanatory Model with Considerably Reduced Annotation for Lung Nodule Diagnosis**|Jiahao Lu et.al.|[2504.19357](http://arxiv.org/abs/2504.19357)|null|
 |**2025-04-27**|**TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks**|Mohammad M Maheri et.al.|[2504.19274](http://arxiv.org/abs/2504.19274)|**[link](https://github.com/mammadmaheri7/TeleSparseRepo)**|
@@ -606,7 +606,7 @@
 |**2025-03-19**|**Bridging the Gap: Fusing CNNs and Transformers to Decode the Elegance of Handwritten Arabic Script**|Chaouki Boufenar et.al.|[2503.15023](http://arxiv.org/abs/2503.15023)|null|
 |**2025-03-19**|**A Novel Channel Boosted Residual CNN-Transformer with Regional-Boundary Learning for Breast Cancer Detection**|Aamir Mehmood et.al.|[2503.15008](http://arxiv.org/abs/2503.15008)|null|
 |**2025-03-18**|**LipShiFT: A Certifiably Robust Shift-based Vision Transformer**|Rohan Menon et.al.|[2503.14751](http://arxiv.org/abs/2503.14751)|null|
-|**2025-03-18**|**Dynamic Accumulated Attention Map for Interpreting Evolution of Decision-Making in Vision Transformer**|Yi Liao et.al.|[2503.14640](http://arxiv.org/abs/2503.14640)|null|
+|**2025-03-18**|**Dynamic Accumulated Attention Map for Interpreting Evolution of Decision-Making in Vision Transformer**|Yi Liao et.al.|[2503.14640](http://arxiv.org/abs/2503.14640)|**[link](https://github.com/ly9802/DynamicAccumulatedAttentionMap)**|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-18**|**TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection**|Qiang Qi et.al.|[2503.13903](http://arxiv.org/abs/2503.13903)|null|
 |**2025-03-18**|**Text-Guided Image Invariant Feature Learning for Robust Image Watermarking**|Muhammad Ahtesham et.al.|[2503.13805](http://arxiv.org/abs/2503.13805)|null|
@@ -1276,7 +1276,7 @@
 |**2024-08-12**|**Advanced Vision Transformers and Open-Set Learning for Robust Mosquito Classification: A Novel Approach to Entomological Studies**|Ahmed Akib Jawad Karim et.al.|[2408.06457](http://arxiv.org/abs/2408.06457)|null|
 |**2024-08-12**|**Self-Supervised Learning on MeerKAT Wide-Field Continuum Images**|Erica Lastufka et.al.|[2408.06147](http://arxiv.org/abs/2408.06147)|**[link](https://github.com/elastufka/mgcls_dino)**|
 |**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
-|**2024-08-11**|**LaWa: Using Latent Space for In-Generation Image Watermarking**|Ahmad Rezaei et.al.|[2408.05868](http://arxiv.org/abs/2408.05868)|null|
+|**2024-08-11**|**LaWa: Using Latent Space for In-Generation Image Watermarking**|Ahmad Rezaei et.al.|[2408.05868](http://arxiv.org/abs/2408.05868)|**[link](https://github.com/vbdi/LaWa)**|
 |**2024-08-11**|**HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training**|Fenghe Tang et.al.|[2408.05815](http://arxiv.org/abs/2408.05815)|**[link](https://github.com/fenghetan9/hyspark)**|
 |**2024-08-11**|**Disposable-key-based image encryption for collaborative learning of Vision Transformer**|Rei Aso et.al.|[2408.05737](http://arxiv.org/abs/2408.05737)|null|
 |**2024-08-11**|**MacFormer: Semantic Segmentation with Fine Object Boundaries**|Guoan Xu et.al.|[2408.05699](http://arxiv.org/abs/2408.05699)|null|
@@ -2183,14 +2183,14 @@
 |**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
 |**2025-05-28**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325](http://arxiv.org/abs/2505.21325)|null|
 |**2025-05-27**|**Sci-Fi: Symmetric Constraint for Frame Inbetweening**|Liuhan Chen et.al.|[2505.21205](http://arxiv.org/abs/2505.21205)|null|
-|**2025-05-27**|**Minute-Long Videos with Dual Parallelisms**|Zeqing Wang et.al.|[2505.21070](http://arxiv.org/abs/2505.21070)|null|
+|**2025-05-27**|**Minute-Long Videos with Dual Parallelisms**|Zeqing Wang et.al.|[2505.21070](http://arxiv.org/abs/2505.21070)|**[link](https://github.com/dualparal-project/dualparal)**|
 |**2025-05-27**|**ISAC: Training-Free Instance-to-Semantic Attention Control for Improving Multi-Instance Generation**|Sanghyun Jo et.al.|[2505.20935](http://arxiv.org/abs/2505.20935)|null|
 |**2025-05-27**|**Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training**|Bolin Lai et.al.|[2505.20629](http://arxiv.org/abs/2505.20629)|null|
 |**2025-05-28**|**DIPO: Dual-State Images Controlled Articulated Object Generation Powered by Diverse Data**|Ruiqi Wu et.al.|[2505.20460](http://arxiv.org/abs/2505.20460)|null|
 |**2025-05-26**|**ART-DECO: Arbitrary Text Guidance for 3D Detailizer Construction**|Qimin Chen et.al.|[2505.20431](http://arxiv.org/abs/2505.20431)|null|
 |**2025-05-26**|**AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models**|Muyao Niu et.al.|[2505.20255](http://arxiv.org/abs/2505.20255)|**[link](https://github.com/myniuuu/anicrafter)**|
 |**2025-05-26**|**Long-Context State-Space Video World Models**|Ryan Po et.al.|[2505.20171](http://arxiv.org/abs/2505.20171)|null|
-|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
+|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|**[link](https://github.com/hellozicky/ppad)**|
 |**2025-05-26**|**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space**|Yong Liu et.al.|[2505.19958](http://arxiv.org/abs/2505.19958)|null|
 |**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
 |**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Yuhui Chen et.al.|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
@@ -2198,9 +2198,9 @@
 |**2025-05-26**|**The Role of Video Generation in Enhancing Data-Limited Action Understanding**|Wei Li et.al.|[2505.19495](http://arxiv.org/abs/2505.19495)|null|
 |**2025-05-25**|**Enhancing Text-to-Image Diffusion Transformer via Split-Text Conditioning**|Yu Zhang et.al.|[2505.19261](http://arxiv.org/abs/2505.19261)|null|
 |**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
-|**2025-05-24**|**VORTA: Efficient Video Diffusion via Routing Sparse Attention**|Wenhao Sun et.al.|[2505.18809](http://arxiv.org/abs/2505.18809)|null|
+|**2025-05-24**|**VORTA: Efficient Video Diffusion via Routing Sparse Attention**|Wenhao Sun et.al.|[2505.18809](http://arxiv.org/abs/2505.18809)|**[link](https://github.com/wenhao728/vorta)**|
 |**2025-05-24**|**StyleGuard: Preventing Text-to-Image-Model-based Style Mimicry Attacks by Style Perturbations**|Yanjie Li et.al.|[2505.18766](http://arxiv.org/abs/2505.18766)|null|
-|**2025-05-23**|**Diffusion Classifiers Understand Compositionality, but Conditions Apply**|Yujin Jeong et.al.|[2505.17955](http://arxiv.org/abs/2505.17955)|null|
+|**2025-05-23**|**Diffusion Classifiers Understand Compositionality, but Conditions Apply**|Yujin Jeong et.al.|[2505.17955](http://arxiv.org/abs/2505.17955)|**[link](https://github.com/eugene6923/diffusion-classifiers-compositionality)**|
 |**2025-05-23**|**Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model**|Kwanyoung Kim et.al.|[2505.17561](http://arxiv.org/abs/2505.17561)|null|
 |**2025-05-23**|**T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models**|Xiaoyu Ye et.al.|[2505.17550](http://arxiv.org/abs/2505.17550)|null|
 |**2025-05-23**|**Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey**|Preeti Lamba et.al.|[2505.17352](http://arxiv.org/abs/2505.17352)|null|
@@ -2208,7 +2208,7 @@
 |**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|**[link](https://github.com/dvlab-research/jenga)**|
 |**2025-05-22**|**M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion**|Nina Shvetsova et.al.|[2505.16565](http://arxiv.org/abs/2505.16565)|null|
 |**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
-|**2025-05-22**|**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution**|Zheng Chen et.al.|[2505.16239](http://arxiv.org/abs/2505.16239)|null|
+|**2025-05-22**|**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution**|Zheng Chen et.al.|[2505.16239](http://arxiv.org/abs/2505.16239)|**[link](https://github.com/zhengchen1999/dove)**|
 |**2025-05-21**|**Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models**|Die Chen et.al.|[2505.15450](http://arxiv.org/abs/2505.15450)|null|
 |**2025-05-17**|**DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance**|Xuan Shen et.al.|[2505.14708](http://arxiv.org/abs/2505.14708)|**[link](https://github.com/shawnricecake/draft-attention)**|
 |**2025-05-20**|**Vid2World: Crafting Video Diffusion Models to Interactive World Models**|Siqiao Huang et.al.|[2505.14357](http://arxiv.org/abs/2505.14357)|null|
@@ -2484,7 +2484,7 @@
 |**2025-02-03**|**VILP: Imitation Learning with Latent Video Planning**|Zhengtong Xu et.al.|[2502.01784](http://arxiv.org/abs/2502.01784)|**[link](https://github.com/zhengtongxu/vilp)**|
 |**2025-02-03**|**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**|Haocheng Xi et.al.|[2502.01776](http://arxiv.org/abs/2502.01776)|null|
 |**2025-02-02**|**Strengthening Generative Robot Policies through Predictive World Modeling**|Han Qi et.al.|[2502.00622](http://arxiv.org/abs/2502.00622)|null|
-|**2025-02-01**|**CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**|Xinle Cheng et.al.|[2502.00433](http://arxiv.org/abs/2502.00433)|null|
+|**2025-02-01**|**CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**|Xinle Cheng et.al.|[2502.00433](http://arxiv.org/abs/2502.00433)|**[link](https://github.com/ada-cheng/cat-pruning)**|
 |**2025-01-31**|**Consistent Video Colorization via Palette Guidance**|Han Wang et.al.|[2501.19331](http://arxiv.org/abs/2501.19331)|null|
 |**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
 |**2025-01-31**|**OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation**|Yuchen Lin et.al.|[2501.18982](http://arxiv.org/abs/2501.18982)|null|
@@ -2614,7 +2614,7 @@
 |**2024-12-06**|**MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance**|Hidir Yesiltepe et.al.|[2412.05355](http://arxiv.org/abs/2412.05355)|null|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275](http://arxiv.org/abs/2412.05275)|null|
 |**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263](http://arxiv.org/abs/2412.05263)|null|
-|**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|null|
+|**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|**[link](https://github.com/taco-group/sleepermark)**|
 |**2024-12-06**|**Unsupervised Segmentation by Diffusing, Walking and Cutting**|Daniela Ivanova et.al.|[2412.04678](http://arxiv.org/abs/2412.04678)|null|
 |**2024-12-05**|**4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion**|Chaoyang Wang et.al.|[2412.04462](http://arxiv.org/abs/2412.04462)|null|
 |**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
