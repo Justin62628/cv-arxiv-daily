@@ -41,6 +41,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**YOND: Practical Blind Raw Image Denoising Free from Camera-Specific Data Dependency**|Hansen Feng et.al.|[2506.03645](http://arxiv.org/abs/2506.03645)|null|
 |**2025-06-03**|**Unrolling Nonconvex Graph Total Variation for Image Denoising**|Songlin Wei et.al.|[2506.02381](http://arxiv.org/abs/2506.02381)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 |**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|null|
@@ -335,6 +336,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918](http://arxiv.org/abs/2506.03918)|null|
+|**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885](http://arxiv.org/abs/2506.03885)|null|
+|**2025-06-03**|**Hybrid Ensemble of Segmentation-Assisted Classification and GBDT for Skin Cancer Detection with Engineered Metadata and Synthetic Lesions from ISIC 2024 Non-Dermoscopic 3D-TBP Images**|Muhammad Zubair Hasan et.al.|[2506.03420](http://arxiv.org/abs/2506.03420)|null|
+|**2025-06-03**|**Semiconductor SEM Image Defect Classification Using Supervised and Semi-Supervised Learning with Vision Transformers**|Chien-Fu et.al.|[2506.03345](http://arxiv.org/abs/2506.03345)|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143](http://arxiv.org/abs/2506.03143)|null|
 |**2025-06-03**|**Revisiting Continuity of Image Tokens for Cross-domain Few-shot Learning**|Shuai Yi et.al.|[2506.03110](http://arxiv.org/abs/2506.03110)|null|
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096](http://arxiv.org/abs/2506.03096)|null|
@@ -2174,6 +2180,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
+|**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
+|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation**|Cheng Zhang et.al.|[2506.03652](http://arxiv.org/abs/2506.03652)|null|
+|**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
+|**2025-06-03**|**Robustness in Both Domains: CLIP Needs a Robust Text Encoder**|Elias Abad Rocamora et.al.|[2506.03355](http://arxiv.org/abs/2506.03355)|null|
 |**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
 |**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
