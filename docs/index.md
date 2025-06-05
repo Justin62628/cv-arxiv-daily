@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**High Light-Efficiency Holographic Tomographic Volumetric Additive Manufacturing using a MEMS-based Phase-only Light Modulator**|Maria Isabel Álvarez-Castaño et.al.|[2506.02578](http://arxiv.org/abs/2506.02578)|null|
 |**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
 |**2025-02-07**|**Phase Transitions with Coupled Lasers Array, PhD Research Summary**|Simon Mahler et.al.|[2502.04768](http://arxiv.org/abs/2502.04768)|null|
 |**2024-12-24**|**SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation**|Xuran Hu et.al.|[2412.18121](http://arxiv.org/abs/2412.18121)|null|
@@ -40,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Unrolling Nonconvex Graph Total Variation for Image Denoising**|Songlin Wei et.al.|[2506.02381](http://arxiv.org/abs/2506.02381)|null|
+|**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
 |**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|null|
 |**2025-05-30**|**Optimal Density Functions for Weighted Convolution in Learning Models**|Simone Cammarasana et.al.|[2505.24527](http://arxiv.org/abs/2505.24527)|null|
 |**2025-05-30**|**STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising**|Jingjing Liu et.al.|[2505.24327](http://arxiv.org/abs/2505.24327)|null|
@@ -332,6 +335,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143](http://arxiv.org/abs/2506.03143)|null|
+|**2025-06-03**|**Revisiting Continuity of Image Tokens for Cross-domain Few-shot Learning**|Shuai Yi et.al.|[2506.03110](http://arxiv.org/abs/2506.03110)|null|
+|**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096](http://arxiv.org/abs/2506.03096)|null|
+|**2025-06-03**|**Pan-Arctic Permafrost Landform and Human-built Infrastructure Feature Detection with Vision Transformers and Location Embeddings**|Amal S. Perera et.al.|[2506.02868](http://arxiv.org/abs/2506.02868)|null|
+|**2025-06-03**|**Random Registers for Cross-Domain Few-Shot Learning**|Shuai Yi et.al.|[2506.02843](http://arxiv.org/abs/2506.02843)|null|
+|**2025-06-03**|**Multi-modal brain MRI synthesis based on SwinUNETR**|Haowen Pang et.al.|[2506.02467](http://arxiv.org/abs/2506.02467)|null|
+|**2025-06-03**|**Video-Level Language-Driven Video-Based Visible-Infrared Person Re-Identification**|Shuang Li et.al.|[2506.02439](http://arxiv.org/abs/2506.02439)|null|
+|**2025-06-03**|**ViTNF: Leveraging Neural Fields to Boost Vision Transformers in Generalized Category Discovery**|Jiayi Su et.al.|[2506.02367](http://arxiv.org/abs/2506.02367)|null|
+|**2025-06-02**|**Speed-up of Vision Transformer Models by Attention-aware Token Filtering**|Takahiro Naruko et.al.|[2506.01519](http://arxiv.org/abs/2506.01519)|null|
+|**2025-06-02**|**SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition**|Yiping Li et.al.|[2506.01471](http://arxiv.org/abs/2506.01471)|null|
 |**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866](http://arxiv.org/abs/2505.24866)|null|
 |**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411](http://arxiv.org/abs/2505.24411)|null|
 |**2025-05-30**|**Leveraging Intermediate Features of Vision Transformer for Face Anti-Spoofing**|Mika Feng et.al.|[2505.24402](http://arxiv.org/abs/2505.24402)|null|
@@ -2161,6 +2174,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004](http://arxiv.org/abs/2506.03004)|null|
+|**2025-06-03**|**FlexPainter: Flexible and Multi-View Consistent Texture Generation**|Dongyu Yan et.al.|[2506.02620](http://arxiv.org/abs/2506.02620)|null|
+|**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
+|**2025-06-03**|**LumosFlow: Motion-Guided Long Video Generation**|Jiahao Chen et.al.|[2506.02497](http://arxiv.org/abs/2506.02497)|null|
+|**2025-06-02**|**Motion aware video generative model**|Bowen Xue et.al.|[2506.02244](http://arxiv.org/abs/2506.02244)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation**|Yang-Tian Sun et.al.|[2505.24521](http://arxiv.org/abs/2505.24521)|null|
 |**2025-06-03**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
@@ -3390,6 +3413,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
