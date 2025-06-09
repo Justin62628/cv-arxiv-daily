@@ -375,7 +375,7 @@
 |**2025-06-03**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
 |**2025-05-29**|**Differential Gated Self-Attention**|Elpiniki Maria Lygizou et.al.|[2505.24054](http://arxiv.org/abs/2505.24054)|null|
 |**2025-05-29**|**MangoLeafViT: Leveraging Lightweight Vision Transformer with Runtime Augmentation for Efficient Mango Leaf Disease Classification**|Rafi Hassan Chowdhury et.al.|[2505.23961](http://arxiv.org/abs/2505.23961)|null|
-|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
+|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|**[link](https://github.com/noahsark/da-vpt)**|
 |**2025-05-29**|**LeMoRe: Learn More Details for Lightweight Semantic Segmentation**|Mian Muhammad Naeem Abid et.al.|[2505.23093](http://arxiv.org/abs/2505.23093)|**[link](https://github.com/miannaeem-lab/lemore)**|
 |**2025-05-29**|**Deep Modeling and Optimization of Medical Image Classification**|Yihang Wu et.al.|[2505.23040](http://arxiv.org/abs/2505.23040)|**[link](https://github.com/aipmlab/skincancersimulation)**|
 |**2025-05-28**|**Distance Transform Guided Mixup for Alzheimer's Detection**|Zobia Batool et.al.|[2505.22434](http://arxiv.org/abs/2505.22434)|null|
@@ -1609,7 +1609,7 @@
 |**2024-05-06**|**Class-relevant Patch Embedding Selection for Few-Shot Image Classification**|Weihao Jiang et.al.|[2405.03722](http://arxiv.org/abs/2405.03722)|null|
 |**2024-05-06**|**Intra-task Mutual Attention based Vision Transformer for Few-Shot Learning**|Weihao Jiang et.al.|[2405.03109](http://arxiv.org/abs/2405.03109)|null|
 |**2024-05-06**|**Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition**|Xitong Zhang et.al.|[2405.03089](http://arxiv.org/abs/2405.03089)|**[link](https://github.com/xitongsystem/lorita)**|
-|**2024-05-05**|**MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging**|Chaojie Zhang et.al.|[2405.02784](http://arxiv.org/abs/2405.02784)|null|
+|**2024-05-05**|**MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging**|Chaojie Zhang et.al.|[2405.02784](http://arxiv.org/abs/2405.02784)|**[link](https://github.com/denizlab/mr-transformer)**|
 |**2024-05-04**|**Boosting 3D Neuron Segmentation with 2D Vision Transformer Pre-trained on Natural Images**|Yik San Cheng et.al.|[2405.02686](http://arxiv.org/abs/2405.02686)|null|
 |**2024-05-04**|**ViTALS: Vision Transformer for Action Localization in Surgical Nephrectomy**|Soumyadeep Chandra et.al.|[2405.02571](http://arxiv.org/abs/2405.02571)|null|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246](http://arxiv.org/abs/2405.02246)|null|
@@ -2265,7 +2265,7 @@
 |**2025-05-24**|**StyleGuard: Preventing Text-to-Image-Model-based Style Mimicry Attacks by Style Perturbations**|Yanjie Li et.al.|[2505.18766](http://arxiv.org/abs/2505.18766)|null|
 |**2025-05-23**|**Diffusion Classifiers Understand Compositionality, but Conditions Apply**|Yujin Jeong et.al.|[2505.17955](http://arxiv.org/abs/2505.17955)|**[link](https://github.com/eugene6923/diffusion-classifiers-compositionality)**|
 |**2025-05-23**|**Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model**|Kwanyoung Kim et.al.|[2505.17561](http://arxiv.org/abs/2505.17561)|null|
-|**2025-05-23**|**T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models**|Xiaoyu Ye et.al.|[2505.17550](http://arxiv.org/abs/2505.17550)|null|
+|**2025-05-23**|**T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models**|Xiaoyu Ye et.al.|[2505.17550](http://arxiv.org/abs/2505.17550)|**[link](https://github.com/vdigpku/t2vunlearning)**|
 |**2025-05-23**|**Alignment and Safety of Diffusion Models via Reinforcement Learning and Reward Modeling: A Survey**|Preeti Lamba et.al.|[2505.17352](http://arxiv.org/abs/2505.17352)|null|
 |**2025-05-22**|**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**|Zhehao Huang et.al.|[2505.16875](http://arxiv.org/abs/2505.16875)|null|
 |**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|**[link](https://github.com/dvlab-research/jenga)**|
