@@ -348,6 +348,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-08**|**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**|Yanting Gao et.al.|[2506.06992](http://arxiv.org/abs/2506.06992)|null|
+|**2025-06-07**|**Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis**|Wafaa Kasri et.al.|[2506.06886](http://arxiv.org/abs/2506.06886)|null|
+|**2025-06-05**|**Exploring Adversarial Watermarking in Transformer-Based Models: Transferability and Robustness Against Defense Mechanism for Medical Images**|Rifat Sadik et.al.|[2506.06389](http://arxiv.org/abs/2506.06389)|null|
 |**2025-06-06**|**SatelliteFormula: Multi-Modal Symbolic Regression from Remote Sensing Imagery for Physics Discovery**|Zhenyu Yu et.al.|[2506.06176](http://arxiv.org/abs/2506.06176)|null|
 |**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
 |**2025-06-05**|**Conformal Prediction Adaptive to Unknown Subpopulation Shifts**|Nien-Shao Wang et.al.|[2506.05583](http://arxiv.org/abs/2506.05583)|null|
@@ -2203,6 +2207,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
+|**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
+|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998](http://arxiv.org/abs/2506.07998)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**Video Unlearning via Low-Rank Refusal Vector**|Simone Facchiano et.al.|[2506.07891](http://arxiv.org/abs/2506.07891)|null|
+|**2025-06-09**|**Consistent Video Editing as Flow-Driven Image-to-Video Generation**|Ge Wang et.al.|[2506.07713](http://arxiv.org/abs/2506.07713)|null|
+|**2025-06-09**|**NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation**|Yuxiao Yang et.al.|[2506.07698](http://arxiv.org/abs/2506.07698)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-08**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
+|**2025-06-08**|**Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models**|Sangwon Jang et.al.|[2506.07177](http://arxiv.org/abs/2506.07177)|null|
 |**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199](http://arxiv.org/abs/2506.06199)|null|
 |**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
 |**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
@@ -3460,6 +3474,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
+|**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
+|**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-06**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
 |**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|**[link](https://github.com/bigcileng/bilateral-driving)**|
