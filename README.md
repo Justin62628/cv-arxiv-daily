@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2022-05-31**|**SAR Despeckling Using Overcomplete Convolutional Networks**|Malsha V. Perera et.al.|[2205.15906](http://arxiv.org/abs/2205.15906)|**[link](https://github.com/malshav/sar_overcomplete)**|
 |**2022-01-23**|**Transformer-based SAR Image Despeckling**|Malsha V. Perera et.al.|[2201.09355](http://arxiv.org/abs/2201.09355)|**[link](https://github.com/malshav/sar_transformer)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Denoise
 
@@ -54,9 +54,9 @@
 |**2025-06-04**|**YOND: Practical Blind Raw Image Denoising Free from Camera-Specific Data Dependency**|Hansen Feng et.al.|[2506.03645](http://arxiv.org/abs/2506.03645)|null|
 |**2025-06-03**|**Unrolling Nonconvex Graph Total Variation for Image Denoising**|Songlin Wei et.al.|[2506.02381](http://arxiv.org/abs/2506.02381)|null|
 |**2025-06-03**|**A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer**|Liang Li et.al.|[2506.02364](http://arxiv.org/abs/2506.02364)|null|
-|**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|null|
-|**2025-05-30**|**Optimal Density Functions for Weighted Convolution in Learning Models**|Simone Cammarasana et.al.|[2505.24527](http://arxiv.org/abs/2505.24527)|null|
-|**2025-05-30**|**STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising**|Jingjing Liu et.al.|[2505.24327](http://arxiv.org/abs/2505.24327)|null|
+|**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](http://arxiv.org/abs/2505.24558)|**[link](https://github.com/cammarasana123/weightedconvolution2.0)**|
+|**2025-05-30**|**Optimal Density Functions for Weighted Convolution in Learning Models**|Simone Cammarasana et.al.|[2505.24527](http://arxiv.org/abs/2505.24527)|**[link](https://github.com/cammarasana123/weightedconvolution)**|
+|**2025-05-30**|**STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising**|Jingjing Liu et.al.|[2505.24327](http://arxiv.org/abs/2505.24327)|**[link](https://github.com/jason011212/star-net)**|
 |**2025-05-24**|**Image denoising as a conditional expectation**|Sajal Chakroborty et.al.|[2505.21546](http://arxiv.org/abs/2505.21546)|null|
 |**2025-05-23**|**CIM-NET: A Video Denoising Deep Neural Network Model Optimized for Computing-in-Memory Architectures**|Shan Gao et.al.|[2505.21522](http://arxiv.org/abs/2505.21522)|null|
 |**2025-05-26**|**MotionPro: A Precise Motion Controller for Image-to-Video Generation**|Zhongwei Zhang et.al.|[2505.20287](http://arxiv.org/abs/2505.20287)|null|
@@ -342,12 +342,15 @@
 |**2023-10-13**|**ViTs are Everywhere: A Comprehensive Study Showcasing Vision Transformers in Different Domain**|Md Sohag Mia et.al.|[2310.05664](http://arxiv.org/abs/2310.05664)|null|
 |**2023-10-05**|**Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models**|Marien Renaud et.al.|[2310.03546](http://arxiv.org/abs/2310.03546)|**[link](https://github.com/marien-renaud/pnp_ula_posterior_law_sensivity)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**SatelliteFormula: Multi-Modal Symbolic Regression from Remote Sensing Imagery for Physics Discovery**|Zhenyu Yu et.al.|[2506.06176](http://arxiv.org/abs/2506.06176)|null|
+|**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
+|**2025-06-05**|**Conformal Prediction Adaptive to Unknown Subpopulation Shifts**|Nien-Shao Wang et.al.|[2506.05583](http://arxiv.org/abs/2506.05583)|null|
 |**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286](http://arxiv.org/abs/2506.05286)|null|
 |**2025-06-05**|**Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis**|Neeraj Kumar et.al.|[2506.05184](http://arxiv.org/abs/2506.05184)|null|
 |**2025-06-05**|**Interpretable Multimodal Framework for Human-Centered Street Assessment: Integrating Visual-Language Models for Perceptual Urban Diagnostics**|HaoTian Lan et.al.|[2506.05087](http://arxiv.org/abs/2506.05087)|null|
@@ -2194,15 +2197,20 @@
 |**2023-10-21**|**Concept-based Anomaly Detection in Retail Stores for Automatic Correction using Mobile Robots**|Aditya Kapoor et.al.|[2310.14063](http://arxiv.org/abs/2310.14063)|null|
 |**2023-10-21**|**Ophthalmic Biomarker Detection Using Ensembled Vision Transformers -- Winning Solution to IEEE SPS VIP Cup 2023**|H. A. Z. Sameen Shahgir et.al.|[2310.14005](http://arxiv.org/abs/2310.14005)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199](http://arxiv.org/abs/2506.06199)|null|
+|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
+|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
+|**2025-06-06**|**FontAdapter: Instant Font Adaptation in Visual Text Generation**|Myungkyu Koo et.al.|[2506.05843](http://arxiv.org/abs/2506.05843)|null|
+|**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning**|Yue Ma et.al.|[2506.05207](http://arxiv.org/abs/2506.05207)|null|
 |**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204](http://arxiv.org/abs/2506.05204)|**[link](https://github.com/Yanbo-23/OGGSplat)**|
-|**2025-06-06**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
+|**2025-06-09**|**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers**|Haosong Liu et.al.|[2506.05096](http://arxiv.org/abs/2506.05096)|null|
 |**2025-06-06**|**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**|Akide Liu et.al.|[2506.04648](http://arxiv.org/abs/2506.04648)|null|
 |**2025-06-04**|**HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting**|Maksym Ivashechkin et.al.|[2506.04351](http://arxiv.org/abs/2506.04351)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
@@ -3446,14 +3454,15 @@
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
-|**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
+|**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
+|**2025-06-06**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
+|**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|**[link](https://github.com/bigcileng/bilateral-driving)**|
 |**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
 |**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
@@ -4536,7 +4545,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|**[link](https://github.com/seoha-kim/Sync-NeRF)**|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
