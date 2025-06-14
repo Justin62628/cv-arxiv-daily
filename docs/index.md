@@ -347,7 +347,7 @@ layout: default
 |**2025-06-11**|**Retrieval of Surface Solar Radiation through Implicit Albedo Recovery from Temporal Context**|Yael Frischholz et.al.|[2506.10174](http://arxiv.org/abs/2506.10174)|null|
 |**2025-06-11**|**Detecção da Psoríase Utilizando Visão Computacional: Uma Abordagem Comparativa Entre CNNs e Vision Transformers**|Natanael Lucena et.al.|[2506.10119](http://arxiv.org/abs/2506.10119)|null|
 |**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
-|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|null|
+|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|**[link](https://github.com/rohban-lab/patchgaurd)**|
 |**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
 |**2025-06-10**|**Cross-Spectral Body Recognition with Side Information Embedding: Benchmarks on LLCM and Analyzing Range-Induced Occlusions on IJB-MDF**|Anirudh Nanduri et.al.|[2506.08953](http://arxiv.org/abs/2506.08953)|null|
 |**2025-06-10**|**Inherently Faithful Attention Maps for Vision Transformers**|Ananthu Aniraj et.al.|[2506.08915](http://arxiv.org/abs/2506.08915)|null|
