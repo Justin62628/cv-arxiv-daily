@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -338,7 +338,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-12**|**PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis**|Marzieh Oghbaie et.al.|[2506.10669](http://arxiv.org/abs/2506.10669)|null|
+|**2025-06-13**|**PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis**|Marzieh Oghbaie et.al.|[2506.10669](http://arxiv.org/abs/2506.10669)|null|
 |**2025-06-12**|**Rethinking Random Masking in Self Distillation on ViT**|Jihyeon Seong et.al.|[2506.10582](http://arxiv.org/abs/2506.10582)|null|
 |**2025-06-12**|**DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba**|Shicheng Yin et.al.|[2506.10390](http://arxiv.org/abs/2506.10390)|null|
 |**2025-06-12**|**FaceLiVT: Face Recognition using Linear Vision Transformer with Structural Reparameterization For Mobile Device**|Novendra Setyawan et.al.|[2506.10361](http://arxiv.org/abs/2506.10361)|null|
