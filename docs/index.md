@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SAR Despeckling
@@ -344,9 +344,9 @@ layout: default
 |**2025-06-13**|**Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets**|MingZe Tang et.al.|[2506.11678](http://arxiv.org/abs/2506.11678)|null|
 |**2025-06-13**|**FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation**|Zhuguanyu Wu et.al.|[2506.11543](http://arxiv.org/abs/2506.11543)|**[link](https://github.com/shihewang/fima-q)**|
 |**2025-06-12**|**HyBiomass: Global Hyperspectral Imagery Benchmark Dataset for Evaluating Geospatial Foundation Models in Forest Aboveground Biomass Estimation**|Aaron Banze et.al.|[2506.11314](http://arxiv.org/abs/2506.11314)|null|
-|**2025-06-13**|**PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis**|Marzieh Oghbaie et.al.|[2506.10669](http://arxiv.org/abs/2506.10669)|null|
+|**2025-06-13**|**PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis**|Marzieh Oghbaie et.al.|[2506.10669](http://arxiv.org/abs/2506.10669)|**[link](https://github.com/marziehoghbaie/pipvit)**|
 |**2025-06-12**|**Rethinking Random Masking in Self Distillation on ViT**|Jihyeon Seong et.al.|[2506.10582](http://arxiv.org/abs/2506.10582)|null|
-|**2025-06-12**|**DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba**|Shicheng Yin et.al.|[2506.10390](http://arxiv.org/abs/2506.10390)|null|
+|**2025-06-12**|**DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba**|Shicheng Yin et.al.|[2506.10390](http://arxiv.org/abs/2506.10390)|**[link](https://github.com/hcplab-sysu/dart)**|
 |**2025-06-12**|**FaceLiVT: Face Recognition using Linear Vision Transformer with Structural Reparameterization For Mobile Device**|Novendra Setyawan et.al.|[2506.10361](http://arxiv.org/abs/2506.10361)|null|
 |**2025-06-12**|**TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree**|Yu-Yang Qian et.al.|[2506.10355](http://arxiv.org/abs/2506.10355)|null|
 |**2025-06-12**|**Uncertainty-Aware Deep Learning for Automated Skin Cancer Classification: A Comprehensive Evaluation**|Hamzeh Asgharnezhad et.al.|[2506.10302](http://arxiv.org/abs/2506.10302)|null|
@@ -2223,7 +2223,7 @@ layout: default
 |**2025-06-12**|**GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning**|Xiaoyi Bao et.al.|[2506.10639](http://arxiv.org/abs/2506.10639)|null|
 |**2025-06-12**|**Edit360: 2D Image Edits to 3D Assets from Any Angle**|Junchao Huang et.al.|[2506.10507](http://arxiv.org/abs/2506.10507)|null|
 |**2025-06-11**|**SPARKE: Scalable Prompt-Aware Diversity Guidance in Diffusion Models via RKE Score**|Mohammad Jalali et.al.|[2506.10173](http://arxiv.org/abs/2506.10173)|null|
-|**2025-06-11**|**VideoMat: Extracting PBR Materials from Video Diffusion Models**|Jacob Munkberg et.al.|[2506.09665](http://arxiv.org/abs/2506.09665)|null|
+|**2025-06-16**|**VideoMat: Extracting PBR Materials from Video Diffusion Models**|Jacob Munkberg et.al.|[2506.09665](http://arxiv.org/abs/2506.09665)|null|
 |**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
 |**2025-06-10**|**Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models**|Sungwon Hwang et.al.|[2506.09229](http://arxiv.org/abs/2506.09229)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
@@ -3498,8 +3498,8 @@ layout: default
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
-|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
-|**2025-06-11**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|**[link](https://github.com/tuallen/speede3dgs)**|
+|**2025-06-16**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
