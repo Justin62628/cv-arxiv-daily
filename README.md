@@ -349,6 +349,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765](http://arxiv.org/abs/2506.14765)|null|
+|**2025-06-17**|**Busting the Paper Ballot: Voting Meets Adversarial Machine Learning**|Kaleel Mahmood et.al.|[2506.14582](http://arxiv.org/abs/2506.14582)|null|
+|**2025-06-17**|**DepthSeg: Depth prompting in remote sensing semantic segmentation**|Ning Zhou et.al.|[2506.14382](http://arxiv.org/abs/2506.14382)|null|
+|**2025-06-17**|**Direct tensor processing with coherent light**|Yufeng Zhang et.al.|[2506.14277](http://arxiv.org/abs/2506.14277)|null|
+|**2025-06-17**|**SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability**|Juho Bai et.al.|[2506.14144](http://arxiv.org/abs/2506.14144)|null|
+|**2025-06-17**|**Déjà Vu: Efficient Video-Language Query Engine with Learning-based Inter-Frame Computation Reuse**|Jinwoo Hwang et.al.|[2506.14107](http://arxiv.org/abs/2506.14107)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
@@ -2241,6 +2247,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**FRIDU: Functional Map Refinement with Guided Image Diffusion**|Avigail Cohen Rimon et.al.|[2506.14322](http://arxiv.org/abs/2506.14322)|null|
 |**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
 |**2025-06-15**|**iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer**|Zhelun Shen et.al.|[2506.12847](http://arxiv.org/abs/2506.12847)|null|
 |**2025-06-14**|**Performance Plateaus in Inference-Time Scaling for Text-to-Image Diffusion Without External Models**|Changhyun Choi et.al.|[2506.12633](http://arxiv.org/abs/2506.12633)|null|
