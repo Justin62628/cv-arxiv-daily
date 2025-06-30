@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Low-Rank Implicit Neural Representation via Schatten-p Quasi-Norm and Jacobian Regularization**|Zhengyun Cheng et.al.|[2506.22134](http://arxiv.org/abs/2506.22134)|null|
 |**2025-06-24**|**Enhancing Galaxy Classification with U-Net Variational Autoencoders for Image Denoising**|Sergey Mirzoyan et.al.|[2506.19434](http://arxiv.org/abs/2506.19434)|null|
 |**2025-06-19**|**Learning Multi-scale Spatial-frequency Features for Image Denoising**|Xu Zhao et.al.|[2506.16307](http://arxiv.org/abs/2506.16307)|null|
 |**2025-06-18**|**A Real-time Endoscopic Image Denoising System**|Yu Xing et.al.|[2506.15395](http://arxiv.org/abs/2506.15395)|null|
@@ -353,6 +354,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
+|**2025-06-27**|**Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method**|Han Wang et.al.|[2506.22027](http://arxiv.org/abs/2506.22027)|null|
 |**2025-06-26**|**Distributed Cross-Channel Hierarchical Aggregation for Foundation Models**|Aristeidis Tsaris et.al.|[2506.21411](http://arxiv.org/abs/2506.21411)|null|
 |**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046](http://arxiv.org/abs/2506.21046)|null|
 |**2025-06-25**|**U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs**|Racheal Mukisa et.al.|[2506.20689](http://arxiv.org/abs/2506.20689)|null|
@@ -2281,6 +2284,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**TaleForge: Interactive Multimodal System for Personalized Story Creation**|Minh-Loi Nguyen et.al.|[2506.21832](http://arxiv.org/abs/2506.21832)|null|
 |**2025-06-27**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|null|
 |**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
 |**2025-06-27**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
@@ -3590,6 +3597,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields**|Fabian Perez et.al.|[2506.21884](http://arxiv.org/abs/2506.21884)|null|
+|**2025-06-24**|**ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes**|Chenhao Zhang et.al.|[2506.21629](http://arxiv.org/abs/2506.21629)|null|
 |**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
 |**2025-06-24**|**NeRF-based CBCT Reconstruction needs Normalization and Initialization**|Zhuowei Xu et.al.|[2506.19742](http://arxiv.org/abs/2506.19742)|null|
