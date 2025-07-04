@@ -51,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Energy-Based Transformers are Scalable Learners and Thinkers**|Alexi Gladstone et.al.|[2507.02092](http://arxiv.org/abs/2507.02092)|null|
 |**2025-07-02**|**Towards Controllable Real Image Denoising with Camera Parameters**|Youngjin Oh et.al.|[2507.01587](http://arxiv.org/abs/2507.01587)|null|
 |**2025-07-02**|**Parsimonious Gaussian mixture models with piecewise-constant eigenvalue profiles**|Tom Szwagier et.al.|[2507.01542](http://arxiv.org/abs/2507.01542)|null|
 |**2025-06-27**|**Low-Rank Implicit Neural Representation via Schatten-p Quasi-Norm and Jacobian Regularization**|Zhengyun Cheng et.al.|[2506.22134](http://arxiv.org/abs/2506.22134)|null|
@@ -356,6 +357,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MedFormer: Hierarchical Medical Vision Transformer with Content-Aware Dual Sparse Selection Attention**|Zunhui Xia et.al.|[2507.02488](http://arxiv.org/abs/2507.02488)|null|
+|**2025-07-03**|**PhysicsCorrect: A Training-Free Approach for Stable Neural PDE Simulations**|Xinquan Huang et.al.|[2507.02227](http://arxiv.org/abs/2507.02227)|null|
+|**2025-07-03**|**High-Fidelity Differential-information Driven Binary Vision Transformer**|Tian Gao et.al.|[2507.02222](http://arxiv.org/abs/2507.02222)|null|
 |**2025-07-02**|**evMLP: An Efficient Event-Driven MLP Architecture for Vision**|Zhentan Zheng et.al.|[2507.01927](http://arxiv.org/abs/2507.01927)|null|
 |**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
 |**2025-07-02**|**Calibrated Self-supervised Vision Transformers Improve Intracranial Arterial Calcification Segmentation from Clinical CT Head Scans**|Benjamin Jin et.al.|[2507.01744](http://arxiv.org/abs/2507.01744)|null|
@@ -2305,6 +2309,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
+|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-03**|**Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback**|Nina Konovalova et.al.|[2507.02321](http://arxiv.org/abs/2507.02321)|null|
+|**2025-07-03**|**DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation**|Yunhan Yang et.al.|[2507.02299](http://arxiv.org/abs/2507.02299)|null|
 |**2025-07-01**|**DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution**|Zhe Kong et.al.|[2507.01012](http://arxiv.org/abs/2507.01012)|null|
 |**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-07-01**|**OptiPrune: Boosting Prompt-Image Consistency with Attention-Guided Noise and Dynamic Token Selection**|Ziji Lu et.al.|[2507.00789](http://arxiv.org/abs/2507.00789)|null|
