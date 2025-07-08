@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**EdgeSRIE: A hybrid deep learning framework for real-time speckle reduction and image enhancement on portable ultrasound systems**|Hyunwoo Cho et.al.|[2507.03937](http://arxiv.org/abs/2507.03937)|null|
 |**2025-06-20**|**A Hybrid Zernike-Lyapunov Framework for Aberration-Based Statistical Wavefront Reconstruction of Chaotic Optical Surfaces**|Netzer Moriya et.al.|[2506.16847](http://arxiv.org/abs/2506.16847)|null|
 |**2025-06-03**|**High Light-Efficiency Holographic Tomographic Volumetric Additive Manufacturing using a MEMS-based Phase-only Light Modulator**|Maria Isabel Álvarez-Castaño et.al.|[2506.02578](http://arxiv.org/abs/2506.02578)|null|
 |**2025-02-21**|**Ultrasound Phase Aberrated Point Spread Function Estimation with Convolutional Neural Network: Simulation Study**|Wei-Hsiang Shen et.al.|[2502.15298](http://arxiv.org/abs/2502.15298)|null|
@@ -357,6 +358,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Comprehensive Information Bottleneck for Unveiling Universal Attribution to Interpret Vision Transformers**|Jung-Ho Hong et.al.|[2507.04388](http://arxiv.org/abs/2507.04388)|null|
+|**2025-07-06**|**Clustering via Self-Supervised Diffusion**|Roy Uziel et.al.|[2507.04283](http://arxiv.org/abs/2507.04283)|null|
+|**2025-07-05**|**PromptSR: Cascade Prompting for Lightweight Image Super-Resolution**|Wenyang Liu et.al.|[2507.04118](http://arxiv.org/abs/2507.04118)|null|
+|**2025-07-05**|**Exploring Kolmogorov-Arnold Network Expansions in Vision Transformers for Mitigating Catastrophic Forgetting in Continual Learning**|Zahid Ullah et.al.|[2507.04020](http://arxiv.org/abs/2507.04020)|null|
+|**2025-07-05**|**Habitat Classification from Ground-Level Imagery Using Deep Neural Networks**|Hongrui Shi et.al.|[2507.04017](http://arxiv.org/abs/2507.04017)|null|
+|**2025-07-04**|**Zero Memory Overhead Approach for Protecting Vision Transformer Parameters**|Fereshteh Baradaran et.al.|[2507.03816](http://arxiv.org/abs/2507.03816)|null|
+|**2025-07-04**|**ChestGPT: Integrating Large Language Models and Vision Transformers for Disease Detection and Localization in Chest X-Rays**|Shehroz S. Khan et.al.|[2507.03739](http://arxiv.org/abs/2507.03739)|null|
+|**2025-07-04**|**NOVO: Unlearning-Compliant Vision Transformers**|Soumya Roy et.al.|[2507.03281](http://arxiv.org/abs/2507.03281)|null|
 |**2025-07-03**|**MedFormer: Hierarchical Medical Vision Transformer with Content-Aware Dual Sparse Selection Attention**|Zunhui Xia et.al.|[2507.02488](http://arxiv.org/abs/2507.02488)|null|
 |**2025-07-03**|**PhysicsCorrect: A Training-Free Approach for Stable Neural PDE Simulations**|Xinquan Huang et.al.|[2507.02227](http://arxiv.org/abs/2507.02227)|null|
 |**2025-07-03**|**High-Fidelity Differential-information Driven Binary Vision Transformer**|Tian Gao et.al.|[2507.02222](http://arxiv.org/abs/2507.02222)|null|
@@ -2309,6 +2318,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
+|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163](http://arxiv.org/abs/2507.05163)|null|
+|**2025-07-07**|**Losing Control: Data Poisoning Attack on Guided Diffusion via ControlNet**|Raz Lapid et.al.|[2507.04726](http://arxiv.org/abs/2507.04726)|null|
+|**2025-07-07**|**ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing**|Zhenghui Zhao et.al.|[2507.04678](http://arxiv.org/abs/2507.04678)|null|
+|**2025-07-07**|**S $^2$ Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control**|Xudong Liu et.al.|[2507.04584](http://arxiv.org/abs/2507.04584)|null|
+|**2025-07-05**|**Interpretable Diffusion Models with B-cos Networks**|Nicola Bernold et.al.|[2507.03846](http://arxiv.org/abs/2507.03846)|null|
+|**2025-07-04**|**LACONIC: A 3D Layout Adapter for Controllable Image Creation**|Léopold Maillard et.al.|[2507.03257](http://arxiv.org/abs/2507.03257)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
 |**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
 |**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
@@ -3637,6 +3653,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
