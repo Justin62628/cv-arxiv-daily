@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828](http://arxiv.org/abs/2507.06828)|null|
 |**2025-07-05**|**EdgeSRIE: A hybrid deep learning framework for real-time speckle reduction and image enhancement on portable ultrasound systems**|Hyunwoo Cho et.al.|[2507.03937](http://arxiv.org/abs/2507.03937)|null|
 |**2025-06-20**|**A Hybrid Zernike-Lyapunov Framework for Aberration-Based Statistical Wavefront Reconstruction of Chaotic Optical Surfaces**|Netzer Moriya et.al.|[2506.16847](http://arxiv.org/abs/2506.16847)|null|
 |**2025-06-03**|**High Light-Efficiency Holographic Tomographic Volumetric Additive Manufacturing using a MEMS-based Phase-only Light Modulator**|Maria Isabel Álvarez-Castaño et.al.|[2506.02578](http://arxiv.org/abs/2506.02578)|null|
@@ -43,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828](http://arxiv.org/abs/2507.06828)|null|
 |**2025-07-07**|**Self-supervised Deep Learning for Denoising in Ultrasound Microvascular Imaging**|Lijie Huang et.al.|[2507.05451](http://arxiv.org/abs/2507.05451)|null|
 |**2025-07-02**|**Energy-Based Transformers are Scalable Learners and Thinkers**|Alexi Gladstone et.al.|[2507.02092](http://arxiv.org/abs/2507.02092)|null|
 |**2025-07-02**|**Towards Controllable Real Image Denoising with Camera Parameters**|Youngjin Oh et.al.|[2507.01587](http://arxiv.org/abs/2507.01587)|null|
@@ -348,6 +350,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
+|**2025-07-09**|**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**|Qiyuan Dai et.al.|[2507.06928](http://arxiv.org/abs/2507.06928)|null|
+|**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848](http://arxiv.org/abs/2507.06848)|null|
+|**2025-07-09**|**QoE Optimization for Semantic Self-Correcting Video Transmission in Multi-UAV Networks**|Xuyang Chen et.al.|[2507.06717](http://arxiv.org/abs/2507.06717)|null|
 |**2025-07-08**|**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**|Murilo Gustineli et.al.|[2507.06093](http://arxiv.org/abs/2507.06093)|null|
 |**2025-07-08**|**Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge**|Xin Wu et.al.|[2507.05992](http://arxiv.org/abs/2507.05992)|null|
 |**2025-07-06**|**Comprehensive Information Bottleneck for Unveiling Universal Attribution to Interpret Vision Transformers**|Jung-Ho Hong et.al.|[2507.04388](http://arxiv.org/abs/2507.04388)|null|
@@ -2308,6 +2315,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
@@ -3647,6 +3657,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
