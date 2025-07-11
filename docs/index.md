@@ -350,6 +350,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Patient-specific vs Multi-Patient Vision Transformer for Markerless Tumor Motion Forecasting**|Gauthier Rotsart de Hertaing et.al.|[2507.07811](http://arxiv.org/abs/2507.07811)|null|
+|**2025-07-10**|**Visual Instance-aware Prompt Tuning**|Xi Xiao et.al.|[2507.07796](http://arxiv.org/abs/2507.07796)|null|
+|**2025-07-10**|**NexViTAD: Few-shot Unsupervised Cross-Domain Defect Detection via Vision Foundation Models and Multi-Task Learning**|Tianwei Mu et.al.|[2507.07579](http://arxiv.org/abs/2507.07579)|null|
 |**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044](http://arxiv.org/abs/2507.07044)|null|
 |**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
 |**2025-07-09**|**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**|Qiyuan Dai et.al.|[2507.06928](http://arxiv.org/abs/2507.06928)|null|
@@ -2315,6 +2318,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-10**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
 |**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
@@ -3657,6 +3661,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
