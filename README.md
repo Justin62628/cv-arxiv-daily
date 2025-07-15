@@ -53,6 +53,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
+|**2025-07-12**|**Image Super-Resolution-Based Signal Enhancement in Bistatic ISAC**|Yi Wang et.al.|[2507.09218](http://arxiv.org/abs/2507.09218)|null|
 |**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828](http://arxiv.org/abs/2507.06828)|null|
 |**2025-07-07**|**Self-supervised Deep Learning for Denoising in Ultrasound Microvascular Imaging**|Lijie Huang et.al.|[2507.05451](http://arxiv.org/abs/2507.05451)|null|
 |**2025-07-02**|**Energy-Based Transformers are Scalable Learners and Thinkers**|Alexi Gladstone et.al.|[2507.02092](http://arxiv.org/abs/2507.02092)|null|
@@ -361,6 +363,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder**|Vladimir Iashin et.al.|[2507.10552](http://arxiv.org/abs/2507.10552)|null|
+|**2025-07-14**|**Improving Remote Sensing Classification using Topological Data Analysis and Convolutional Neural Networks**|Aaryam Sharma et.al.|[2507.10381](http://arxiv.org/abs/2507.10381)|null|
+|**2025-07-14**|**DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology**|Ashkan Shakarami et.al.|[2507.10250](http://arxiv.org/abs/2507.10250)|null|
+|**2025-07-14**|**Cross-modal Associations in Vision and Language Models: Revisiting the bouba-kiki effect**|Tom Kouwenhoven et.al.|[2507.10013](http://arxiv.org/abs/2507.10013)|null|
+|**2025-07-14**|**Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI**|Quentin Dessain et.al.|[2507.09996](http://arxiv.org/abs/2507.09996)|null|
+|**2025-07-13**|**Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI**|Phat Nguyen et.al.|[2507.09702](http://arxiv.org/abs/2507.09702)|null|
+|**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
+|**2025-07-13**|**Brain Stroke Detection and Classification Using CT Imaging with Transformer Models and Explainable AI**|Shomukh Qari et.al.|[2507.09630](http://arxiv.org/abs/2507.09630)|null|
+|**2025-07-13**|**MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression**|Ofir Gordon et.al.|[2507.09616](http://arxiv.org/abs/2507.09616)|null|
+|**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513](http://arxiv.org/abs/2507.09513)|null|
 |**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
 |**2025-07-11**|**Transfer Learning and Mixup for Fine-Grained Few-Shot Fungi Classification**|Jason Kahei Tam et.al.|[2507.08248](http://arxiv.org/abs/2507.08248)|null|
 |**2025-07-10**|**Patient-specific vs Multi-Patient Vision Transformer for Markerless Tumor Motion Forecasting**|Gauthier Rotsart de Hertaing et.al.|[2507.07811](http://arxiv.org/abs/2507.07811)|null|
@@ -2333,6 +2345,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**Memory-Efficient Personalization of Text-to-Image Diffusion Models via Selective Optimization Strategies**|Seokeon Choi et.al.|[2507.10029](http://arxiv.org/abs/2507.10029)|null|
+|**2025-07-13**|**I2I-PR: Deep Iterative Refinement for Phase Retrieval using Image-to-Image Diffusion Models**|Mehmet Onurcan Kaya et.al.|[2507.09609](http://arxiv.org/abs/2507.09609)|null|
+|**2025-07-12**|**Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning**|Yiyang Chen et.al.|[2507.09102](http://arxiv.org/abs/2507.09102)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-10**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
@@ -3678,8 +3694,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
