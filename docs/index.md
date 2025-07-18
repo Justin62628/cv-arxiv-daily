@@ -352,6 +352,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy**|Yiting Yang et.al.|[2507.13260](http://arxiv.org/abs/2507.13260)|null|
+|**2025-07-17**|**DASViT: Differentiable Architecture Search for Vision Transformer**|Pengjin Wu et.al.|[2507.13079](http://arxiv.org/abs/2507.13079)|null|
+|**2025-07-17**|**Multi-Class-Token Transformer for Multitask Self-supervised Music Information Retrieval**|Yuexuan Kong et.al.|[2507.12996](http://arxiv.org/abs/2507.12996)|null|
+|**2025-07-17**|**Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion**|Caixia Dong et.al.|[2507.12938](http://arxiv.org/abs/2507.12938)|null|
+|**2025-07-17**|**A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys**|Yufeng Luo et.al.|[2507.12784](http://arxiv.org/abs/2507.12784)|null|
+|**2025-07-17**|**Compact Vision Transformer by Reduction of Kernel Complexity**|Yancheng Wang et.al.|[2507.12780](http://arxiv.org/abs/2507.12780)|null|
+|**2025-07-17**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Homare Sueyoshi et.al.|[2507.12730](http://arxiv.org/abs/2507.12730)|null|
+|**2025-07-16**|**Pathology-Guided Virtual Staining Metric for Evaluation and Training**|Qiankai Wang et.al.|[2507.12624](http://arxiv.org/abs/2507.12624)|null|
 |**2025-07-16**|**Unit-Based Histopathology Tissue Segmentation via Multi-Level Feature Representation**|Ashkan Shakarami et.al.|[2507.12427](http://arxiv.org/abs/2507.12427)|null|
 |**2025-07-16**|**Hybrid Ensemble Approaches: Optimal Deep Feature Fusion and Hyperparameter-Tuned Classifier Ensembling for Enhanced Brain Tumor Classification**|Zahid Ullah et.al.|[2507.12177](http://arxiv.org/abs/2507.12177)|null|
 |**2025-07-16**|**Fine-Grained Image Recognition from Scratch with Teacher-Guided Data Augmentation**|Edwin Arkel Rios et.al.|[2507.12157](http://arxiv.org/abs/2507.12157)|null|
@@ -2341,6 +2349,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
+|**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646](http://arxiv.org/abs/2507.12646)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
 |**2025-07-16**|**ID-EA: Identity-driven Text Enhancement and Adaptation with Textual Inversion for Personalized Text-to-Image Generation**|Hyun-Jun Jin et.al.|[2507.11990](http://arxiv.org/abs/2507.11990)|null|
