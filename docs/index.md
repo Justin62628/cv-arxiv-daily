@@ -44,6 +44,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**PET Image Reconstruction Using Deep Diffusion Image Prior**|Fumio Hashimoto et.al.|[2507.15078](http://arxiv.org/abs/2507.15078)|null|
+|**2025-07-20**|**Bayesian Inversion via Probabilistic Cellular Automata: an application to image denoising**|Danilo Costarelli et.al.|[2507.14869](http://arxiv.org/abs/2507.14869)|null|
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
 |**2025-07-12**|**Image Super-Resolution-Based Signal Enhancement in Bistatic ISAC**|Yi Wang et.al.|[2507.09218](http://arxiv.org/abs/2507.09218)|null|
 |**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828](http://arxiv.org/abs/2507.06828)|null|
@@ -352,6 +354,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Ian Chuang et.al.|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
+|**2025-07-20**|**FOCUS: Fused Observation of Channels for Unveiling Spectra**|Xi Xiao et.al.|[2507.14787](http://arxiv.org/abs/2507.14787)|null|
+|**2025-07-19**|**Enabling Efficient Hardware Acceleration of Hybrid Vision Transformer (ViT) Networks at the Edge**|Joren Dumoulin et.al.|[2507.14651](http://arxiv.org/abs/2507.14651)|null|
+|**2025-07-19**|**Exp-Graph: How Connections Learn Facial Attributes in Graph-based Expression Recognition**|Nandani Sharma et.al.|[2507.14608](http://arxiv.org/abs/2507.14608)|null|
+|**2025-07-19**|**DFQ-ViT: Data-Free Quantization for Vision Transformers without Fine-tuning**|Yujia Tong et.al.|[2507.14481](http://arxiv.org/abs/2507.14481)|null|
+|**2025-07-18**|**Breaking the Illusion of Security via Interpretation: Interpretable Vision Transformer Systems under Attack**|Eldor Abdukhamidov et.al.|[2507.14248](http://arxiv.org/abs/2507.14248)|null|
 |**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
 |**2025-07-18**|**Safety Certification in the Latent space using Control Barrier Functions and World Models**|Mehul Anand et.al.|[2507.13871](http://arxiv.org/abs/2507.13871)|null|
 |**2025-07-17**|**Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy**|Yiting Yang et.al.|[2507.13260](http://arxiv.org/abs/2507.13260)|null|
@@ -2351,6 +2359,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
+|**2025-07-21**|**CHORDS: Diffusion Sampling Accelerator with Multi-core Hierarchical ODE Solvers**|Jiaqi Han et.al.|[2507.15260](http://arxiv.org/abs/2507.15260)|null|
+|**2025-07-20**|**StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation**|Shuyuan Tu et.al.|[2507.15064](http://arxiv.org/abs/2507.15064)|null|
 |**2025-07-18**|**DiViD: Disentangled Video Diffusion for Static-Dynamic Factorization**|Marzieh Gheisari et.al.|[2507.13934](http://arxiv.org/abs/2507.13934)|null|
 |**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813](http://arxiv.org/abs/2507.13813)|null|
 |**2025-07-18**|**Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning**|Junsu Kim et.al.|[2507.13739](http://arxiv.org/abs/2507.13739)|null|
@@ -3710,6 +3721,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
+|**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-18**|**TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views**|Hsiang-Hui Hung et.al.|[2507.13929](http://arxiv.org/abs/2507.13929)|null|
 |**2025-07-18**|**EPSilon: Efficient Point Sampling for Lightening of Hybrid-based 3D Avatar Generation**|Seungjun Moon et.al.|[2507.13648](http://arxiv.org/abs/2507.13648)|null|
 |**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
