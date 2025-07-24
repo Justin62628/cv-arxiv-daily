@@ -354,6 +354,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Vision Transformer attention alignment with human visual perception in aesthetic object evaluation**|Miguel Carrasco et.al.|[2507.17616](http://arxiv.org/abs/2507.17616)|null|
+|**2025-07-23**|**CLARIFID: Improving Radiology Report Generation by Reinforcing Clinically Accurate Impressions and Enforcing Detailed Findings**|Kyeongkyu Lee et.al.|[2507.17234](http://arxiv.org/abs/2507.17234)|null|
+|**2025-07-23**|**PIG-Nav: Key Insights for Pretrained Image Goal Navigation Models**|Jiansong Wan et.al.|[2507.17220](http://arxiv.org/abs/2507.17220)|null|
+|**2025-07-21**|**Post-Disaster Affected Area Segmentation with a Vision Transformer (ViT)-based EVAP Model using Sentinel-2 and Formosat-5 Imagery**|Yi-Shan Chu et.al.|[2507.16849](http://arxiv.org/abs/2507.16849)|null|
 |**2025-07-22**|**Pixel-Resolved Long-Context Learning for Turbulence at Exascale: Resolving Small-scale Eddies Toward the Viscous Limit**|Junqi Yin et.al.|[2507.16697](http://arxiv.org/abs/2507.16697)|null|
 |**2025-07-22**|**Combined Image Data Augmentations diminish the benefits of Adaptive Label Smoothing**|Georg Siedel et.al.|[2507.16427](http://arxiv.org/abs/2507.16427)|null|
 |**2025-07-22**|**ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference**|Haoyue Zhang et.al.|[2507.16260](http://arxiv.org/abs/2507.16260)|null|
@@ -2363,6 +2367,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-22**|**Finding Dori: Memorization in Text-to-Image Diffusion Models Is Less Local Than Assumed**|Antoni Kowalczuk et.al.|[2507.16880](http://arxiv.org/abs/2507.16880)|null|
+|**2025-07-22**|**Controllable Video Generation: A Survey**|Yue Ma et.al.|[2507.16869](http://arxiv.org/abs/2507.16869)|null|
 |**2025-07-22**|**Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**|Mingtao Guo et.al.|[2507.16341](http://arxiv.org/abs/2507.16341)|null|
 |**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars**|Marcel C. Bühler et.al.|[2507.15979](http://arxiv.org/abs/2507.15979)|null|
@@ -3728,6 +3735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Exploring Active Learning for Label-Efficient Training of Semantic Neural Radiance Field**|Yuzhe Zhu et.al.|[2507.17351](http://arxiv.org/abs/2507.17351)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-19**|**DiSCO-3D : Discovering and segmenting Sub-Concepts from Open-vocabulary queries in NeRF**|Doriand Petit et.al.|[2507.14596](http://arxiv.org/abs/2507.14596)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
